@@ -1,0 +1,1001 @@
+supplier_id,supplier_name,unit_price,delivery_days,reliability_score,availability_score,approval_status,risk_level
+SUP0001,MediSource Healthcare 1,2.24,6,83,94,Approved,Low
+SUP0002,HealthCorp India 1,2.42,5,84,95,Approved,High
+SUP0003,MedSupply 1,1.81,9,90,84,Approved,Low
+SUP0004,PharmaLink 1,2.19,2,83,83,Approved,Medium
+SUP0005,Apollo MedTrade 1,1.81,10,86,97,Approved,Low
+SUP0006,CarePlus Pharma 1,1.89,6,91,91,Approved,High
+SUP0007,PrimeMed Distributors 1,1.82,9,80,82,Approved,Low
+SUP0008,LifeLine Medical Supply 1,2.07,8,87,85,Approved,Low
+SUP0009,NovaPharm Distribution 1,2.11,7,82,85,Under Watch,Medium
+SUP0010,MedAxis Healthcare 1,2.29,2,81,80,Under Watch,Low
+SUP0011,VitalCare Suppliers 1,1.79,2,93,99,Under Watch,Medium
+SUP0012,HealthBridge Pharma 1,1.68,6,98,80,Under Watch,Low
+SUP0013,WellMed Distributors 1,1.62,8,80,87,Approved,Medium
+SUP0014,TrustMed Healthcare 1,2.42,8,80,87,Approved,High
+SUP0015,MedCore Supply 1,1.51,4,90,93,Under Watch,Medium
+SUP0016,RapidCare Medical 1,2.16,4,75,91,Approved,Low
+SUP0017,HealthFirst Pharma 1,2.09,3,85,88,Approved,Medium
+SUP0018,GlobalMed Distributors 1,1.9,4,85,99,Approved,High
+SUP0019,SafeMeds Healthcare 1,2.02,8,89,89,Approved,Low
+SUP0020,Regional Pharma Supply 1,2.45,4,76,91,Approved,Medium
+SUP0021,MediSource Healthcare 2,1.65,2,83,84,Approved,High
+SUP0022,HealthCorp India 2,2.31,8,91,95,Approved,Low
+SUP0023,MedSupply 2,1.69,9,92,80,Approved,Low
+SUP0024,PharmaLink 2,2.42,5,98,97,Approved,Low
+SUP0025,Apollo MedTrade 2,1.97,3,97,81,Under Watch,Low
+SUP0026,CarePlus Pharma 2,1.96,10,82,95,Approved,High
+SUP0027,PrimeMed Distributors 2,1.69,9,97,82,Approved,Low
+SUP0028,LifeLine Medical Supply 2,1.51,2,85,93,Under Watch,Low
+SUP0029,NovaPharm Distribution 2,2.07,3,97,93,Approved,Low
+SUP0030,MedAxis Healthcare 2,1.76,9,77,98,Approved,Low
+SUP0031,VitalCare Suppliers 2,1.93,4,93,88,Under Watch,Low
+SUP0032,HealthBridge Pharma 2,1.75,2,77,92,Approved,Low
+SUP0033,WellMed Distributors 2,1.65,9,96,80,Under Watch,Low
+SUP0034,TrustMed Healthcare 2,1.68,5,97,80,Approved,Low
+SUP0035,MedCore Supply 2,1.74,2,96,91,Approved,Low
+SUP0036,RapidCare Medical 2,1.96,10,78,94,Under Watch,High
+SUP0037,HealthFirst Pharma 2,2.03,8,88,94,Approved,Low
+SUP0038,GlobalMed Distributors 2,2.21,9,81,82,Approved,Low
+SUP0039,SafeMeds Healthcare 2,1.65,8,78,80,Approved,Medium
+SUP0040,Regional Pharma Supply 2,2.34,6,80,93,Approved,Low
+SUP0041,MediSource Healthcare 3,1.84,4,95,96,Approved,Low
+SUP0042,HealthCorp India 3,2.14,8,75,99,Approved,Low
+SUP0043,MedSupply 3,2.43,5,89,85,Approved,Medium
+SUP0044,PharmaLink 3,1.52,4,80,85,Approved,High
+SUP0045,Apollo MedTrade 3,1.55,6,85,86,Approved,Medium
+SUP0046,CarePlus Pharma 3,1.88,6,85,88,Under Watch,Low
+SUP0047,PrimeMed Distributors 3,2.15,5,83,88,Approved,Low
+SUP0048,LifeLine Medical Supply 3,1.74,7,75,90,Under Watch,High
+SUP0049,NovaPharm Distribution 3,1.58,7,90,95,Approved,Low
+SUP0050,MedAxis Healthcare 3,2.09,9,95,96,Approved,Medium
+SUP0051,VitalCare Suppliers 3,2.17,8,75,93,Under Watch,High
+SUP0052,HealthBridge Pharma 3,1.99,2,89,91,Approved,Low
+SUP0053,WellMed Distributors 3,1.76,2,89,89,Approved,High
+SUP0054,TrustMed Healthcare 3,2.03,5,90,93,Approved,High
+SUP0055,MedCore Supply 3,2.08,4,85,93,Approved,Low
+SUP0056,RapidCare Medical 3,1.63,4,85,93,Approved,Low
+SUP0057,HealthFirst Pharma 3,2.18,10,93,84,Approved,High
+SUP0058,GlobalMed Distributors 3,1.97,4,93,85,Approved,High
+SUP0059,SafeMeds Healthcare 3,2.22,3,99,96,Under Watch,Medium
+SUP0060,Regional Pharma Supply 3,2.29,2,96,90,Approved,Medium
+SUP0061,MediSource Healthcare 4,2.34,8,78,93,Under Watch,High
+SUP0062,HealthCorp India 4,1.7,9,93,91,Approved,Low
+SUP0063,MedSupply 4,2.07,7,80,91,Approved,High
+SUP0064,PharmaLink 4,2.0,7,94,86,Under Watch,Low
+SUP0065,Apollo MedTrade 4,2.0,6,81,85,Approved,Low
+SUP0066,CarePlus Pharma 4,1.96,2,88,87,Approved,Low
+SUP0067,PrimeMed Distributors 4,2.26,2,79,97,Under Watch,Low
+SUP0068,LifeLine Medical Supply 4,2.34,7,80,94,Approved,Low
+SUP0069,NovaPharm Distribution 4,1.96,2,77,86,Approved,Low
+SUP0070,MedAxis Healthcare 4,1.97,6,88,81,Approved,Low
+SUP0071,VitalCare Suppliers 4,1.99,3,94,94,Approved,High
+SUP0072,HealthBridge Pharma 4,2.05,10,84,95,Approved,Low
+SUP0073,WellMed Distributors 4,1.99,8,85,86,Approved,Low
+SUP0074,TrustMed Healthcare 4,2.28,6,85,80,Approved,Low
+SUP0075,MedCore Supply 4,1.56,2,89,86,Approved,Low
+SUP0076,RapidCare Medical 4,2.28,9,95,97,Approved,Low
+SUP0077,HealthFirst Pharma 4,2.33,10,84,91,Under Watch,Low
+SUP0078,GlobalMed Distributors 4,2.45,4,94,99,Under Watch,High
+SUP0079,SafeMeds Healthcare 4,2.48,9,92,98,Approved,Low
+SUP0080,Regional Pharma Supply 4,2.31,6,81,82,Approved,Low
+SUP0081,MediSource Healthcare 5,1.81,7,85,94,Approved,Medium
+SUP0082,HealthCorp India 5,2.06,6,88,82,Approved,Low
+SUP0083,MedSupply 5,2.13,6,85,92,Approved,Low
+SUP0084,PharmaLink 5,2.15,9,77,96,Approved,Medium
+SUP0085,Apollo MedTrade 5,1.94,4,78,97,Approved,Medium
+SUP0086,CarePlus Pharma 5,2.07,3,99,91,Under Watch,Low
+SUP0087,PrimeMed Distributors 5,2.31,9,78,87,Under Watch,High
+SUP0088,LifeLine Medical Supply 5,2.17,9,93,94,Under Watch,Low
+SUP0089,NovaPharm Distribution 5,1.84,3,91,99,Approved,Low
+SUP0090,MedAxis Healthcare 5,2.39,6,84,90,Approved,High
+SUP0091,VitalCare Suppliers 5,2.32,2,78,90,Approved,Low
+SUP0092,HealthBridge Pharma 5,2.23,10,92,85,Approved,Low
+SUP0093,WellMed Distributors 5,1.64,8,87,98,Approved,Low
+SUP0094,TrustMed Healthcare 5,2.4,7,81,92,Approved,Medium
+SUP0095,MedCore Supply 5,2.09,8,84,92,Approved,High
+SUP0096,RapidCare Medical 5,2.0,7,75,80,Approved,Medium
+SUP0097,HealthFirst Pharma 5,1.92,9,87,85,Under Watch,Medium
+SUP0098,GlobalMed Distributors 5,1.96,3,97,81,Under Watch,High
+SUP0099,SafeMeds Healthcare 5,2.1,3,98,92,Approved,Low
+SUP0100,Regional Pharma Supply 5,2.15,3,85,92,Approved,Low
+SUP0101,MediSource Healthcare 6,2.33,6,85,84,Approved,Low
+SUP0102,HealthCorp India 6,1.72,10,93,90,Approved,Medium
+SUP0103,MedSupply 6,2.01,9,83,94,Under Watch,Low
+SUP0104,PharmaLink 6,1.83,10,89,83,Under Watch,Low
+SUP0105,Apollo MedTrade 6,2.32,3,79,88,Approved,Low
+SUP0106,CarePlus Pharma 6,1.69,9,76,82,Approved,Medium
+SUP0107,PrimeMed Distributors 6,2.43,9,88,81,Approved,High
+SUP0108,LifeLine Medical Supply 6,2.14,7,88,81,Under Watch,Low
+SUP0109,NovaPharm Distribution 6,1.77,10,90,87,Under Watch,Low
+SUP0110,MedAxis Healthcare 6,2.09,8,92,91,Under Watch,Medium
+SUP0111,VitalCare Suppliers 6,2.24,10,88,91,Approved,High
+SUP0112,HealthBridge Pharma 6,2.05,7,86,90,Under Watch,High
+SUP0113,WellMed Distributors 6,2.34,6,76,95,Under Watch,Medium
+SUP0114,TrustMed Healthcare 6,1.92,4,84,83,Approved,High
+SUP0115,MedCore Supply 6,1.74,2,86,94,Approved,Low
+SUP0116,RapidCare Medical 6,1.78,4,79,98,Under Watch,Low
+SUP0117,HealthFirst Pharma 6,2.47,3,99,81,Approved,Low
+SUP0118,GlobalMed Distributors 6,1.55,3,96,88,Under Watch,High
+SUP0119,SafeMeds Healthcare 6,2.43,7,81,91,Approved,Low
+SUP0120,Regional Pharma Supply 6,2.34,10,99,97,Approved,Medium
+SUP0121,MediSource Healthcare 7,1.62,6,92,80,Approved,High
+SUP0122,HealthCorp India 7,2.19,4,84,89,Approved,High
+SUP0123,MedSupply 7,2.48,10,98,81,Under Watch,Low
+SUP0124,PharmaLink 7,1.81,2,86,97,Approved,Low
+SUP0125,Apollo MedTrade 7,2.21,5,75,88,Approved,Low
+SUP0126,CarePlus Pharma 7,1.88,10,81,85,Under Watch,Medium
+SUP0127,PrimeMed Distributors 7,2.22,4,99,92,Approved,Low
+SUP0128,LifeLine Medical Supply 7,1.93,7,83,91,Approved,Medium
+SUP0129,NovaPharm Distribution 7,1.52,9,95,87,Approved,Low
+SUP0130,MedAxis Healthcare 7,2.05,7,90,86,Under Watch,Low
+SUP0131,VitalCare Suppliers 7,2.27,9,92,89,Approved,Low
+SUP0132,HealthBridge Pharma 7,2.24,7,92,80,Approved,Medium
+SUP0133,WellMed Distributors 7,1.72,4,81,81,Approved,Low
+SUP0134,TrustMed Healthcare 7,2.08,10,90,94,Approved,Low
+SUP0135,MedCore Supply 7,1.85,10,98,88,Approved,Low
+SUP0136,RapidCare Medical 7,1.74,8,85,81,Approved,Low
+SUP0137,HealthFirst Pharma 7,1.51,3,91,82,Under Watch,High
+SUP0138,GlobalMed Distributors 7,1.51,10,76,99,Approved,Medium
+SUP0139,SafeMeds Healthcare 7,2.15,6,90,86,Approved,Low
+SUP0140,Regional Pharma Supply 7,2.15,7,93,88,Approved,Low
+SUP0141,MediSource Healthcare 8,1.76,6,85,84,Approved,High
+SUP0142,HealthCorp India 8,2.42,8,89,80,Under Watch,Low
+SUP0143,MedSupply 8,1.78,9,78,96,Approved,Low
+SUP0144,PharmaLink 8,1.56,7,93,86,Under Watch,Low
+SUP0145,Apollo MedTrade 8,2.26,3,98,82,Approved,Low
+SUP0146,CarePlus Pharma 8,2.47,2,76,81,Approved,Low
+SUP0147,PrimeMed Distributors 8,1.97,5,84,80,Approved,Low
+SUP0148,LifeLine Medical Supply 8,2.01,3,95,83,Approved,Low
+SUP0149,NovaPharm Distribution 8,2.29,4,97,84,Approved,Low
+SUP0150,MedAxis Healthcare 8,2.26,4,90,96,Approved,Low
+SUP0151,VitalCare Suppliers 8,1.9,2,92,83,Approved,Low
+SUP0152,HealthBridge Pharma 8,2.01,2,84,84,Approved,Low
+SUP0153,WellMed Distributors 8,2.34,2,77,98,Approved,Low
+SUP0154,TrustMed Healthcare 8,1.8,6,98,93,Under Watch,High
+SUP0155,MedCore Supply 8,1.72,3,89,91,Under Watch,Low
+SUP0156,RapidCare Medical 8,1.59,7,83,88,Approved,Medium
+SUP0157,HealthFirst Pharma 8,1.94,5,92,91,Approved,High
+SUP0158,GlobalMed Distributors 8,1.55,7,91,85,Approved,Low
+SUP0159,SafeMeds Healthcare 8,2.15,5,82,97,Approved,Medium
+SUP0160,Regional Pharma Supply 8,1.69,5,90,82,Under Watch,Low
+SUP0161,MediSource Healthcare 9,1.97,9,81,93,Approved,Medium
+SUP0162,HealthCorp India 9,1.96,5,95,85,Approved,High
+SUP0163,MedSupply 9,2.43,3,85,91,Approved,Medium
+SUP0164,PharmaLink 9,2.35,8,99,87,Under Watch,High
+SUP0165,Apollo MedTrade 9,2.18,4,81,85,Approved,Medium
+SUP0166,CarePlus Pharma 9,1.88,4,91,97,Approved,Low
+SUP0167,PrimeMed Distributors 9,1.9,8,93,87,Under Watch,Medium
+SUP0168,LifeLine Medical Supply 9,1.54,3,92,90,Approved,Medium
+SUP0169,NovaPharm Distribution 9,2.41,8,79,99,Approved,Low
+SUP0170,MedAxis Healthcare 9,2.45,6,79,99,Approved,Low
+SUP0171,VitalCare Suppliers 9,2.41,6,76,81,Under Watch,Medium
+SUP0172,HealthBridge Pharma 9,1.81,9,83,93,Approved,Low
+SUP0173,WellMed Distributors 9,1.72,10,89,91,Approved,Low
+SUP0174,TrustMed Healthcare 9,2.49,3,96,96,Approved,Low
+SUP0175,MedCore Supply 9,1.85,8,98,86,Approved,Low
+SUP0176,RapidCare Medical 9,1.54,9,87,81,Approved,Low
+SUP0177,HealthFirst Pharma 9,2.43,6,98,98,Approved,High
+SUP0178,GlobalMed Distributors 9,1.84,4,86,81,Under Watch,Medium
+SUP0179,SafeMeds Healthcare 9,2.14,6,98,90,Approved,Medium
+SUP0180,Regional Pharma Supply 9,2.32,4,99,81,Approved,Low
+SUP0181,MediSource Healthcare 10,2.09,6,94,94,Under Watch,Low
+SUP0182,HealthCorp India 10,1.54,3,76,96,Approved,High
+SUP0183,MedSupply 10,1.99,8,83,90,Approved,Low
+SUP0184,PharmaLink 10,2.31,3,84,82,Approved,Low
+SUP0185,Apollo MedTrade 10,2.41,10,80,96,Approved,High
+SUP0186,CarePlus Pharma 10,1.88,3,92,94,Approved,Medium
+SUP0187,PrimeMed Distributors 10,2.28,9,85,98,Approved,Low
+SUP0188,LifeLine Medical Supply 10,2.01,4,96,99,Approved,Low
+SUP0189,NovaPharm Distribution 10,1.88,10,75,81,Under Watch,Medium
+SUP0190,MedAxis Healthcare 10,1.76,8,82,87,Approved,Low
+SUP0191,VitalCare Suppliers 10,2.11,8,85,98,Approved,Medium
+SUP0192,HealthBridge Pharma 10,1.81,2,92,85,Approved,Low
+SUP0193,WellMed Distributors 10,1.83,4,98,90,Approved,Low
+SUP0194,TrustMed Healthcare 10,1.6,7,83,94,Under Watch,High
+SUP0195,MedCore Supply 10,1.69,4,89,85,Approved,High
+SUP0196,RapidCare Medical 10,1.78,5,79,85,Approved,Medium
+SUP0197,HealthFirst Pharma 10,2.38,8,96,96,Approved,Low
+SUP0198,GlobalMed Distributors 10,1.59,10,86,81,Approved,Low
+SUP0199,SafeMeds Healthcare 10,1.64,6,76,83,Under Watch,Low
+SUP0200,Regional Pharma Supply 10,2.46,5,92,87,Approved,High
+SUP0201,MediSource Healthcare 11,2.19,7,94,92,Approved,Low
+SUP0202,HealthCorp India 11,2.32,8,95,85,Under Watch,Low
+SUP0203,MedSupply 11,2.01,8,96,98,Under Watch,Low
+SUP0204,PharmaLink 11,2.49,6,83,92,Approved,Low
+SUP0205,Apollo MedTrade 11,1.76,5,94,82,Approved,High
+SUP0206,CarePlus Pharma 11,2.49,4,97,93,Approved,Low
+SUP0207,PrimeMed Distributors 11,1.55,6,93,97,Under Watch,Medium
+SUP0208,LifeLine Medical Supply 11,2.27,10,86,96,Approved,Low
+SUP0209,NovaPharm Distribution 11,1.51,8,85,97,Approved,Low
+SUP0210,MedAxis Healthcare 11,1.85,2,90,81,Under Watch,Medium
+SUP0211,VitalCare Suppliers 11,1.93,6,87,84,Under Watch,Medium
+SUP0212,HealthBridge Pharma 11,2.22,5,79,98,Approved,Low
+SUP0213,WellMed Distributors 11,2.48,9,79,86,Approved,Low
+SUP0214,TrustMed Healthcare 11,1.65,7,84,95,Under Watch,Low
+SUP0215,MedCore Supply 11,1.99,6,77,93,Approved,Medium
+SUP0216,RapidCare Medical 11,1.96,10,87,92,Approved,Low
+SUP0217,HealthFirst Pharma 11,2.4,2,90,89,Approved,High
+SUP0218,GlobalMed Distributors 11,1.61,4,91,90,Under Watch,High
+SUP0219,SafeMeds Healthcare 11,2.09,10,82,92,Approved,Low
+SUP0220,Regional Pharma Supply 11,1.6,8,82,96,Approved,High
+SUP0221,MediSource Healthcare 12,2.39,5,77,98,Under Watch,Low
+SUP0222,HealthCorp India 12,2.41,10,79,89,Under Watch,Medium
+SUP0223,MedSupply 12,1.54,2,89,81,Approved,High
+SUP0224,PharmaLink 12,1.58,3,82,89,Approved,Low
+SUP0225,Apollo MedTrade 12,1.63,4,84,90,Approved,High
+SUP0226,CarePlus Pharma 12,2.13,9,85,97,Approved,Medium
+SUP0227,PrimeMed Distributors 12,1.93,7,83,85,Approved,Low
+SUP0228,LifeLine Medical Supply 12,1.78,8,83,96,Approved,Low
+SUP0229,NovaPharm Distribution 12,2.08,3,82,84,Approved,Medium
+SUP0230,MedAxis Healthcare 12,2.19,2,89,99,Approved,Low
+SUP0231,VitalCare Suppliers 12,1.98,7,92,93,Approved,Medium
+SUP0232,HealthBridge Pharma 12,1.78,5,79,82,Approved,Low
+SUP0233,WellMed Distributors 12,2.28,8,76,80,Approved,Medium
+SUP0234,TrustMed Healthcare 12,1.87,9,75,96,Under Watch,Low
+SUP0235,MedCore Supply 12,2.43,5,96,97,Approved,Low
+SUP0236,RapidCare Medical 12,2.14,8,83,86,Under Watch,Medium
+SUP0237,HealthFirst Pharma 12,2.47,8,78,89,Approved,High
+SUP0238,GlobalMed Distributors 12,2.18,5,90,85,Approved,Low
+SUP0239,SafeMeds Healthcare 12,2.38,3,75,93,Approved,Medium
+SUP0240,Regional Pharma Supply 12,2.11,6,80,88,Approved,Medium
+SUP0241,MediSource Healthcare 13,2.27,4,87,93,Approved,Low
+SUP0242,HealthCorp India 13,2.1,3,86,86,Under Watch,Low
+SUP0243,MedSupply 13,1.6,2,81,83,Approved,Low
+SUP0244,PharmaLink 13,2.02,3,87,93,Approved,Low
+SUP0245,Apollo MedTrade 13,2.41,10,92,95,Approved,Low
+SUP0246,CarePlus Pharma 13,1.55,10,99,81,Approved,Low
+SUP0247,PrimeMed Distributors 13,2.09,7,94,90,Under Watch,Medium
+SUP0248,LifeLine Medical Supply 13,2.38,10,86,94,Under Watch,Low
+SUP0249,NovaPharm Distribution 13,1.84,6,78,99,Under Watch,Low
+SUP0250,MedAxis Healthcare 13,1.62,7,87,92,Approved,Low
+SUP0251,VitalCare Suppliers 13,1.83,2,96,83,Approved,Low
+SUP0252,HealthBridge Pharma 13,1.57,10,82,93,Approved,High
+SUP0253,WellMed Distributors 13,1.53,3,94,97,Approved,Medium
+SUP0254,TrustMed Healthcare 13,1.5,10,83,99,Under Watch,High
+SUP0255,MedCore Supply 13,1.6,7,88,82,Approved,Low
+SUP0256,RapidCare Medical 13,2.04,10,85,94,Approved,High
+SUP0257,HealthFirst Pharma 13,1.96,9,97,96,Under Watch,Medium
+SUP0258,GlobalMed Distributors 13,1.62,9,83,93,Approved,Low
+SUP0259,SafeMeds Healthcare 13,2.28,8,86,87,Under Watch,High
+SUP0260,Regional Pharma Supply 13,1.56,8,86,85,Approved,Low
+SUP0261,MediSource Healthcare 14,2.11,8,97,93,Under Watch,Low
+SUP0262,HealthCorp India 14,1.66,6,76,84,Approved,High
+SUP0263,MedSupply 14,2.14,7,92,84,Approved,Low
+SUP0264,PharmaLink 14,2.12,6,92,83,Under Watch,High
+SUP0265,Apollo MedTrade 14,1.94,6,93,98,Approved,Low
+SUP0266,CarePlus Pharma 14,1.97,8,83,84,Approved,Low
+SUP0267,PrimeMed Distributors 14,1.57,2,99,84,Approved,Medium
+SUP0268,LifeLine Medical Supply 14,2.12,9,98,95,Approved,Low
+SUP0269,NovaPharm Distribution 14,1.86,10,97,84,Under Watch,Low
+SUP0270,MedAxis Healthcare 14,1.79,10,84,90,Approved,High
+SUP0271,VitalCare Suppliers 14,1.69,2,78,95,Approved,Low
+SUP0272,HealthBridge Pharma 14,1.89,9,86,98,Approved,Low
+SUP0273,WellMed Distributors 14,2.09,2,89,84,Approved,Medium
+SUP0274,TrustMed Healthcare 14,1.63,7,88,91,Approved,Medium
+SUP0275,MedCore Supply 14,1.71,9,76,93,Approved,High
+SUP0276,RapidCare Medical 14,1.71,8,98,97,Approved,Medium
+SUP0277,HealthFirst Pharma 14,2.42,3,79,93,Under Watch,Low
+SUP0278,GlobalMed Distributors 14,2.26,4,98,96,Approved,Medium
+SUP0279,SafeMeds Healthcare 14,2.09,7,78,89,Approved,Low
+SUP0280,Regional Pharma Supply 14,2.29,10,84,89,Approved,Low
+SUP0281,MediSource Healthcare 15,2.16,7,78,88,Approved,High
+SUP0282,HealthCorp India 15,2.5,10,82,85,Approved,Low
+SUP0283,MedSupply 15,1.57,7,85,88,Approved,High
+SUP0284,PharmaLink 15,2.34,8,99,83,Approved,Medium
+SUP0285,Apollo MedTrade 15,1.68,8,86,92,Approved,Low
+SUP0286,CarePlus Pharma 15,1.64,3,90,85,Approved,Low
+SUP0287,PrimeMed Distributors 15,2.34,6,98,86,Approved,Low
+SUP0288,LifeLine Medical Supply 15,1.53,4,78,82,Approved,Low
+SUP0289,NovaPharm Distribution 15,1.84,5,95,86,Approved,Low
+SUP0290,MedAxis Healthcare 15,2.38,9,84,86,Approved,Low
+SUP0291,VitalCare Suppliers 15,1.83,5,82,95,Approved,Low
+SUP0292,HealthBridge Pharma 15,1.56,4,95,86,Approved,Low
+SUP0293,WellMed Distributors 15,1.84,4,97,99,Approved,Low
+SUP0294,TrustMed Healthcare 15,1.71,6,92,92,Approved,Low
+SUP0295,MedCore Supply 15,1.89,6,95,95,Approved,Low
+SUP0296,RapidCare Medical 15,2.42,3,75,97,Under Watch,High
+SUP0297,HealthFirst Pharma 15,1.66,2,93,98,Under Watch,Medium
+SUP0298,GlobalMed Distributors 15,1.83,3,76,86,Approved,Low
+SUP0299,SafeMeds Healthcare 15,1.94,5,80,89,Approved,High
+SUP0300,Regional Pharma Supply 15,2.21,4,98,90,Approved,High
+SUP0301,MediSource Healthcare 16,2.03,4,80,87,Approved,Low
+SUP0302,HealthCorp India 16,2.41,6,89,85,Approved,Low
+SUP0303,MedSupply 16,2.34,9,76,96,Approved,Low
+SUP0304,PharmaLink 16,2.09,5,75,96,Approved,Medium
+SUP0305,Apollo MedTrade 16,2.28,5,91,89,Approved,Low
+SUP0306,CarePlus Pharma 16,2.19,4,91,85,Under Watch,Medium
+SUP0307,PrimeMed Distributors 16,1.57,2,89,91,Approved,Low
+SUP0308,LifeLine Medical Supply 16,1.74,4,87,88,Approved,Low
+SUP0309,NovaPharm Distribution 16,1.94,9,79,81,Approved,Low
+SUP0310,MedAxis Healthcare 16,2.13,4,99,83,Approved,Low
+SUP0311,VitalCare Suppliers 16,1.9,5,79,92,Approved,Low
+SUP0312,HealthBridge Pharma 16,1.75,2,79,97,Under Watch,Low
+SUP0313,WellMed Distributors 16,1.76,4,82,86,Under Watch,Low
+SUP0314,TrustMed Healthcare 16,2.04,8,78,82,Under Watch,Low
+SUP0315,MedCore Supply 16,2.35,4,91,97,Under Watch,Low
+SUP0316,RapidCare Medical 16,1.5,3,96,85,Approved,Low
+SUP0317,HealthFirst Pharma 16,1.56,7,84,97,Approved,Low
+SUP0318,GlobalMed Distributors 16,2.47,8,75,81,Approved,Low
+SUP0319,SafeMeds Healthcare 16,1.76,2,83,83,Under Watch,High
+SUP0320,Regional Pharma Supply 16,1.66,10,85,87,Approved,Low
+SUP0321,MediSource Healthcare 17,1.72,10,92,84,Approved,Low
+SUP0322,HealthCorp India 17,1.86,8,81,93,Approved,Medium
+SUP0323,MedSupply 17,2.2,3,88,83,Approved,High
+SUP0324,PharmaLink 17,1.78,5,92,86,Approved,Low
+SUP0325,Apollo MedTrade 17,1.87,10,82,97,Under Watch,Medium
+SUP0326,CarePlus Pharma 17,1.92,10,81,84,Approved,High
+SUP0327,PrimeMed Distributors 17,2.05,9,78,80,Approved,Low
+SUP0328,LifeLine Medical Supply 17,1.89,8,89,92,Approved,Low
+SUP0329,NovaPharm Distribution 17,1.84,7,95,97,Approved,Low
+SUP0330,MedAxis Healthcare 17,1.7,9,89,97,Approved,Low
+SUP0331,VitalCare Suppliers 17,1.74,8,90,80,Approved,Low
+SUP0332,HealthBridge Pharma 17,2.48,10,84,92,Under Watch,Low
+SUP0333,WellMed Distributors 17,1.86,9,79,84,Approved,Low
+SUP0334,TrustMed Healthcare 17,1.99,2,91,95,Approved,Low
+SUP0335,MedCore Supply 17,1.77,10,79,99,Approved,Low
+SUP0336,RapidCare Medical 17,1.74,6,79,94,Under Watch,Low
+SUP0337,HealthFirst Pharma 17,1.67,7,99,99,Approved,Medium
+SUP0338,GlobalMed Distributors 17,1.59,7,99,83,Approved,Low
+SUP0339,SafeMeds Healthcare 17,1.84,5,90,87,Approved,Medium
+SUP0340,Regional Pharma Supply 17,1.52,4,81,82,Approved,High
+SUP0341,MediSource Healthcare 18,2.2,10,91,92,Under Watch,Medium
+SUP0342,HealthCorp India 18,2.08,6,83,93,Approved,Medium
+SUP0343,MedSupply 18,2.16,4,81,86,Approved,High
+SUP0344,PharmaLink 18,1.63,8,88,82,Approved,High
+SUP0345,Apollo MedTrade 18,1.51,5,96,82,Approved,Low
+SUP0346,CarePlus Pharma 18,1.8,7,91,95,Approved,Low
+SUP0347,PrimeMed Distributors 18,2.16,7,80,84,Approved,High
+SUP0348,LifeLine Medical Supply 18,2.27,5,80,93,Approved,Low
+SUP0349,NovaPharm Distribution 18,2.46,5,83,92,Approved,Low
+SUP0350,MedAxis Healthcare 18,1.85,8,83,90,Approved,Low
+SUP0351,VitalCare Suppliers 18,1.96,6,86,93,Approved,Medium
+SUP0352,HealthBridge Pharma 18,1.77,4,93,83,Approved,Low
+SUP0353,WellMed Distributors 18,1.79,2,88,90,Approved,Low
+SUP0354,TrustMed Healthcare 18,2.05,2,93,85,Approved,Low
+SUP0355,MedCore Supply 18,1.72,10,80,99,Approved,High
+SUP0356,RapidCare Medical 18,1.53,10,89,80,Approved,High
+SUP0357,HealthFirst Pharma 18,1.65,4,89,95,Approved,Low
+SUP0358,GlobalMed Distributors 18,1.67,9,79,93,Under Watch,Low
+SUP0359,SafeMeds Healthcare 18,1.78,5,91,85,Approved,Medium
+SUP0360,Regional Pharma Supply 18,2.0,5,92,93,Under Watch,Low
+SUP0361,MediSource Healthcare 19,1.59,4,99,86,Under Watch,Medium
+SUP0362,HealthCorp India 19,2.43,10,84,97,Approved,High
+SUP0363,MedSupply 19,2.4,9,87,96,Approved,Low
+SUP0364,PharmaLink 19,2.22,10,80,87,Under Watch,Low
+SUP0365,Apollo MedTrade 19,1.75,3,89,80,Under Watch,Low
+SUP0366,CarePlus Pharma 19,2.35,3,78,87,Approved,Medium
+SUP0367,PrimeMed Distributors 19,1.73,2,78,96,Under Watch,High
+SUP0368,LifeLine Medical Supply 19,2.36,4,76,82,Approved,Low
+SUP0369,NovaPharm Distribution 19,2.13,8,94,98,Approved,Medium
+SUP0370,MedAxis Healthcare 19,1.82,6,86,95,Approved,Medium
+SUP0371,VitalCare Suppliers 19,1.73,7,75,98,Approved,Medium
+SUP0372,HealthBridge Pharma 19,2.0,9,77,96,Approved,Low
+SUP0373,WellMed Distributors 19,2.29,10,75,80,Approved,Low
+SUP0374,TrustMed Healthcare 19,2.02,4,98,94,Approved,Low
+SUP0375,MedCore Supply 19,2.08,8,88,87,Approved,High
+SUP0376,RapidCare Medical 19,2.38,2,87,80,Approved,Low
+SUP0377,HealthFirst Pharma 19,2.21,8,87,94,Under Watch,High
+SUP0378,GlobalMed Distributors 19,2.14,4,89,93,Approved,Medium
+SUP0379,SafeMeds Healthcare 19,2.08,5,76,99,Under Watch,Low
+SUP0380,Regional Pharma Supply 19,2.07,7,93,92,Under Watch,Low
+SUP0381,MediSource Healthcare 20,1.8,4,85,98,Approved,Low
+SUP0382,HealthCorp India 20,1.78,6,84,87,Approved,Medium
+SUP0383,MedSupply 20,2.26,3,78,94,Under Watch,Medium
+SUP0384,PharmaLink 20,2.19,2,84,91,Approved,Low
+SUP0385,Apollo MedTrade 20,1.69,5,92,86,Under Watch,Low
+SUP0386,CarePlus Pharma 20,1.94,9,97,82,Approved,High
+SUP0387,PrimeMed Distributors 20,2.11,6,84,83,Approved,Low
+SUP0388,LifeLine Medical Supply 20,2.0,2,84,89,Under Watch,Low
+SUP0389,NovaPharm Distribution 20,1.61,9,87,85,Approved,High
+SUP0390,MedAxis Healthcare 20,1.73,2,89,87,Approved,Low
+SUP0391,VitalCare Suppliers 20,2.08,2,95,98,Approved,Low
+SUP0392,HealthBridge Pharma 20,1.84,5,99,96,Under Watch,Low
+SUP0393,WellMed Distributors 20,2.38,6,82,94,Approved,Low
+SUP0394,TrustMed Healthcare 20,2.0,5,99,85,Approved,Low
+SUP0395,MedCore Supply 20,1.68,4,87,82,Approved,High
+SUP0396,RapidCare Medical 20,1.51,3,79,91,Approved,Low
+SUP0397,HealthFirst Pharma 20,2.24,7,97,86,Approved,Low
+SUP0398,GlobalMed Distributors 20,1.67,10,77,95,Approved,Low
+SUP0399,SafeMeds Healthcare 20,1.53,4,95,92,Approved,High
+SUP0400,Regional Pharma Supply 20,2.16,10,78,80,Approved,High
+SUP0401,MediSource Healthcare 21,2.06,7,95,92,Approved,Low
+SUP0402,HealthCorp India 21,2.3,4,88,92,Under Watch,Low
+SUP0403,MedSupply 21,1.9,8,82,83,Under Watch,Low
+SUP0404,PharmaLink 21,1.74,2,92,93,Approved,Low
+SUP0405,Apollo MedTrade 21,2.41,3,96,82,Under Watch,Low
+SUP0406,CarePlus Pharma 21,1.84,10,97,92,Under Watch,Low
+SUP0407,PrimeMed Distributors 21,2.45,6,83,95,Approved,Low
+SUP0408,LifeLine Medical Supply 21,2.34,4,83,93,Approved,Low
+SUP0409,NovaPharm Distribution 21,2.3,3,93,97,Under Watch,High
+SUP0410,MedAxis Healthcare 21,2.33,7,79,84,Approved,Low
+SUP0411,VitalCare Suppliers 21,2.37,9,92,88,Under Watch,Low
+SUP0412,HealthBridge Pharma 21,1.66,9,89,98,Approved,High
+SUP0413,WellMed Distributors 21,2.34,6,82,85,Approved,High
+SUP0414,TrustMed Healthcare 21,1.69,10,88,97,Approved,Low
+SUP0415,MedCore Supply 21,1.78,10,82,94,Approved,Low
+SUP0416,RapidCare Medical 21,2.16,4,81,96,Approved,Low
+SUP0417,HealthFirst Pharma 21,2.08,7,90,87,Approved,Low
+SUP0418,GlobalMed Distributors 21,1.83,10,82,85,Approved,Low
+SUP0419,SafeMeds Healthcare 21,1.7,4,88,81,Approved,Low
+SUP0420,Regional Pharma Supply 21,2.26,8,81,94,Approved,Low
+SUP0421,MediSource Healthcare 22,1.6,4,80,92,Under Watch,Medium
+SUP0422,HealthCorp India 22,2.5,2,79,81,Approved,Low
+SUP0423,MedSupply 22,2.13,6,98,80,Approved,Medium
+SUP0424,PharmaLink 22,2.45,2,91,96,Under Watch,Low
+SUP0425,Apollo MedTrade 22,2.38,6,75,90,Approved,Low
+SUP0426,CarePlus Pharma 22,2.04,6,77,89,Approved,Low
+SUP0427,PrimeMed Distributors 22,2.13,4,81,92,Approved,Low
+SUP0428,LifeLine Medical Supply 22,1.79,2,79,98,Under Watch,Medium
+SUP0429,NovaPharm Distribution 22,2.14,2,81,86,Under Watch,Low
+SUP0430,MedAxis Healthcare 22,2.02,10,92,99,Under Watch,Medium
+SUP0431,VitalCare Suppliers 22,2.17,3,92,99,Approved,Medium
+SUP0432,HealthBridge Pharma 22,2.01,2,80,92,Approved,Low
+SUP0433,WellMed Distributors 22,2.21,4,75,94,Under Watch,Medium
+SUP0434,TrustMed Healthcare 22,2.24,2,85,95,Approved,High
+SUP0435,MedCore Supply 22,2.19,6,76,89,Under Watch,Low
+SUP0436,RapidCare Medical 22,2.4,6,84,81,Approved,High
+SUP0437,HealthFirst Pharma 22,2.2,5,98,87,Approved,Medium
+SUP0438,GlobalMed Distributors 22,2.26,7,76,85,Approved,Low
+SUP0439,SafeMeds Healthcare 22,1.7,6,79,82,Approved,Low
+SUP0440,Regional Pharma Supply 22,2.09,7,81,93,Approved,Medium
+SUP0441,MediSource Healthcare 23,1.52,5,80,81,Approved,Low
+SUP0442,HealthCorp India 23,1.6,7,92,96,Approved,Medium
+SUP0443,MedSupply 23,1.61,5,81,82,Approved,Low
+SUP0444,PharmaLink 23,1.5,9,82,88,Approved,High
+SUP0445,Apollo MedTrade 23,1.92,2,86,90,Approved,High
+SUP0446,CarePlus Pharma 23,1.74,6,93,93,Approved,Low
+SUP0447,PrimeMed Distributors 23,1.87,6,97,91,Approved,Low
+SUP0448,LifeLine Medical Supply 23,1.8,4,83,81,Approved,Low
+SUP0449,NovaPharm Distribution 23,1.59,6,95,92,Under Watch,High
+SUP0450,MedAxis Healthcare 23,2.46,10,78,90,Approved,Low
+SUP0451,VitalCare Suppliers 23,2.25,7,76,81,Approved,Low
+SUP0452,HealthBridge Pharma 23,1.78,7,80,89,Approved,Low
+SUP0453,WellMed Distributors 23,2.19,5,93,80,Approved,Low
+SUP0454,TrustMed Healthcare 23,2.15,10,93,89,Approved,Low
+SUP0455,MedCore Supply 23,2.35,2,83,91,Approved,Low
+SUP0456,RapidCare Medical 23,2.48,4,81,80,Approved,Low
+SUP0457,HealthFirst Pharma 23,1.94,6,87,89,Approved,Low
+SUP0458,GlobalMed Distributors 23,1.53,4,95,82,Under Watch,Low
+SUP0459,SafeMeds Healthcare 23,1.76,9,79,90,Approved,Low
+SUP0460,Regional Pharma Supply 23,2.28,4,77,88,Approved,Low
+SUP0461,MediSource Healthcare 24,2.49,9,91,84,Approved,Low
+SUP0462,HealthCorp India 24,1.57,6,84,88,Approved,Low
+SUP0463,MedSupply 24,1.69,9,81,89,Approved,Low
+SUP0464,PharmaLink 24,1.51,8,95,90,Under Watch,High
+SUP0465,Apollo MedTrade 24,1.94,10,85,92,Under Watch,Low
+SUP0466,CarePlus Pharma 24,1.81,2,88,88,Under Watch,Low
+SUP0467,PrimeMed Distributors 24,1.94,4,99,81,Approved,Low
+SUP0468,LifeLine Medical Supply 24,2.16,9,91,94,Under Watch,Low
+SUP0469,NovaPharm Distribution 24,2.0,7,88,81,Approved,Low
+SUP0470,MedAxis Healthcare 24,2.1,2,99,94,Approved,High
+SUP0471,VitalCare Suppliers 24,1.81,8,93,92,Approved,Low
+SUP0472,HealthBridge Pharma 24,1.54,6,79,94,Approved,Low
+SUP0473,WellMed Distributors 24,2.03,3,85,80,Under Watch,Low
+SUP0474,TrustMed Healthcare 24,1.65,6,81,93,Approved,Medium
+SUP0475,MedCore Supply 24,2.37,2,94,83,Approved,High
+SUP0476,RapidCare Medical 24,2.03,10,80,96,Under Watch,High
+SUP0477,HealthFirst Pharma 24,1.89,6,93,96,Approved,Low
+SUP0478,GlobalMed Distributors 24,2.06,7,79,91,Approved,Low
+SUP0479,SafeMeds Healthcare 24,1.6,5,85,98,Approved,Low
+SUP0480,Regional Pharma Supply 24,2.17,10,88,91,Approved,High
+SUP0481,MediSource Healthcare 25,1.88,2,85,95,Approved,High
+SUP0482,HealthCorp India 25,2.13,7,85,94,Approved,Low
+SUP0483,MedSupply 25,1.52,5,93,95,Approved,High
+SUP0484,PharmaLink 25,2.2,4,78,80,Under Watch,Low
+SUP0485,Apollo MedTrade 25,1.84,3,75,94,Approved,Medium
+SUP0486,CarePlus Pharma 25,2.41,6,90,94,Approved,Medium
+SUP0487,PrimeMed Distributors 25,2.49,8,93,97,Approved,Low
+SUP0488,LifeLine Medical Supply 25,1.85,10,93,85,Approved,High
+SUP0489,NovaPharm Distribution 25,2.3,4,96,88,Approved,Low
+SUP0490,MedAxis Healthcare 25,2.07,4,99,96,Approved,Low
+SUP0491,VitalCare Suppliers 25,1.75,5,99,92,Approved,High
+SUP0492,HealthBridge Pharma 25,1.58,9,87,90,Approved,Low
+SUP0493,WellMed Distributors 25,2.43,6,93,96,Under Watch,Low
+SUP0494,TrustMed Healthcare 25,1.8,5,97,83,Under Watch,Low
+SUP0495,MedCore Supply 25,1.94,3,82,83,Approved,High
+SUP0496,RapidCare Medical 25,2.08,4,97,83,Approved,Low
+SUP0497,HealthFirst Pharma 25,2.45,4,86,95,Under Watch,Low
+SUP0498,GlobalMed Distributors 25,1.79,5,93,91,Under Watch,High
+SUP0499,SafeMeds Healthcare 25,1.83,5,93,85,Approved,Medium
+SUP0500,Regional Pharma Supply 25,2.28,4,89,83,Approved,Low
+SUP0501,MediSource Healthcare 26,2.11,10,89,80,Approved,High
+SUP0502,HealthCorp India 26,2.05,4,76,96,Approved,High
+SUP0503,MedSupply 26,2.28,5,91,85,Under Watch,Low
+SUP0504,PharmaLink 26,1.66,3,77,80,Approved,Medium
+SUP0505,Apollo MedTrade 26,1.77,5,82,95,Approved,Low
+SUP0506,CarePlus Pharma 26,2.14,6,77,83,Approved,Medium
+SUP0507,PrimeMed Distributors 26,1.54,3,75,85,Approved,Low
+SUP0508,LifeLine Medical Supply 26,1.96,10,79,92,Under Watch,Low
+SUP0509,NovaPharm Distribution 26,2.3,8,78,91,Under Watch,High
+SUP0510,MedAxis Healthcare 26,1.52,9,97,91,Approved,Low
+SUP0511,VitalCare Suppliers 26,1.56,8,75,92,Approved,High
+SUP0512,HealthBridge Pharma 26,2.2,2,98,86,Under Watch,Low
+SUP0513,WellMed Distributors 26,1.71,2,95,98,Approved,Low
+SUP0514,TrustMed Healthcare 26,1.96,4,97,92,Approved,Low
+SUP0515,MedCore Supply 26,2.19,7,96,91,Under Watch,Low
+SUP0516,RapidCare Medical 26,2.17,5,99,96,Approved,Low
+SUP0517,HealthFirst Pharma 26,1.57,8,77,98,Approved,Low
+SUP0518,GlobalMed Distributors 26,2.47,3,75,85,Approved,Low
+SUP0519,SafeMeds Healthcare 26,1.5,3,84,90,Approved,Medium
+SUP0520,Regional Pharma Supply 26,1.64,9,95,85,Approved,Low
+SUP0521,MediSource Healthcare 27,2.1,8,85,97,Approved,Low
+SUP0522,HealthCorp India 27,2.24,8,78,95,Approved,Low
+SUP0523,MedSupply 27,1.53,5,98,94,Under Watch,High
+SUP0524,PharmaLink 27,1.54,8,94,80,Approved,Low
+SUP0525,Apollo MedTrade 27,2.24,5,98,82,Under Watch,Low
+SUP0526,CarePlus Pharma 27,1.82,6,99,89,Approved,Low
+SUP0527,PrimeMed Distributors 27,1.96,4,82,91,Under Watch,Low
+SUP0528,LifeLine Medical Supply 27,2.26,2,86,99,Approved,Low
+SUP0529,NovaPharm Distribution 27,1.52,8,79,95,Approved,Low
+SUP0530,MedAxis Healthcare 27,1.85,9,83,87,Approved,High
+SUP0531,VitalCare Suppliers 27,1.55,7,95,91,Approved,High
+SUP0532,HealthBridge Pharma 27,2.04,10,84,87,Approved,High
+SUP0533,WellMed Distributors 27,1.58,9,76,97,Under Watch,Medium
+SUP0534,TrustMed Healthcare 27,1.98,3,86,85,Approved,Low
+SUP0535,MedCore Supply 27,2.12,3,86,84,Under Watch,Medium
+SUP0536,RapidCare Medical 27,1.79,5,75,95,Approved,High
+SUP0537,HealthFirst Pharma 27,2.18,8,81,84,Approved,Low
+SUP0538,GlobalMed Distributors 27,2.46,10,84,82,Approved,Low
+SUP0539,SafeMeds Healthcare 27,1.65,2,77,84,Approved,Low
+SUP0540,Regional Pharma Supply 27,2.29,6,81,86,Under Watch,Low
+SUP0541,MediSource Healthcare 28,1.76,4,81,82,Approved,Medium
+SUP0542,HealthCorp India 28,2.44,5,75,92,Approved,Medium
+SUP0543,MedSupply 28,2.42,5,86,99,Approved,Low
+SUP0544,PharmaLink 28,2.34,5,84,88,Approved,Low
+SUP0545,Apollo MedTrade 28,1.86,3,90,80,Approved,High
+SUP0546,CarePlus Pharma 28,1.6,4,83,96,Approved,Low
+SUP0547,PrimeMed Distributors 28,2.09,7,93,87,Approved,Low
+SUP0548,LifeLine Medical Supply 28,1.66,6,76,91,Under Watch,Medium
+SUP0549,NovaPharm Distribution 28,2.19,8,83,89,Approved,Low
+SUP0550,MedAxis Healthcare 28,1.85,2,95,96,Approved,Medium
+SUP0551,VitalCare Suppliers 28,2.03,5,81,86,Approved,High
+SUP0552,HealthBridge Pharma 28,2.07,5,95,88,Approved,Low
+SUP0553,WellMed Distributors 28,1.52,7,98,93,Approved,Low
+SUP0554,TrustMed Healthcare 28,1.98,7,82,84,Approved,Low
+SUP0555,MedCore Supply 28,1.85,6,92,80,Approved,Low
+SUP0556,RapidCare Medical 28,1.81,8,86,84,Approved,Low
+SUP0557,HealthFirst Pharma 28,2.43,5,89,84,Approved,Low
+SUP0558,GlobalMed Distributors 28,1.83,8,86,91,Under Watch,Low
+SUP0559,SafeMeds Healthcare 28,1.9,4,99,91,Approved,Low
+SUP0560,Regional Pharma Supply 28,2.28,3,90,83,Approved,Low
+SUP0561,MediSource Healthcare 29,2.04,4,78,88,Under Watch,Medium
+SUP0562,HealthCorp India 29,2.24,6,77,90,Under Watch,Low
+SUP0563,MedSupply 29,2.25,7,76,88,Approved,Low
+SUP0564,PharmaLink 29,2.23,2,90,88,Approved,Low
+SUP0565,Apollo MedTrade 29,2.2,5,94,95,Approved,Medium
+SUP0566,CarePlus Pharma 29,2.1,10,86,88,Approved,Low
+SUP0567,PrimeMed Distributors 29,2.29,7,97,85,Approved,Low
+SUP0568,LifeLine Medical Supply 29,2.06,7,79,93,Approved,High
+SUP0569,NovaPharm Distribution 29,1.95,10,94,98,Approved,Medium
+SUP0570,MedAxis Healthcare 29,2.29,10,88,99,Approved,Medium
+SUP0571,VitalCare Suppliers 29,2.41,9,89,90,Under Watch,Low
+SUP0572,HealthBridge Pharma 29,2.32,9,76,93,Approved,Low
+SUP0573,WellMed Distributors 29,1.57,3,77,94,Under Watch,Low
+SUP0574,TrustMed Healthcare 29,2.33,4,91,93,Approved,Low
+SUP0575,MedCore Supply 29,2.16,4,76,98,Approved,Medium
+SUP0576,RapidCare Medical 29,2.15,7,96,96,Under Watch,Low
+SUP0577,HealthFirst Pharma 29,1.68,7,87,82,Under Watch,Medium
+SUP0578,GlobalMed Distributors 29,1.67,3,95,95,Approved,Low
+SUP0579,SafeMeds Healthcare 29,2.21,8,97,99,Approved,Low
+SUP0580,Regional Pharma Supply 29,2.45,9,81,95,Approved,Low
+SUP0581,MediSource Healthcare 30,2.03,4,89,96,Approved,Low
+SUP0582,HealthCorp India 30,2.47,8,96,87,Approved,Medium
+SUP0583,MedSupply 30,1.55,5,79,95,Under Watch,High
+SUP0584,PharmaLink 30,2.44,4,94,94,Approved,High
+SUP0585,Apollo MedTrade 30,1.89,4,90,81,Approved,Low
+SUP0586,CarePlus Pharma 30,2.19,8,81,84,Approved,High
+SUP0587,PrimeMed Distributors 30,2.42,10,76,99,Approved,Low
+SUP0588,LifeLine Medical Supply 30,2.25,4,92,98,Under Watch,Low
+SUP0589,NovaPharm Distribution 30,1.75,9,89,82,Under Watch,Low
+SUP0590,MedAxis Healthcare 30,1.8,4,85,84,Under Watch,Medium
+SUP0591,VitalCare Suppliers 30,2.37,9,78,93,Approved,Medium
+SUP0592,HealthBridge Pharma 30,1.84,10,96,86,Under Watch,High
+SUP0593,WellMed Distributors 30,1.6,8,82,92,Approved,Low
+SUP0594,TrustMed Healthcare 30,1.86,8,86,85,Approved,Medium
+SUP0595,MedCore Supply 30,1.96,4,75,82,Under Watch,Low
+SUP0596,RapidCare Medical 30,2.42,2,78,92,Under Watch,Low
+SUP0597,HealthFirst Pharma 30,2.02,8,75,99,Approved,Medium
+SUP0598,GlobalMed Distributors 30,1.65,4,97,82,Approved,Low
+SUP0599,SafeMeds Healthcare 30,2.5,5,85,85,Approved,Low
+SUP0600,Regional Pharma Supply 30,2.07,5,86,99,Approved,Low
+SUP0601,MediSource Healthcare 31,1.8,2,87,80,Approved,Low
+SUP0602,HealthCorp India 31,1.56,2,79,95,Approved,Low
+SUP0603,MedSupply 31,1.72,8,90,91,Under Watch,High
+SUP0604,PharmaLink 31,2.11,3,89,87,Approved,High
+SUP0605,Apollo MedTrade 31,1.71,5,95,97,Approved,Medium
+SUP0606,CarePlus Pharma 31,2.12,9,94,91,Approved,Low
+SUP0607,PrimeMed Distributors 31,2.31,8,79,93,Under Watch,High
+SUP0608,LifeLine Medical Supply 31,2.41,4,95,89,Approved,Low
+SUP0609,NovaPharm Distribution 31,2.31,6,77,91,Under Watch,Low
+SUP0610,MedAxis Healthcare 31,1.92,5,94,85,Under Watch,Low
+SUP0611,VitalCare Suppliers 31,2.02,10,98,83,Under Watch,Low
+SUP0612,HealthBridge Pharma 31,1.96,4,83,92,Approved,Low
+SUP0613,WellMed Distributors 31,1.65,7,91,84,Approved,Low
+SUP0614,TrustMed Healthcare 31,1.54,5,76,88,Under Watch,High
+SUP0615,MedCore Supply 31,1.84,2,96,82,Approved,Medium
+SUP0616,RapidCare Medical 31,2.27,2,99,94,Approved,High
+SUP0617,HealthFirst Pharma 31,2.32,8,81,94,Approved,Low
+SUP0618,GlobalMed Distributors 31,2.08,2,97,93,Approved,Low
+SUP0619,SafeMeds Healthcare 31,2.5,5,88,81,Under Watch,Medium
+SUP0620,Regional Pharma Supply 31,1.64,3,88,87,Approved,Medium
+SUP0621,MediSource Healthcare 32,1.88,6,87,99,Under Watch,Low
+SUP0622,HealthCorp India 32,2.17,5,84,98,Approved,High
+SUP0623,MedSupply 32,2.06,2,99,86,Approved,Medium
+SUP0624,PharmaLink 32,2.46,3,87,98,Approved,High
+SUP0625,Apollo MedTrade 32,1.68,2,96,96,Approved,Medium
+SUP0626,CarePlus Pharma 32,2.47,9,83,83,Approved,Low
+SUP0627,PrimeMed Distributors 32,2.08,2,86,90,Under Watch,High
+SUP0628,LifeLine Medical Supply 32,1.71,6,90,89,Approved,Low
+SUP0629,NovaPharm Distribution 32,2.14,5,87,81,Approved,High
+SUP0630,MedAxis Healthcare 32,1.52,4,78,87,Under Watch,Medium
+SUP0631,VitalCare Suppliers 32,2.14,7,84,83,Approved,Low
+SUP0632,HealthBridge Pharma 32,1.73,9,94,92,Approved,Low
+SUP0633,WellMed Distributors 32,2.16,3,84,85,Approved,Low
+SUP0634,TrustMed Healthcare 32,1.73,4,77,87,Approved,Medium
+SUP0635,MedCore Supply 32,2.29,10,92,87,Approved,High
+SUP0636,RapidCare Medical 32,2.02,9,94,85,Approved,High
+SUP0637,HealthFirst Pharma 32,1.95,4,96,99,Approved,Low
+SUP0638,GlobalMed Distributors 32,2.36,4,88,96,Approved,High
+SUP0639,SafeMeds Healthcare 32,1.85,8,88,88,Approved,Low
+SUP0640,Regional Pharma Supply 32,2.19,9,85,99,Approved,Low
+SUP0641,MediSource Healthcare 33,1.92,6,91,81,Under Watch,Low
+SUP0642,HealthCorp India 33,1.55,4,91,84,Under Watch,Low
+SUP0643,MedSupply 33,1.55,8,86,96,Approved,High
+SUP0644,PharmaLink 33,2.44,4,91,85,Approved,High
+SUP0645,Apollo MedTrade 33,2.23,3,77,90,Approved,High
+SUP0646,CarePlus Pharma 33,2.08,5,90,82,Approved,High
+SUP0647,PrimeMed Distributors 33,2.25,3,97,95,Approved,Medium
+SUP0648,LifeLine Medical Supply 33,2.21,9,95,98,Approved,Low
+SUP0649,NovaPharm Distribution 33,2.23,3,77,81,Approved,Low
+SUP0650,MedAxis Healthcare 33,2.48,7,79,97,Under Watch,High
+SUP0651,VitalCare Suppliers 33,2.22,4,80,90,Approved,Medium
+SUP0652,HealthBridge Pharma 33,2.0,10,96,81,Approved,Medium
+SUP0653,WellMed Distributors 33,2.14,9,88,89,Approved,Low
+SUP0654,TrustMed Healthcare 33,2.42,5,82,83,Approved,Low
+SUP0655,MedCore Supply 33,1.74,6,86,96,Approved,High
+SUP0656,RapidCare Medical 33,1.65,5,88,94,Approved,High
+SUP0657,HealthFirst Pharma 33,1.68,4,77,89,Under Watch,High
+SUP0658,GlobalMed Distributors 33,2.04,3,96,87,Approved,Low
+SUP0659,SafeMeds Healthcare 33,1.73,8,84,90,Approved,Low
+SUP0660,Regional Pharma Supply 33,2.07,3,77,80,Under Watch,Medium
+SUP0661,MediSource Healthcare 34,1.63,10,75,98,Approved,Low
+SUP0662,HealthCorp India 34,2.35,5,86,92,Under Watch,Medium
+SUP0663,MedSupply 34,1.97,6,76,88,Approved,Low
+SUP0664,PharmaLink 34,2.26,6,91,96,Approved,Low
+SUP0665,Apollo MedTrade 34,2.5,6,88,93,Under Watch,High
+SUP0666,CarePlus Pharma 34,1.66,6,87,83,Approved,High
+SUP0667,PrimeMed Distributors 34,2.18,5,88,83,Approved,Low
+SUP0668,LifeLine Medical Supply 34,1.59,9,96,84,Approved,Low
+SUP0669,NovaPharm Distribution 34,2.45,5,81,86,Approved,Low
+SUP0670,MedAxis Healthcare 34,1.94,4,93,90,Under Watch,Low
+SUP0671,VitalCare Suppliers 34,2.01,10,76,98,Under Watch,Low
+SUP0672,HealthBridge Pharma 34,2.0,5,94,86,Approved,High
+SUP0673,WellMed Distributors 34,2.26,2,76,86,Approved,Low
+SUP0674,TrustMed Healthcare 34,2.13,6,97,81,Under Watch,Low
+SUP0675,MedCore Supply 34,2.2,7,97,89,Approved,Medium
+SUP0676,RapidCare Medical 34,1.82,4,89,98,Approved,Low
+SUP0677,HealthFirst Pharma 34,1.84,8,82,96,Approved,High
+SUP0678,GlobalMed Distributors 34,1.62,3,86,88,Approved,Low
+SUP0679,SafeMeds Healthcare 34,1.95,4,88,82,Approved,Low
+SUP0680,Regional Pharma Supply 34,1.51,6,91,94,Approved,Low
+SUP0681,MediSource Healthcare 35,1.63,2,99,81,Under Watch,High
+SUP0682,HealthCorp India 35,2.03,4,96,86,Approved,Low
+SUP0683,MedSupply 35,2.49,7,95,80,Approved,Low
+SUP0684,PharmaLink 35,2.09,5,76,99,Under Watch,Low
+SUP0685,Apollo MedTrade 35,2.47,3,78,85,Approved,Medium
+SUP0686,CarePlus Pharma 35,2.34,10,93,80,Under Watch,Low
+SUP0687,PrimeMed Distributors 35,1.69,4,87,82,Approved,Low
+SUP0688,LifeLine Medical Supply 35,2.15,4,97,82,Under Watch,High
+SUP0689,NovaPharm Distribution 35,1.89,8,92,83,Approved,Low
+SUP0690,MedAxis Healthcare 35,1.52,8,85,88,Approved,Low
+SUP0691,VitalCare Suppliers 35,1.51,4,87,99,Under Watch,High
+SUP0692,HealthBridge Pharma 35,1.94,6,77,87,Under Watch,Low
+SUP0693,WellMed Distributors 35,1.95,10,96,90,Approved,Low
+SUP0694,TrustMed Healthcare 35,2.08,10,83,90,Approved,Low
+SUP0695,MedCore Supply 35,1.64,5,76,84,Under Watch,Low
+SUP0696,RapidCare Medical 35,1.83,3,86,81,Approved,Medium
+SUP0697,HealthFirst Pharma 35,2.24,10,77,91,Approved,Low
+SUP0698,GlobalMed Distributors 35,1.96,2,76,90,Approved,High
+SUP0699,SafeMeds Healthcare 35,2.01,8,76,90,Approved,Low
+SUP0700,Regional Pharma Supply 35,1.91,4,95,92,Under Watch,Medium
+SUP0701,MediSource Healthcare 36,2.41,5,81,80,Approved,High
+SUP0702,HealthCorp India 36,2.35,3,93,94,Approved,Medium
+SUP0703,MedSupply 36,2.13,2,85,97,Approved,Low
+SUP0704,PharmaLink 36,1.53,7,90,94,Approved,Low
+SUP0705,Apollo MedTrade 36,2.41,7,80,94,Approved,Low
+SUP0706,CarePlus Pharma 36,2.31,9,87,91,Under Watch,Low
+SUP0707,PrimeMed Distributors 36,2.16,8,96,97,Approved,Medium
+SUP0708,LifeLine Medical Supply 36,2.16,8,88,88,Approved,Medium
+SUP0709,NovaPharm Distribution 36,2.2,4,88,85,Approved,High
+SUP0710,MedAxis Healthcare 36,1.57,5,89,86,Under Watch,Low
+SUP0711,VitalCare Suppliers 36,1.54,7,75,98,Approved,Low
+SUP0712,HealthBridge Pharma 36,1.97,9,94,84,Under Watch,High
+SUP0713,WellMed Distributors 36,2.1,9,85,89,Approved,High
+SUP0714,TrustMed Healthcare 36,2.09,3,82,85,Approved,Medium
+SUP0715,MedCore Supply 36,1.61,10,92,90,Under Watch,Low
+SUP0716,RapidCare Medical 36,1.54,9,97,89,Approved,Low
+SUP0717,HealthFirst Pharma 36,2.49,9,80,91,Approved,Medium
+SUP0718,GlobalMed Distributors 36,1.89,10,88,90,Approved,Medium
+SUP0719,SafeMeds Healthcare 36,1.97,6,86,90,Approved,Medium
+SUP0720,Regional Pharma Supply 36,1.97,2,90,93,Approved,Low
+SUP0721,MediSource Healthcare 37,2.11,4,81,83,Approved,Medium
+SUP0722,HealthCorp India 37,2.11,10,97,95,Approved,Medium
+SUP0723,MedSupply 37,2.46,10,95,81,Approved,Low
+SUP0724,PharmaLink 37,1.89,3,77,98,Approved,Medium
+SUP0725,Apollo MedTrade 37,1.78,7,75,80,Approved,Low
+SUP0726,CarePlus Pharma 37,1.79,5,90,88,Approved,Medium
+SUP0727,PrimeMed Distributors 37,1.84,9,97,94,Under Watch,Medium
+SUP0728,LifeLine Medical Supply 37,1.77,2,91,85,Approved,Medium
+SUP0729,NovaPharm Distribution 37,1.82,7,93,95,Under Watch,High
+SUP0730,MedAxis Healthcare 37,1.92,5,75,87,Under Watch,Low
+SUP0731,VitalCare Suppliers 37,2.06,6,99,99,Under Watch,High
+SUP0732,HealthBridge Pharma 37,2.12,6,96,95,Under Watch,Low
+SUP0733,WellMed Distributors 37,1.5,9,88,85,Approved,Low
+SUP0734,TrustMed Healthcare 37,1.77,10,82,98,Approved,Low
+SUP0735,MedCore Supply 37,2.41,2,88,91,Approved,Low
+SUP0736,RapidCare Medical 37,2.29,6,78,81,Approved,High
+SUP0737,HealthFirst Pharma 37,2.09,4,92,91,Approved,Low
+SUP0738,GlobalMed Distributors 37,1.78,6,82,98,Under Watch,Low
+SUP0739,SafeMeds Healthcare 37,2.0,9,90,80,Approved,Low
+SUP0740,Regional Pharma Supply 37,1.73,4,78,90,Approved,Low
+SUP0741,MediSource Healthcare 38,1.54,8,88,87,Under Watch,Low
+SUP0742,HealthCorp India 38,1.72,10,95,94,Approved,High
+SUP0743,MedSupply 38,1.59,7,77,96,Under Watch,Low
+SUP0744,PharmaLink 38,2.21,10,88,80,Under Watch,High
+SUP0745,Apollo MedTrade 38,1.96,2,99,92,Approved,Low
+SUP0746,CarePlus Pharma 38,1.97,9,85,94,Under Watch,Medium
+SUP0747,PrimeMed Distributors 38,1.52,10,76,81,Under Watch,Low
+SUP0748,LifeLine Medical Supply 38,1.9,6,97,86,Approved,Low
+SUP0749,NovaPharm Distribution 38,2.2,4,83,96,Approved,Low
+SUP0750,MedAxis Healthcare 38,1.63,2,80,90,Approved,Low
+SUP0751,VitalCare Suppliers 38,1.82,7,96,95,Under Watch,Low
+SUP0752,HealthBridge Pharma 38,2.35,7,83,99,Under Watch,Low
+SUP0753,WellMed Distributors 38,1.71,8,77,82,Under Watch,High
+SUP0754,TrustMed Healthcare 38,1.78,2,91,95,Approved,Medium
+SUP0755,MedCore Supply 38,1.89,9,75,81,Under Watch,High
+SUP0756,RapidCare Medical 38,1.6,10,98,83,Approved,Medium
+SUP0757,HealthFirst Pharma 38,2.17,4,79,80,Approved,Low
+SUP0758,GlobalMed Distributors 38,1.75,7,92,99,Approved,Low
+SUP0759,SafeMeds Healthcare 38,1.75,5,96,87,Under Watch,Low
+SUP0760,Regional Pharma Supply 38,1.89,3,89,91,Approved,High
+SUP0761,MediSource Healthcare 39,2.23,6,99,89,Under Watch,Low
+SUP0762,HealthCorp India 39,1.66,8,75,87,Approved,Low
+SUP0763,MedSupply 39,1.9,7,91,93,Approved,Low
+SUP0764,PharmaLink 39,2.49,7,77,94,Approved,Low
+SUP0765,Apollo MedTrade 39,2.19,5,91,91,Under Watch,Low
+SUP0766,CarePlus Pharma 39,2.09,5,86,89,Approved,Medium
+SUP0767,PrimeMed Distributors 39,1.86,8,97,98,Approved,Low
+SUP0768,LifeLine Medical Supply 39,2.09,9,81,90,Approved,Low
+SUP0769,NovaPharm Distribution 39,1.86,9,88,96,Approved,High
+SUP0770,MedAxis Healthcare 39,1.61,7,96,92,Approved,Medium
+SUP0771,VitalCare Suppliers 39,2.33,6,91,96,Under Watch,Low
+SUP0772,HealthBridge Pharma 39,1.66,5,82,83,Approved,Low
+SUP0773,WellMed Distributors 39,2.06,10,92,81,Approved,Low
+SUP0774,TrustMed Healthcare 39,1.87,3,98,97,Approved,Low
+SUP0775,MedCore Supply 39,2.27,6,99,83,Under Watch,Low
+SUP0776,RapidCare Medical 39,2.2,7,86,84,Approved,Low
+SUP0777,HealthFirst Pharma 39,1.52,6,76,96,Approved,Low
+SUP0778,GlobalMed Distributors 39,1.61,6,83,84,Approved,Low
+SUP0779,SafeMeds Healthcare 39,1.65,9,83,94,Approved,Low
+SUP0780,Regional Pharma Supply 39,2.39,9,96,81,Approved,Low
+SUP0781,MediSource Healthcare 40,2.07,4,97,99,Under Watch,Low
+SUP0782,HealthCorp India 40,1.91,10,88,93,Approved,Low
+SUP0783,MedSupply 40,2.4,6,93,98,Approved,Low
+SUP0784,PharmaLink 40,1.68,7,91,80,Approved,High
+SUP0785,Apollo MedTrade 40,1.87,5,81,87,Approved,Low
+SUP0786,CarePlus Pharma 40,2.36,7,83,87,Approved,Low
+SUP0787,PrimeMed Distributors 40,2.26,6,78,92,Approved,Low
+SUP0788,LifeLine Medical Supply 40,1.95,9,97,90,Approved,Low
+SUP0789,NovaPharm Distribution 40,1.52,4,82,97,Under Watch,Low
+SUP0790,MedAxis Healthcare 40,1.87,5,77,85,Approved,Low
+SUP0791,VitalCare Suppliers 40,1.57,3,81,87,Under Watch,Low
+SUP0792,HealthBridge Pharma 40,1.85,4,85,83,Approved,Medium
+SUP0793,WellMed Distributors 40,1.51,4,98,83,Approved,Low
+SUP0794,TrustMed Healthcare 40,1.81,3,82,85,Approved,Medium
+SUP0795,MedCore Supply 40,1.75,6,85,95,Under Watch,Low
+SUP0796,RapidCare Medical 40,2.03,3,85,84,Approved,Low
+SUP0797,HealthFirst Pharma 40,1.93,8,82,91,Approved,Low
+SUP0798,GlobalMed Distributors 40,1.87,3,92,83,Approved,High
+SUP0799,SafeMeds Healthcare 40,2.26,4,79,98,Approved,Low
+SUP0800,Regional Pharma Supply 40,1.81,10,77,83,Approved,Low
+SUP0801,MediSource Healthcare 41,1.67,4,75,81,Approved,Low
+SUP0802,HealthCorp India 41,1.7,3,89,80,Approved,High
+SUP0803,MedSupply 41,2.05,4,83,99,Under Watch,Low
+SUP0804,PharmaLink 41,1.52,3,81,99,Approved,Low
+SUP0805,Apollo MedTrade 41,2.12,3,84,84,Approved,Medium
+SUP0806,CarePlus Pharma 41,1.79,2,83,94,Under Watch,Low
+SUP0807,PrimeMed Distributors 41,1.93,2,93,83,Approved,Low
+SUP0808,LifeLine Medical Supply 41,2.21,2,92,94,Approved,Low
+SUP0809,NovaPharm Distribution 41,1.73,10,82,80,Approved,Low
+SUP0810,MedAxis Healthcare 41,1.93,8,81,91,Under Watch,Low
+SUP0811,VitalCare Suppliers 41,1.82,6,76,91,Approved,Low
+SUP0812,HealthBridge Pharma 41,2.08,8,84,99,Approved,Low
+SUP0813,WellMed Distributors 41,2.17,2,80,96,Approved,Low
+SUP0814,TrustMed Healthcare 41,2.38,10,92,85,Under Watch,Medium
+SUP0815,MedCore Supply 41,1.5,2,75,82,Approved,High
+SUP0816,RapidCare Medical 41,1.75,9,85,83,Approved,Medium
+SUP0817,HealthFirst Pharma 41,1.55,7,98,95,Approved,Low
+SUP0818,GlobalMed Distributors 41,2.3,7,97,92,Approved,Low
+SUP0819,SafeMeds Healthcare 41,1.7,6,78,80,Under Watch,Medium
+SUP0820,Regional Pharma Supply 41,2.08,4,80,94,Approved,Low
+SUP0821,MediSource Healthcare 42,1.55,3,82,85,Approved,High
+SUP0822,HealthCorp India 42,2.33,5,81,88,Approved,Medium
+SUP0823,MedSupply 42,2.19,10,90,98,Approved,High
+SUP0824,PharmaLink 42,2.01,9,98,89,Approved,High
+SUP0825,Apollo MedTrade 42,1.5,5,80,85,Approved,Medium
+SUP0826,CarePlus Pharma 42,2.5,5,93,86,Approved,Low
+SUP0827,PrimeMed Distributors 42,1.95,2,98,99,Approved,High
+SUP0828,LifeLine Medical Supply 42,1.76,5,94,81,Under Watch,Low
+SUP0829,NovaPharm Distribution 42,1.93,2,93,85,Approved,High
+SUP0830,MedAxis Healthcare 42,2.45,7,81,96,Approved,Low
+SUP0831,VitalCare Suppliers 42,2.46,5,94,95,Under Watch,Low
+SUP0832,HealthBridge Pharma 42,1.8,6,94,96,Under Watch,Medium
+SUP0833,WellMed Distributors 42,1.62,7,98,88,Approved,Medium
+SUP0834,TrustMed Healthcare 42,1.6,8,96,82,Under Watch,Low
+SUP0835,MedCore Supply 42,2.05,2,84,88,Approved,High
+SUP0836,RapidCare Medical 42,1.56,7,98,81,Approved,Low
+SUP0837,HealthFirst Pharma 42,1.53,10,91,82,Approved,Medium
+SUP0838,GlobalMed Distributors 42,1.56,5,76,97,Approved,Low
+SUP0839,SafeMeds Healthcare 42,2.04,2,96,99,Approved,Low
+SUP0840,Regional Pharma Supply 42,2.31,2,84,81,Approved,High
+SUP0841,MediSource Healthcare 43,2.1,5,96,91,Approved,Medium
+SUP0842,HealthCorp India 43,2.44,4,99,81,Approved,Low
+SUP0843,MedSupply 43,2.29,9,82,91,Under Watch,High
+SUP0844,PharmaLink 43,2.1,10,89,98,Approved,High
+SUP0845,Apollo MedTrade 43,2.1,2,95,98,Under Watch,Medium
+SUP0846,CarePlus Pharma 43,1.68,9,89,89,Approved,Medium
+SUP0847,PrimeMed Distributors 43,2.11,2,79,92,Approved,Low
+SUP0848,LifeLine Medical Supply 43,2.01,6,91,84,Approved,High
+SUP0849,NovaPharm Distribution 43,2.41,2,79,93,Approved,Low
+SUP0850,MedAxis Healthcare 43,2.35,8,84,86,Approved,Low
+SUP0851,VitalCare Suppliers 43,1.76,6,85,93,Approved,Low
+SUP0852,HealthBridge Pharma 43,2.38,10,81,82,Approved,Low
+SUP0853,WellMed Distributors 43,1.83,10,76,87,Approved,High
+SUP0854,TrustMed Healthcare 43,1.86,7,79,86,Approved,High
+SUP0855,MedCore Supply 43,2.2,2,80,82,Under Watch,Low
+SUP0856,RapidCare Medical 43,2.06,10,94,83,Approved,Medium
+SUP0857,HealthFirst Pharma 43,1.68,9,83,87,Approved,Low
+SUP0858,GlobalMed Distributors 43,1.68,8,79,84,Approved,Low
+SUP0859,SafeMeds Healthcare 43,2.39,7,81,88,Approved,Low
+SUP0860,Regional Pharma Supply 43,1.55,5,93,82,Approved,Low
+SUP0861,MediSource Healthcare 44,1.7,6,78,91,Approved,Low
+SUP0862,HealthCorp India 44,2.12,6,81,95,Approved,Low
+SUP0863,MedSupply 44,1.89,2,77,83,Approved,Low
+SUP0864,PharmaLink 44,2.31,10,89,92,Approved,Low
+SUP0865,Apollo MedTrade 44,1.65,10,96,83,Under Watch,Low
+SUP0866,CarePlus Pharma 44,1.58,6,95,89,Under Watch,High
+SUP0867,PrimeMed Distributors 44,1.72,4,92,81,Approved,Low
+SUP0868,LifeLine Medical Supply 44,1.6,5,95,93,Approved,Low
+SUP0869,NovaPharm Distribution 44,1.64,4,83,81,Under Watch,Low
+SUP0870,MedAxis Healthcare 44,2.04,5,75,80,Approved,Low
+SUP0871,VitalCare Suppliers 44,1.66,6,84,83,Approved,Low
+SUP0872,HealthBridge Pharma 44,2.29,9,92,84,Approved,Low
+SUP0873,WellMed Distributors 44,1.81,8,92,96,Approved,Medium
+SUP0874,TrustMed Healthcare 44,2.31,6,76,84,Under Watch,Low
+SUP0875,MedCore Supply 44,1.93,4,93,81,Approved,Low
+SUP0876,RapidCare Medical 44,1.53,3,89,88,Approved,High
+SUP0877,HealthFirst Pharma 44,2.34,8,89,93,Under Watch,Low
+SUP0878,GlobalMed Distributors 44,2.22,5,76,80,Approved,Low
+SUP0879,SafeMeds Healthcare 44,2.04,3,75,97,Approved,Low
+SUP0880,Regional Pharma Supply 44,1.52,3,95,84,Approved,High
+SUP0881,MediSource Healthcare 45,2.31,6,98,85,Approved,High
+SUP0882,HealthCorp India 45,1.59,8,76,80,Approved,Low
+SUP0883,MedSupply 45,1.78,6,97,98,Approved,Low
+SUP0884,PharmaLink 45,2.43,3,81,99,Under Watch,High
+SUP0885,Apollo MedTrade 45,1.7,3,89,81,Approved,Low
+SUP0886,CarePlus Pharma 45,1.84,6,99,81,Approved,Medium
+SUP0887,PrimeMed Distributors 45,1.97,10,81,93,Approved,Medium
+SUP0888,LifeLine Medical Supply 45,1.79,8,75,91,Approved,Low
+SUP0889,NovaPharm Distribution 45,2.46,5,92,89,Approved,Low
+SUP0890,MedAxis Healthcare 45,1.84,3,91,94,Under Watch,Low
+SUP0891,VitalCare Suppliers 45,2.05,6,85,86,Approved,Low
+SUP0892,HealthBridge Pharma 45,2.41,10,90,90,Under Watch,Low
+SUP0893,WellMed Distributors 45,1.55,7,86,94,Approved,Low
+SUP0894,TrustMed Healthcare 45,1.8,10,80,93,Approved,Low
+SUP0895,MedCore Supply 45,1.65,6,82,84,Approved,Medium
+SUP0896,RapidCare Medical 45,2.09,2,82,87,Approved,Low
+SUP0897,HealthFirst Pharma 45,1.67,4,92,97,Under Watch,Low
+SUP0898,GlobalMed Distributors 45,2.41,3,97,81,Under Watch,Low
+SUP0899,SafeMeds Healthcare 45,2.39,8,78,83,Approved,High
+SUP0900,Regional Pharma Supply 45,2.2,5,89,90,Approved,Medium
+SUP0901,MediSource Healthcare 46,2.35,5,83,94,Approved,Low
+SUP0902,HealthCorp India 46,1.75,2,79,81,Approved,Low
+SUP0903,MedSupply 46,1.83,3,86,87,Approved,High
+SUP0904,PharmaLink 46,1.84,8,84,99,Under Watch,High
+SUP0905,Apollo MedTrade 46,1.84,10,79,95,Under Watch,High
+SUP0906,CarePlus Pharma 46,2.21,3,76,90,Under Watch,High
+SUP0907,PrimeMed Distributors 46,2.0,9,91,92,Under Watch,Low
+SUP0908,LifeLine Medical Supply 46,2.23,4,77,99,Approved,High
+SUP0909,NovaPharm Distribution 46,2.01,4,78,93,Under Watch,Low
+SUP0910,MedAxis Healthcare 46,2.08,7,84,80,Approved,High
+SUP0911,VitalCare Suppliers 46,1.74,7,91,93,Approved,Low
+SUP0912,HealthBridge Pharma 46,2.44,7,86,80,Under Watch,High
+SUP0913,WellMed Distributors 46,2.29,3,92,84,Approved,Low
+SUP0914,TrustMed Healthcare 46,2.32,8,78,93,Approved,High
+SUP0915,MedCore Supply 46,2.2,9,90,82,Approved,Medium
+SUP0916,RapidCare Medical 46,1.81,3,82,81,Approved,Low
+SUP0917,HealthFirst Pharma 46,2.25,4,78,93,Approved,Low
+SUP0918,GlobalMed Distributors 46,2.12,3,75,95,Approved,Low
+SUP0919,SafeMeds Healthcare 46,1.63,6,93,94,Under Watch,Medium
+SUP0920,Regional Pharma Supply 46,2.45,10,81,87,Approved,Low
+SUP0921,MediSource Healthcare 47,2.24,8,95,90,Approved,Low
+SUP0922,HealthCorp India 47,1.91,10,91,98,Under Watch,Low
+SUP0923,MedSupply 47,2.11,8,88,87,Approved,High
+SUP0924,PharmaLink 47,1.66,9,83,88,Approved,Medium
+SUP0925,Apollo MedTrade 47,1.92,5,99,96,Approved,Medium
+SUP0926,CarePlus Pharma 47,1.72,8,83,84,Under Watch,Low
+SUP0927,PrimeMed Distributors 47,2.02,9,85,96,Approved,Low
+SUP0928,LifeLine Medical Supply 47,2.25,7,85,95,Under Watch,Medium
+SUP0929,NovaPharm Distribution 47,1.53,6,80,98,Approved,Low
+SUP0930,MedAxis Healthcare 47,1.6,4,80,90,Approved,High
+SUP0931,VitalCare Suppliers 47,2.23,5,95,97,Under Watch,Medium
+SUP0932,HealthBridge Pharma 47,2.29,2,82,92,Approved,High
+SUP0933,WellMed Distributors 47,1.57,5,85,81,Under Watch,Low
+SUP0934,TrustMed Healthcare 47,2.34,9,75,93,Approved,Medium
+SUP0935,MedCore Supply 47,1.61,2,90,93,Under Watch,High
+SUP0936,RapidCare Medical 47,1.9,10,87,85,Approved,Low
+SUP0937,HealthFirst Pharma 47,1.96,10,81,81,Approved,Low
+SUP0938,GlobalMed Distributors 47,2.14,10,89,87,Under Watch,High
+SUP0939,SafeMeds Healthcare 47,2.47,5,96,95,Approved,Low
+SUP0940,Regional Pharma Supply 47,1.67,5,95,88,Under Watch,Low
+SUP0941,MediSource Healthcare 48,1.76,8,90,93,Approved,Low
+SUP0942,HealthCorp India 48,2.36,9,92,90,Approved,Low
+SUP0943,MedSupply 48,1.78,5,85,93,Approved,High
+SUP0944,PharmaLink 48,1.68,4,86,92,Approved,Medium
+SUP0945,Apollo MedTrade 48,1.64,2,85,98,Approved,Low
+SUP0946,CarePlus Pharma 48,2.25,2,75,82,Approved,Low
+SUP0947,PrimeMed Distributors 48,2.17,10,87,97,Approved,Medium
+SUP0948,LifeLine Medical Supply 48,2.4,10,79,99,Under Watch,Low
+SUP0949,NovaPharm Distribution 48,2.28,2,81,95,Under Watch,Medium
+SUP0950,MedAxis Healthcare 48,2.39,8,78,90,Approved,Medium
+SUP0951,VitalCare Suppliers 48,2.03,4,77,90,Approved,Low
+SUP0952,HealthBridge Pharma 48,1.57,3,89,80,Approved,Medium
+SUP0953,WellMed Distributors 48,2.21,9,94,90,Approved,Medium
+SUP0954,TrustMed Healthcare 48,2.45,4,81,93,Under Watch,Low
+SUP0955,MedCore Supply 48,1.58,2,94,85,Approved,Low
+SUP0956,RapidCare Medical 48,2.01,6,81,80,Approved,Low
+SUP0957,HealthFirst Pharma 48,1.74,5,80,96,Under Watch,High
+SUP0958,GlobalMed Distributors 48,2.32,9,87,88,Approved,High
+SUP0959,SafeMeds Healthcare 48,1.84,6,91,85,Under Watch,Low
+SUP0960,Regional Pharma Supply 48,2.35,2,88,84,Approved,Low
+SUP0961,MediSource Healthcare 49,1.63,10,86,81,Approved,High
+SUP0962,HealthCorp India 49,2.48,5,78,86,Under Watch,Medium
+SUP0963,MedSupply 49,2.41,8,83,86,Approved,Low
+SUP0964,PharmaLink 49,1.99,4,96,85,Approved,Medium
+SUP0965,Apollo MedTrade 49,1.66,9,85,96,Approved,Low
+SUP0966,CarePlus Pharma 49,1.91,2,83,87,Approved,Low
+SUP0967,PrimeMed Distributors 49,1.73,8,85,96,Approved,Medium
+SUP0968,LifeLine Medical Supply 49,1.54,9,83,83,Approved,Low
+SUP0969,NovaPharm Distribution 49,2.3,6,89,91,Under Watch,Low
+SUP0970,MedAxis Healthcare 49,1.52,5,95,96,Under Watch,Low
+SUP0971,VitalCare Suppliers 49,2.17,8,93,83,Approved,Low
+SUP0972,HealthBridge Pharma 49,1.73,10,76,92,Approved,Low
+SUP0973,WellMed Distributors 49,2.44,5,84,91,Approved,Medium
+SUP0974,TrustMed Healthcare 49,1.88,5,91,94,Approved,Low
+SUP0975,MedCore Supply 49,1.91,10,89,84,Approved,Low
+SUP0976,RapidCare Medical 49,2.31,7,97,91,Approved,Low
+SUP0977,HealthFirst Pharma 49,2.37,10,77,87,Approved,Low
+SUP0978,GlobalMed Distributors 49,2.29,4,82,88,Under Watch,Low
+SUP0979,SafeMeds Healthcare 49,2.37,7,78,86,Approved,Low
+SUP0980,Regional Pharma Supply 49,1.69,4,86,93,Approved,Low
+SUP0981,MediSource Healthcare 50,1.76,4,83,80,Approved,Low
+SUP0982,HealthCorp India 50,2.41,4,85,92,Under Watch,Low
+SUP0983,MedSupply 50,1.78,3,75,84,Approved,Low
+SUP0984,PharmaLink 50,1.87,3,85,89,Under Watch,Low
+SUP0985,Apollo MedTrade 50,2.48,5,76,88,Under Watch,Low
+SUP0986,CarePlus Pharma 50,1.62,4,91,86,Approved,Low
+SUP0987,PrimeMed Distributors 50,1.79,6,84,93,Approved,Low
+SUP0988,LifeLine Medical Supply 50,2.03,6,78,91,Under Watch,Low
+SUP0989,NovaPharm Distribution 50,1.78,9,87,82,Approved,Medium
+SUP0990,MedAxis Healthcare 50,2.02,8,75,82,Approved,Medium
+SUP0991,VitalCare Suppliers 50,2.34,5,93,90,Approved,High
+SUP0992,HealthBridge Pharma 50,2.09,6,98,98,Approved,Low
+SUP0993,WellMed Distributors 50,1.89,4,85,98,Approved,Low
+SUP0994,TrustMed Healthcare 50,2.2,5,91,86,Approved,Medium
+SUP0995,MedCore Supply 50,2.25,8,93,91,Under Watch,Medium
+SUP0996,RapidCare Medical 50,1.9,7,75,81,Approved,Low
+SUP0997,HealthFirst Pharma 50,1.78,3,90,95,Under Watch,High
+SUP0998,GlobalMed Distributors 50,2.42,8,83,90,Under Watch,Low
+SUP0999,SafeMeds Healthcare 50,1.58,9,85,80,Approved,Low
+SUP1000,Regional Pharma Supply 50,2.31,2,78,89,Approved,Low

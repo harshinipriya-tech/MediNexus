@@ -1,0 +1,1001 @@
+medicine_id,medicine_name,current_stock,daily_consumption,days_remaining,reorder_level,expiry_months,stock_status,risk_level
+1014599,acetaminophen 300 MG / oxycodone hydrochloride 10 MG Oral Tablet,838,153,5.5,459,26,Low Stock,Medium
+1014615,acetaminophen 300 MG / oxycodone hydrochloride 5 MG Oral Tablet,6792,276,24.6,1656,35,Healthy,Low
+1014632,acetaminophen 300 MG / oxycodone hydrochloride 7.5 MG Oral Tablet,2508,121,20.7,605,24,Healthy,Low
+1037259,acetaminophen 300 MG / oxycodone hydrochloride 2.5 MG Oral Tablet,7344,251,29.3,1506,25,Healthy,Low
+1037273,acetaminophen 300 MG / phenyltoloxamine citrate 20 MG / salicylamide 200 MG Oral Tablet,7073,248,28.5,744,26,Healthy,Low
+1042675,acetaminophen 21.7 MG/ML / dextromethorphan hydrobromide 0.667 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution,3052,218,14.0,654,12,Watch,Low
+1042684,acetaminophen 33.3 MG/ML / dextromethorphan hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution,3097,276,11.2,1656,34,Watch,Low
+1042688,acetaminophen 325 MG / chlorpheniramine maleate 2 MG / dextromethorphan hydrobromide 10 MG / phenylephrine hydrochloride 5 MG Oral Capsule,4104,207,19.8,1449,32,Healthy,Low
+1042695,acetaminophen 21.7 MG/ML / dextromethorphan hydrobromide 0.667 MG/ML / guaifenesin 13.3 MG/ML Oral Solution,3704,143,25.9,572,34,Healthy,Low
+1043400,acetaminophen 21.7 MG/ML / dextromethorphan hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution,1990,274,7.3,1096,23,Watch,Low
+1044427,acetaminophen 20 MG/ML / hydrocodone bitartrate 0.667 MG/ML Oral Solution,2916,284,10.3,1704,3,Watch,Low
+1046378,acetaminophen 325 MG / phenylephrine hydrochloride 5 MG Oral Tablet,537,48,11.2,288,34,Watch,Low
+1046384,acetaminophen 21.7 MG/ML / chlorpheniramine maleate 0.133 MG/ML / dextromethorphan hydrobromide 1 MG/ML Oral Solution,3037,152,20.0,1064,30,Healthy,Low
+1046751,acetaminophen 325 MG / diphenhydramine hydrochloride 25 MG / phenylephrine hydrochloride 5 MG Oral Tablet,5400,272,19.9,1360,22,Healthy,Low
+1046781,acetaminophen 325 MG / chlorpheniramine maleate 2 MG / phenylephrine hydrochloride 5 MG Oral Tablet,4907,211,23.3,633,31,Healthy,Low
+104906,acetaminophen 24 MG/ML Oral Solution,2176,107,20.3,535,29,Healthy,Low
+104908,acetaminophen 500 MG / methionine 250 MG Oral Tablet,3458,139,24.9,556,17,Healthy,Low
+1049179,acetaminophen 325 MG / pseudoephedrine hydrochloride 30 MG Oral Tablet,787,204,3.9,612,6,Low Stock,Medium
+1049214,acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet,326,48,6.8,288,36,Low Stock,Medium
+1049221,acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet,1293,90,14.4,540,28,Healthy,Low
+1049225,acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet,6170,282,21.9,1692,21,Healthy,Low
+1049233,acetaminophen 500 MG / oxycodone hydrochloride 7.5 MG Oral Tablet,5913,232,25.5,1160,9,Healthy,Low
+1049251,acetaminophen 400 MG / oxycodone hydrochloride 10 MG Oral Tablet,917,60,15.3,300,3,Healthy,Low
+1049260,acetaminophen 400 MG / oxycodone hydrochloride 5 MG Oral Tablet,573,219,2.6,657,19,Low Stock,Medium
+1049267,acetaminophen 400 MG / oxycodone hydrochloride 7.5 MG Oral Tablet,711,272,2.6,1360,3,Low Stock,Medium
+1049270,acetaminophen 650 MG / oxycodone hydrochloride 10 MG Oral Tablet,1067,84,12.7,504,18,Watch,Low
+1049580,acetaminophen 65 MG/ML / oxycodone hydrochloride 1 MG/ML Oral Solution,2514,231,10.9,693,26,Watch,Low
+1049635,acetaminophen 325 MG / oxycodone hydrochloride 2.5 MG Oral Tablet,2646,246,10.8,1722,28,Watch,Low
+1049651,acetaminophen 500 MG / oxycodone hydrochloride 10 MG Oral Tablet,6837,262,26.1,1048,9,Healthy,Low
+1049658,acetaminophen 500 MG / oxycodone hydrochloride 5 MG Oral Capsule,1206,64,18.8,192,15,Healthy,Low
+1050385,acetaminophen 32 MG/ML / diphenhydramine hydrochloride 1.25 MG/ML / phenylephrine hydrochloride 0.5 MG/ML Oral Solution,496,29,17.1,87,27,Healthy,Low
+1052462,acetaminophen 325 MG / diphenhydramine hydrochloride 12.5 MG Oral Tablet,4855,240,20.2,1680,14,Healthy,Low
+1052467,acetaminophen 500 MG / diphenhydramine hydrochloride 12.5 MG Oral Tablet,2855,157,18.2,471,5,Healthy,Low
+1052637,acetaminophen 500 MG / pamabrom 25 MG / pyrilamine maleate 15 MG Oral Tablet,2611,114,22.9,684,36,Healthy,Low
+1052647,acetaminophen 325 MG / doxylamine succinate 6.25 MG / phenylephrine hydrochloride 5 MG Oral Capsule,2229,156,14.3,468,13,Healthy,Low
+1052670,acetaminophen 325 MG / phenylephrine hydrochloride 5 MG Oral Capsule,1947,66,29.5,330,16,Healthy,Low
+1052679,acetaminophen 500 MG / chlorpheniramine maleate 2 MG / phenylephrine hydrochloride 5 MG Oral Tablet,1480,99,14.9,693,31,Healthy,Low
+106814,acetaminophen 450 MG / caffeine 30 MG Oral Tablet,3851,216,17.8,1512,7,Healthy,Low
+106815,acetaminophen 450 MG / caffeine 25 MG Oral Tablet,575,32,18.0,192,23,Healthy,Low
+106818,acetaminophen 5 MG/ML / caffeine 0.65 MG/ML Oral Solution,1319,267,4.9,1068,5,Low Stock,Medium
+106821,acetaminophen 150 MG / sodium salicylate 100 MG Oral Tablet,1192,250,4.8,1000,33,Low Stock,Medium
+1086750,acetaminophen 32 MG/ML / chlorpheniramine maleate 0.2 MG/ML / dextromethorphan hydrobromide 1 MG/ML Oral Suspension,1884,107,17.6,428,6,Healthy,Low
+1086991,acetaminophen 325 MG / chlorpheniramine maleate 2 MG / dextromethorphan hydrobromide 10 MG / phenylephrine hydrochloride 5 MG Oral Tablet,1135,59,19.2,177,4,Healthy,Low
+1086997,acetaminophen 325 MG / dextromethorphan hydrobromide 10 MG / phenylephrine hydrochloride 5 MG Oral Capsule,85,41,2.1,246,4,Low Stock,Medium
+1087607,acetaminophen 500 MG / diphenhydramine hydrochloride 50 MG Oral Tablet,2509,286,8.8,1430,20,Watch,Low
+1088758,acetaminophen 33.3 MG/ML / phenyltoloxamine citrate 2 MG/ML Oral Solution,578,137,4.2,685,12,Low Stock,Medium
+1089822,acetaminophen 325 MG / dextromethorphan hydrobromide 15 MG / doxylamine succinate 6.25 MG / pseudoephedrine hydrochloride 30 MG Oral Capsule,194,46,4.2,138,27,Low Stock,Medium
+1089968,acetaminophen 500 MG / chlorpheniramine maleate 2 MG / dextromethorphan hydrobromide 15 MG / pseudoephedrine hydrochloride 30 MG Oral Tablet,3140,138,22.8,966,4,Healthy,Low
+1090476,acetaminophen 250 MG / dextromethorphan hydrobromide 10 MG / guaifenesin 100 MG / pseudoephedrine hydrochloride 30 MG Oral Capsule,3431,286,12.0,2002,36,Watch,Low
+1090743,acetaminophen 500 MG / pseudoephedrine hydrochloride 30 MG Oral Tablet,4086,219,18.7,1533,16,Healthy,Low
+1092189,acetaminophen 500 MG / diphenhydramine hydrochloride 25 MG Oral Tablet,269,170,1.6,1020,25,Critical,High
+1092373,acetaminophen 33.3 MG/ML / diphenhydramine hydrochloride 1.67 MG/ML Oral Solution,716,270,2.7,1080,7,Low Stock,Medium
+1093075,acetaminophen 325 MG / diphenhydramine hydrochloride 50 MG Oral Tablet,115,54,2.1,216,17,Low Stock,Medium
+1093083,acetaminophen 650 MG / diphenhydramine hydrochloride 50 MG Oral Tablet,1454,65,22.4,390,30,Healthy,Low
+1094131,acetaminophen 65 MG/ML / dextromethorphan hydrobromide 2 MG/ML / diphenhydramine hydrochloride 2.5 MG/ML Oral Solution,3913,155,25.2,930,11,Healthy,Low
+1094538,acetaminophen 325 MG / dextromethorphan hydrobromide 10 MG / phenylephrine hydrochloride 5 MG Oral Tablet,5099,257,19.8,1285,17,Healthy,Low
+1094549,acetaminophen 325 MG / dextromethorphan hydrobromide 15 MG / doxylamine succinate 6.25 MG Oral Capsule,2587,108,24.0,540,30,Healthy,Low
+1098435,acetaminophen 325 MG / dextromethorphan hydrobromide 10 MG / guaifenesin 100 MG / phenylephrine hydrochloride 5 MG Oral Tablet,3248,268,12.1,1876,4,Watch,Low
+1098496,acetaminophen 500 MG / chlorpheniramine maleate 2 MG / dextromethorphan hydrobromide 15 MG Oral Tablet,2928,242,12.1,1694,16,Watch,Low
+1099872,acetaminophen 500 MG / diphenhydramine citrate 38 MG Oral Tablet,3644,260,14.0,1300,17,Watch,Low
+1101534,acetaminophen 500 MG / phenylephrine hydrochloride 5 MG Oral Tablet,3789,243,15.6,1701,34,Healthy,Low
+1110988,acetaminophen 325 MG / dextromethorphan hydrobromide 10 MG / guaifenesin 200 MG / phenylephrine hydrochloride 5 MG Oral Tablet,2600,190,13.7,1330,19,Watch,Low
+1112864,acetaminophen 325 MG / chlorpheniramine maleate 2 MG Oral Tablet,263,121,2.2,847,21,Low Stock,Medium
+1113397,acetaminophen 32 MG/ML / chlorpheniramine maleate 0.2 MG/ML / dextromethorphan hydrobromide 1 MG/ML / phenylephrine hydrochloride 0.5 MG/ML Oral Suspension,543,34,16.0,102,30,Healthy,Low
+1113522,acetaminophen 32 MG/ML / chlorpheniramine maleate 0.2 MG/ML / dextromethorphan hydrobromide 1.5 MG/ML Oral Solution,1621,153,10.6,765,10,Watch,Low
+1113705,acetaminophen 21.7 MG/ML / dextromethorphan hydrobromide 0.667 MG/ML / phenylephrine hydrochloride 0.333 MG/ML Oral Solution,916,112,8.2,448,35,Watch,Low
+1116568,acetaminophen 32.5 MG/ML / guaifenesin 20 MG/ML / phenylephrine hydrochloride 0.5 MG/ML Oral Solution,1675,101,16.6,505,36,Healthy,Low
+1116572,acetaminophen 32.5 MG/ML / dextromethorphan hydrobromide 1 MG/ML / guaifenesin 20 MG/ML / phenylephrine hydrochloride 0.5 MG/ML Oral Solution,2237,118,19.0,590,14,Healthy,Low
+1117245,acetaminophen 500 MG / diphenhydramine hydrochloride 25 MG Oral Capsule,358,101,3.5,303,4,Low Stock,Medium
+1147619,acetaminophen 650 MG / diphenhydramine hydrochloride 25 MG / phenylephrine hydrochloride 10 MG Oral Tablet,1549,96,16.1,384,22,Healthy,Low
+1147795,acetaminophen 325 MG / chlorpheniramine maleate 2 MG / dextromethorphan hydrobromide 10 MG / pseudoephedrine hydrochloride 30 MG Oral Tablet,501,33,15.2,231,22,Healthy,Low
+1148399,8 HR acetaminophen 650 MG Extended Release Oral Tablet,296,54,5.5,162,9,Low Stock,Medium
+1189316,acetaminophen 500 MG / dextromethorphan hydrobromide 20 MG / phenylephrine hydrochloride 10 MG Granules for Oral Solution,5277,213,24.8,1065,36,Healthy,Low
+1190931,acetaminophen 650 MG / dexbrompheniramine maleate 2 MG Oral Tablet,259,46,5.6,276,6,Low Stock,Medium
+1193292,acetaminophen 250 MG / chlorpheniramine maleate 2 MG / dextromethorphan hydrobromide 10 MG / phenylephrine hydrochloride 5 MG Oral Capsule,905,155,5.8,1085,12,Low Stock,Medium
+1193293,acetaminophen 325 MG / chlorpheniramine maleate 4 MG / phenylephrine hydrochloride 10 MG Oral Tablet,2981,291,10.2,2037,23,Watch,Low
+1233575,acetaminophen 325 MG / diphenhydramine hydrochloride 12.5 MG / phenylephrine hydrochloride 5 MG Oral Tablet,776,52,14.9,156,34,Healthy,Low
+1234871,acetaminophen 356.4 MG / caffeine 30 MG / dihydrocodeine bitartrate 16 MG Oral Capsule,1937,108,17.9,648,22,Healthy,Low
+1234978,acetaminophen 712.8 MG / caffeine 60 MG / dihydrocodeine bitartrate 32 MG Oral Tablet,5252,202,26.0,808,35,Healthy,Low
+1234999,acetaminophen 500 MG / dihydrocodeine bitartrate 10 MG Oral Tablet,2095,210,10.0,1050,33,Watch,Low
+1235009,acetaminophen 500 MG / dihydrocodeine bitartrate 20 MG Oral Tablet,630,247,2.6,988,19,Low Stock,Medium
+1235011,acetaminophen 500 MG / dihydrocodeine bitartrate 30 MG Oral Tablet,3326,186,17.9,558,21,Healthy,Low
+1236070,acetaminophen 21.7 MG/ML / chlorpheniramine maleate 0.13 MG/ML / dextromethorphan hydrobromide 0.67 MG/ML Oral Solution,2308,242,9.5,1694,26,Watch,Low
+1236395,acetaminophen 250 MG / dextromethorphan hydrobromide 10 MG / doxylamine succinate 6.25 MG / pseudoephedrine hydrochloride 30 MG Oral Capsule,158,58,2.7,174,30,Low Stock,Medium
+1236419,acetaminophen 250 MG / dextromethorphan hydrobromide 10 MG / pseudoephedrine hydrochloride 30 MG Oral Capsule,2170,128,17.0,896,16,Healthy,Low
+1236435,acetaminophen 325 MG / dextromethorphan hydrobromide 15 MG / pseudoephedrine hydrochloride 30 MG Oral Capsule,1904,171,11.1,1026,23,Watch,Low
+1237110,acetaminophen 33.3 MG/ML / dextromethorphan hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML / pseudoephedrine hydrochloride 2 MG/ML Oral Solution,264,64,4.1,256,13,Low Stock,Medium
+1241829,acetaminophen 325 MG / phenylephrine hydrochloride 5 MG / pyrilamine maleate 25 MG Oral Tablet,3645,133,27.4,931,7,Healthy,Low
+1242618,acetaminophen 250 MG / doxylamine succinate 25 MG / salicylamide 150 MG Oral Tablet,1032,40,25.8,160,15,Healthy,Low
+1242747,acetaminophen 162.5 MG / chlorpheniramine maleate 2 MG / dextromethorphan hydrobromide 10 MG / phenylephrine hydrochloride 5 MG Oral Capsule,4567,259,17.6,1554,13,Healthy,Low
+1243679,acetaminophen 325 MG / guaifenesin 200 MG / phenylephrine hydrochloride 5 MG Oral Tablet,5440,232,23.4,1392,15,Healthy,Low
+1244918,acetaminophen 21.7 MG/ML / dextromethorphan hydrobromide 1 MG/ML / doxylamine succinate 0.25 MG/ML Oral Solution,742,248,3.0,1488,22,Low Stock,Medium
+1245169,acetaminophen 163 MG / chlorpheniramine maleate 2 MG / dextromethorphan hydrobromide 10 MG / phenylephrine hydrochloride 5 MG Oral Tablet,434,79,5.5,316,15,Low Stock,Medium
+1249617,acetaminophen 300 MG / butalbital 50 MG Oral Tablet,777,98,7.9,490,8,Watch,Low
+1250743,acetaminophen 500 MG / dextromethorphan hydrobromide 15 MG / pseudoephedrine hydrochloride 30 MG Oral Tablet,686,43,16.0,301,14,Healthy,Low
+1251928,acetaminophen 500 MG / chlorpheniramine maleate 2 MG / pseudoephedrine hydrochloride 30 MG Oral Tablet,605,200,3.0,1000,29,Low Stock,Medium
+1291711,acetaminophen 500 MG / diphenhydramine hydrochloride 25 MG / pseudoephedrine hydrochloride 30 MG Oral Tablet,160,16,10.0,48,18,Watch,Low
+1291948,acetaminophen 24 MG/ML / diphenhydramine hydrochloride 2.5 MG/ML Oral Solution,3810,143,26.6,1001,16,Healthy,Low
+1291951,acetaminophen 21.7 MG/ML / dextromethorphan hydrobromide 0.667 MG/ML / pseudoephedrine hydrochloride 2 MG/ML Oral Solution,2694,210,12.8,1470,12,Watch,Low
+1292342,acetaminophen 43.3 MG/ML / chlorpheniramine maleate 0.267 MG/ML / dextromethorphan hydrobromide 2 MG/ML Oral Solution,178,53,3.4,318,3,Low Stock,Medium
+1293344,acetaminophen 325 MG / chlorpheniramine maleate 2 MG / pseudoephedrine hydrochloride 30 MG Oral Tablet,2807,197,14.2,1379,13,Healthy,Low
+1294019,acetaminophen 325 MG / guaifenesin 200 MG / pseudoephedrine hydrochloride 30 MG Oral Tablet,3368,215,15.7,1505,12,Healthy,Low
+1294201,acetaminophen 325 MG / chlorpheniramine maleate 2 MG / pseudoephedrine hydrochloride 30 MG Oral Capsule,3982,274,14.5,1918,14,Healthy,Low
+1294607,acetaminophen 21.7 MG/ML / diphenhydramine hydrochloride 0.833 MG/ML Oral Solution,1599,163,9.8,652,26,Watch,Low
+1297288,acetaminophen 325 MG / dextromethorphan hydrobromide 10 MG / doxylamine succinate 6.25 MG / phenylephrine hydrochloride 5 MG Oral Capsule,786,35,22.5,105,15,Healthy,Low
+1297947,acetaminophen 500 MG / diphenhydramine citrate 38 MG Oral Powder,1205,47,25.6,235,28,Healthy,Low
+1298288,acetaminophen 650 MG / dextromethorphan hydrobromide 30 MG / diphenhydramine hydrochloride 50 MG / pseudoephedrine hydrochloride 60 MG Oral Tablet,113,18,6.3,90,20,Low Stock,Medium
+1298348,acetaminophen 21.7 MG/ML / diphenhydramine hydrochloride 0.833 MG/ML / phenylephrine hydrochloride 0.333 MG/ML Oral Solution,2328,126,18.5,882,8,Healthy,Low
+1299646,acetaminophen 325 MG / chlorpheniramine maleate 2 MG / dextromethorphan hydrobromide 15 MG / pseudoephedrine hydrochloride 30 MG Oral Capsule,4021,221,18.2,1547,10,Healthy,Low
+1299662,acetaminophen 325 MG / chlorpheniramine maleate 2 MG / dextromethorphan hydrobromide 10 MG / pseudoephedrine hydrochloride 30 MG Oral Capsule,1797,79,22.7,316,36,Healthy,Low
+1303251,acetaminophen 100 MG / caffeine 2 MG / chlorpheniramine maleate 2 MG Oral Capsule,3728,229,16.3,1374,31,Healthy,Low
+1304853,acetaminophen 33.3 MG/ML / brompheniramine maleate 0.133 MG/ML / pseudoephedrine hydrochloride 2 MG/ML Oral Solution,510,53,9.6,318,25,Watch,Low
+1307244,acetaminophen 325 MG / chlorpheniramine maleate 2 MG / dextromethorphan hydrobromide 15 MG / phenylephrine hydrochloride 5 MG Oral Tablet,3727,283,13.2,1132,35,Watch,Low
+1309062,acetaminophen 325 MG / guaifenesin 100 MG / phenylephrine hydrochloride 5 MG Oral Tablet,939,74,12.7,370,22,Watch,Low
+1312260,acetaminophen 325 MG / dextromethorphan hydrobromide 15 MG / phenylephrine hydrochloride 5 MG Oral Capsule,4595,170,27.0,1190,7,Healthy,Low
+1313969,acetaminophen 325 MG / chlorpheniramine maleate 2 MG / phenylephrine hydrochloride 5 MG Oral Capsule,5364,265,20.2,1590,31,Healthy,Low
+1359154,acetaminophen 500 MG / dextromethorphan hydrobromide 20 MG / guaifenesin 400 MG / pseudoephedrine hydrochloride 60 MG Oral Tablet,1804,204,8.8,1224,29,Watch,Low
+1359455,acetaminophen 33.3 MG/ML / dextromethorphan hydrobromide 1 MG/ML Oral Solution,3405,229,14.9,1145,30,Healthy,Low
+1366825,acetaminophen 80 MG / chlorpheniramine maleate 0.5 MG / dextromethorphan hydrobromide 2.5 MG / pseudoephedrine hydrochloride 7.5 MG Chewable Tablet,2662,261,10.2,1305,18,Watch,Low
+1367204,acetaminophen 325 MG / dextromethorphan hydrobromide 15 MG / guaifenesin 200 MG / phenylephrine hydrochloride 5 MG Oral Tablet,967,186,5.2,558,25,Low Stock,Medium
+1367205,acetaminophen 325 MG / dextromethorphan hydrobromide 15 MG / phenylephrine hydrochloride 5 MG Oral Tablet,2543,108,23.5,540,11,Healthy,Low
+1367206,acetaminophen 325 MG / guaifenesin 200 MG / phenylephrine hydrochloride 10 MG Oral Tablet,1354,89,15.2,534,13,Healthy,Low
+1367210,acetaminophen 500 MG / caffeine 32.5 MG / phenylephrine hydrochloride 5 MG Oral Tablet,2061,111,18.6,444,29,Healthy,Low
+1369842,acetaminophen 21.7 MG/ML / dextromethorphan hydrobromide 0.667 MG/ML / guaifenesin 13.3 MG/ML / phenylephrine hydrochloride 0.333 MG/ML Oral Solution,2539,178,14.3,534,12,Healthy,Low
+1369927,acetaminophen 33.3 MG/ML / dextromethorphan hydrobromide 1 MG/ML / pseudoephedrine hydrochloride 2 MG/ML Oral Solution,3542,220,16.1,880,36,Healthy,Low
+1370113,acetaminophen 32 MG/ML / dextromethorphan hydrobromide 1 MG/ML Oral Suspension,2176,294,7.4,2058,33,Watch,Low
+1370285,acetaminophen 16.7 MG/ML / caffeine 1.08 MG/ML Oral Solution,2049,82,25.0,328,5,Healthy,Low
+1372312,acetaminophen 32 MG/ML / chlorpheniramine maleate 0.2 MG/ML / phenylephrine hydrochloride 0.5 MG/ML Oral Suspension,1105,67,16.5,335,33,Healthy,Low
+1375932,acetaminophen 32.5 MG/ML / diphenhydramine hydrochloride 1.25 MG/ML / phenylephrine hydrochloride 0.5 MG/ML Oral Solution,1157,78,14.8,312,27,Healthy,Low
+1425315,acetaminophen 325 MG / chlorpheniramine maleate 6.25 MG / dextromethorphan hydrobromide 15 MG Oral Tablet,4146,188,22.1,752,23,Healthy,Low
+1426334,acetaminophen 325 MG / dextromethorphan hydrobromide 10 MG / doxylamine succinate 6.25 MG Oral Capsule,406,123,3.3,369,12,Low Stock,Medium
+1431245,acetaminophen 21.7 MG/ML / dextromethorphan hydrobromide 0.667 MG/ML / doxylamine succinate 0.417 MG/ML / phenylephrine hydrochloride 0.333 MG/ML Oral Solution,169,48,3.5,192,25,Low Stock,Medium
+1431286,acetaminophen 300 MG / butalbital 50 MG / caffeine 40 MG / codeine phosphate 30 MG Oral Capsule,3753,132,28.4,924,9,Healthy,Low
+1432488,acetaminophen 250 MG / dextromethorphan hydrobromide 10 MG / guaifenesin 200 MG / phenylephrine hydrochloride 5 MG Oral Capsule,5247,245,21.4,735,32,Healthy,Low
+1484879,acetaminophen 500 MG / dextromethorphan hydrobromide 20 MG / guaifenesin 400 MG / phenylephrine hydrochloride 10 MG Oral Tablet,1088,116,9.4,580,34,Watch,Low
+152596,acetaminophen 500 MG / methionine 100 MG Oral Tablet,2843,117,24.3,819,27,Healthy,Low
+152620,acetaminophen 240 MG Rectal Suppository,1865,270,6.9,1350,34,Low Stock,Medium
+1534835,acetaminophen 650 MG / dextromethorphan hydrobromide 20 MG / doxylamine succinate 12.5 MG / phenylephrine hydrochloride 10 MG Powder for Oral Solution,326,87,3.7,609,21,Low Stock,Medium
+1536457,acetaminophen 500 MG / codeine phosphate 8 MG Effervescent Oral Tablet,567,268,2.1,1072,30,Low Stock,Medium
+1536459,acetaminophen 500 MG / codeine phosphate 30 MG Effervescent Oral Tablet,1282,70,18.3,210,18,Healthy,Low
+1536477,acetaminophen 250 MG / chlorpheniramine maleate 2 MG / dextromethorphan hydrobromide 10 MG / phenylephrine hydrochloride 5 MG Effervescent Oral Tablet,2393,286,8.4,2002,4,Watch,Low
+1536880,acetaminophen 500 MG Effervescent Oral Tablet,1294,157,8.2,471,26,Watch,Low
+1536882,acetaminophen 250 MG / phenylephrine hydrochloride 5 MG Effervescent Oral Tablet,1780,98,18.2,588,10,Healthy,Low
+1536924,acetaminophen 250 MG / dextromethorphan hydrobromide 10 MG / phenylephrine hydrochloride 5 MG Effervescent Oral Tablet,856,40,21.4,280,4,Healthy,Low
+1536931,acetaminophen 250 MG / chlorpheniramine maleate 2 MG / phenylephrine hydrochloride 5 MG Effervescent Oral Tablet,2344,223,10.5,1561,17,Watch,Low
+1536934,acetaminophen 325 MG / chlorpheniramine maleate 2 MG / dextromethorphan hydrobromide 10 MG / phenylpropanolamine bitartrate 20 MG Effervescent Oral Tablet,765,140,5.5,700,11,Low Stock,Medium
+1536999,acetaminophen 250 MG / dextromethorphan hydrobromide 10 MG / doxylamine succinate 6.25 MG / phenylephrine hydrochloride 5 MG Effervescent Oral Tablet,4951,167,29.6,501,30,Healthy,Low
+153830,acetaminophen 500 MG / domperidone 10 MG Oral Tablet,1477,208,7.1,832,17,Watch,Low
+1538456,acetaminophen 325 MG / pyrilamine maleate 25 MG Oral Tablet,5183,241,21.5,1205,17,Healthy,Low
+1540507,acetaminophen 80 MG / chlorpheniramine maleate 0.5 MG / phenylephrine hydrochloride 1.25 MG Chewable Tablet,2313,186,12.4,1302,33,Watch,Low
+1543072,acetaminophen 650 MG / caffeine 50 MG Oral Powder,341,255,1.3,1530,4,Critical,High
+1546700,acetaminophen 325 MG / dexbrompheniramine maleate 1 MG Oral Tablet,5528,264,20.9,1584,13,Healthy,Low
+1546881,acetaminophen 325 MG / dextromethorphan hydrobromide 10 MG / doxylamine succinate 6.25 MG / phenylephrine hydrochloride 5 MG Oral Tablet,1262,296,4.3,1776,15,Low Stock,Medium
+1550968,acetaminophen 500 MG / dextromethorphan hydrobromide 20 MG / guaifenesin 400 MG / phenylephrine hydrochloride 10 MG Powder for Oral Solution,2000,202,9.9,808,30,Watch,Low
+1593110,acetaminophen 250 MG / aspirin 250 MG / diphenhydramine citrate 38 MG Oral Tablet,2095,103,20.3,412,10,Healthy,Low
+1593450,acetaminophen 32.5 MG/ML / dextromethorphan hydrobromide 1 MG/ML / guaifenesin 20 MG/ML / phenylephrine hydrochloride 0.5 MG/ML Oral Suspension,5212,281,18.5,1686,20,Healthy,Low
+1593765,acetaminophen 32 MG/ML / chlophedianol hydrochloride 2.5 MG/ML / pyrilamine maleate 2.5 MG/ML Oral Solution,158,41,3.9,246,31,Low Stock,Medium
+1596108,acetaminophen 320.5 MG / caffeine 30 MG / dihydrocodeine bitartrate 16 MG Oral Capsule,6334,290,21.8,1740,31,Healthy,Low
+1597298,acetaminophen 500 MG / caffeine 60 MG / pyrilamine maleate 15 MG Oral Tablet,1825,234,7.8,1170,12,Watch,Low
+1599133,acetaminophen 60 MG / chlorpheniramine maleate 0.667 MG Oral Tablet,1870,77,24.3,308,6,Healthy,Low
+1602568,acetaminophen 500 MG / phenyltoloxamine citrate 29 MG Oral Tablet,292,116,2.5,580,18,Low Stock,Medium
+1656815,acetaminophen 325 MG / dextromethorphan hydrobromide 10 MG / guaifenesin 200 MG / phenylephrine hydrochloride 5 MG Oral Capsule,3698,258,14.3,1290,7,Healthy,Low
+1659175,acetaminophen 500 MG / diphenhydramine hydrochloride 25 MG / phenylephrine hydrochloride 10 MG Powder for Oral Solution,705,297,2.4,891,20,Low Stock,Medium
+1659960,acetaminophen 650 MG / diphenhydramine hydrochloride 25 MG / phenylephrine hydrochloride 10 MG Granules for Oral Solution,987,264,3.7,1056,17,Low Stock,Medium
+1659964,acetaminophen 650 MG / pheniramine maleate 20 MG / phenylephrine hydrochloride 10 MG Powder for Oral Solution,1941,87,22.3,522,25,Healthy,Low
+1659967,acetaminophen 650 MG / dextromethorphan hydrobromide 20 MG / phenylephrine hydrochloride 10 MG Granules for Oral Solution,2625,233,11.3,932,28,Watch,Low
+1661683,acetaminophen 16.7 MG/ML Oral Solution,3603,204,17.7,1020,27,Healthy,Low
+1673869,acetaminophen 325 MG / dextromethorphan hydrobromide 20 MG / guaifenesin 200 MG / pseudoephedrine hydrochloride 60 MG Oral Tablet,2027,72,28.2,216,18,Healthy,Low
+1724446,acetaminophen 325 MG / butalbital 25 MG Oral Tablet,573,146,3.9,584,17,Low Stock,Medium
+1741529,acetaminophen 650 MG / chlorpheniramine maleate 4 MG / phenylephrine hydrochloride 10 MG Oral Powder,5620,274,20.5,1096,16,Healthy,Low
+1743369,acetaminophen 25 MG/ML / chlorpheniramine maleate 0.4 MG/ML / dextromethorphan hydrobromide 1.33 MG/ML / guaifenesin 20 MG/ML / phenylephrine hydrochloride 0.5 MG/ML Oral Solution,5378,186,28.9,930,25,Healthy,Low
+1744049,acetaminophen 325 MG / chlorpheniramine maleate 3 MG / dextromethorphan hydrobromide 30 MG / phenylephrine hydrochloride 5 MG Oral Tablet,6924,258,26.8,774,7,Healthy,Low
+1790651,acetaminophen 25 MG/ML / dextromethorphan hydrobromide 1.33 MG/ML / guaifenesin 20 MG/ML / phenylephrine hydrochloride 0.5 MG/ML Oral Solution,1838,255,7.2,1020,4,Watch,Low
+1796460,acetaminophen 325 MG / pheniramine maleate 20 MG / phenylephrine hydrochloride 10 MG Powder for Oral Solution,536,115,4.7,460,20,Low Stock,Medium
+1796708,acetaminophen 32 MG/ML / dextromethorphan hydrobromide 1 MG/ML Oral Solution,5435,246,22.1,738,27,Healthy,Low
+1798453,acetaminophen 500 MG / dexbrompheniramine maleate 1 MG Oral Tablet,2951,106,27.8,742,34,Healthy,Low
+1805288,acetaminophen 650 MG / dextromethorphan hydrobromide 30 MG / doxylamine succinate 12.5 MG Powder for Oral Solution,656,106,6.2,318,15,Low Stock,Medium
+1812164,acetaminophen 325 MG / caffeine 30 MG / dihydrocodeine bitartrate 16 MG Oral Tablet,3455,127,27.2,889,13,Healthy,Low
+1867684,acetaminophen 325 MG / dextromethorphan hydrobromide 10 MG Oral Capsule,3745,161,23.3,644,35,Healthy,Low
+1919076,acetaminophen 32.5 MG/ML / dextromethorphan hydrobromide 1 MG/ML Oral Solution,661,52,12.7,312,26,Watch,Low
+197425,acetaminophen 325 MG / butalbital 50 MG Oral Capsule,1419,73,19.4,511,14,Healthy,Low
+197426,acetaminophen 325 MG / butalbital 50 MG Oral Tablet,3494,184,19.0,736,29,Healthy,Low
+197427,acetaminophen 650 MG / butalbital 50 MG Oral Capsule,1070,58,18.4,174,6,Healthy,Low
+197428,acetaminophen 650 MG / butalbital 50 MG Oral Tablet,696,268,2.6,1340,32,Low Stock,Medium
+198204,acetaminophen 250 MG / salicylamide 600 MG Oral Tablet,2916,248,11.8,1240,10,Watch,Low
+198434,acetaminophen 120 MG Rectal Suppository,1717,297,5.8,1485,5,Low Stock,Medium
+198436,acetaminophen 325 MG Oral Capsule,6496,268,24.2,1608,28,Healthy,Low
+198437,acetaminophen 325 MG Rectal Suppository,620,51,12.2,357,12,Watch,Low
+198439,acetaminophen 500 MG Oral Capsule,2028,205,9.9,1435,34,Watch,Low
+198440,acetaminophen 500 MG Oral Tablet,1160,177,6.6,885,27,Low Stock,Medium
+198443,acetaminophen 650 MG Rectal Suppository,808,224,3.6,1120,13,Low Stock,Medium
+198444,acetaminophen 650 MG Oral Tablet,5340,260,20.5,1040,3,Healthy,Low
+198445,acetaminophen 80 MG Rectal Suppository,1484,56,26.5,392,9,Healthy,Low
+198449,acetaminophen 500 MG / pamabrom 25 MG Oral Tablet,4803,256,18.8,1792,15,Healthy,Low
+1995136,acetaminophen 300 MG / butalbital 50 MG Oral Capsule,909,67,13.6,402,34,Watch,Low
+1996081,acetaminophen 32.5 MG/ML / dextromethorphan hydrobromide 1 MG/ML / phenylephrine hydrochloride 0.5 MG/ML Oral Solution,4472,150,29.8,750,16,Healthy,Low
+1996098,acetaminophen 32.5 MG/ML / dextromethorphan hydrobromide 1 MG/ML / diphenhydramine hydrochloride 1.25 MG/ML / phenylephrine hydrochloride 0.5 MG/ML Oral Solution,1064,116,9.2,580,13,Watch,Low
+2001358,acetaminophen 325 MG / benzhydrocodone 6.12 MG Oral Tablet,1331,87,15.3,261,13,Healthy,Low
+204900,acetaminophen 16 MG/ML Oral Solution,1521,164,9.3,820,9,Watch,Low
+2049223,acetaminophen 325 MG / guaifenesin 200 MG / phenylephrine hydrochloride 5 MG Oral Capsule,1358,80,17.0,320,26,Healthy,Low
+2049283,acetaminophen 33.3 MG/ML / chlorpheniramine maleate 0.133 MG/ML / dextromethorphan hydrobromide 1 MG/ML / pseudoephedrine hydrochloride 2 MG/ML Oral Solution,2156,90,24.0,540,12,Healthy,Low
+2049841,acetaminophen 325 MG / chlorpheniramine maleate 2 MG / dextromethorphan hydrobromide 10 MG Oral Tablet,6888,273,25.2,819,31,Healthy,Low
+205251,acetaminophen 160 MG / aspirin 230 MG / caffeine 33 MG Oral Tablet,1619,68,23.8,340,25,Healthy,Low
+2101281,acetaminophen 32 MG/ML / dextromethorphan hydrobromide 1.5 MG/ML Oral Solution,912,38,24.0,190,31,Healthy,Low
+2101282,acetaminophen 325 MG / dextromethorphan hydrobromide 15 MG / guaifenesin 200 MG Oral Tablet,193,17,11.4,51,18,Watch,Low
+2105822,acetaminophen 60 MG/ML / oxycodone hydrochloride 2 MG/ML Oral Solution,397,79,5.0,474,12,Low Stock,Medium
+2118728,acetaminophen 325 MG / benzhydrocodone 4.08 MG Oral Tablet,5913,244,24.2,1220,36,Healthy,Low
+2118732,acetaminophen 325 MG / benzhydrocodone 8.16 MG Oral Tablet,7755,296,26.2,1480,32,Healthy,Low
+2121065,acetaminophen 65 MG/ML / chlorpheniramine maleate 0.4 MG/ML / dextromethorphan hydrobromide 1.3 MG/ML / phenylephrine hydrochloride 1 MG/ML Oral Solution,469,31,15.1,186,10,Healthy,Low
+2122363,acetaminophen 160 MG / dextromethorphan hydrobromide 5 MG Chewable Tablet,5215,295,17.7,1475,25,Healthy,Low
+2168792,acetaminophen 21.7 MG/ML / dextromethorphan hydrobromide 1 MG/ML Oral Solution,3102,285,10.9,1995,36,Watch,Low
+2173662,acetaminophen 32.5 MG/ML / dextromethorphan hydrobromide 1 MG/ML / phenylephrine hydrochloride 0.5 MG/ML / triprolidine hydrochloride 0.125 MG/ML Oral Solution,1471,64,23.0,192,21,Healthy,Low
+2173667,acetaminophen 32.5 MG/ML / dextromethorphan hydrobromide 1 MG/ML / triprolidine hydrochloride 0.125 MG/ML Oral Solution,4042,249,16.2,1494,28,Healthy,Low
+2178755,acetaminophen 160 MG Oral Powder,2115,83,25.5,415,12,Healthy,Low
+2181307,acetaminophen 325 MG / caffeine 45 MG / chlorpheniramine maleate 2 MG / phenylephrine hydrochloride 5 MG Oral Tablet,1363,282,4.8,1410,3,Low Stock,Medium
+2264779,acetaminophen 325 MG Chewable Tablet,5137,245,21.0,1715,29,Healthy,Low
+226882,acetaminophen 60 MG Rectal Suppository,1324,150,8.8,750,9,Watch,Low
+2360605,acetaminophen 500 MG / aspirin 500 MG / caffeine 65 MG Oral Powder,3075,288,10.7,2016,36,Watch,Low
+2374360,acetaminophen 500 MG Oral Powder,3475,186,18.7,1302,32,Healthy,Low
+2374554,acetaminophen 32.5 MG/ML / diphenhydramine hydrochloride 1.25 MG/ML Oral Solution,453,132,3.4,528,25,Low Stock,Medium
+2377385,acetaminophen 325 MG / dextromethorphan hydrobromide 10 MG / guaifenesin 200 MG Oral Capsule,472,33,14.3,231,31,Healthy,Low
+238153,acetaminophen 325 MG / butalbital 50 MG / caffeine 40 MG Oral Capsule,1964,98,20.0,294,34,Healthy,Low
+238154,acetaminophen 325 MG / butalbital 50 MG / caffeine 40 MG Oral Tablet,1946,266,7.3,1064,22,Watch,Low
+238159,acetaminophen 100 MG/ML Oral Solution,4648,274,17.0,822,9,Healthy,Low
+2387532,acetaminophen 250 MG / ibuprofen 125 MG Oral Tablet,2980,196,15.2,1372,28,Healthy,Low
+2391564,acetaminophen 500 MG / phenyltoloxamine citrate 30 MG Oral Tablet,6441,244,26.4,732,25,Healthy,Low
+2391569,acetaminophen 325 MG / phenyltoloxamine citrate 30 MG Oral Tablet,2519,187,13.5,561,4,Watch,Low
+240093,acetaminophen 500 MG / butalbital 50 MG / caffeine 40 MG Oral Tablet,3498,147,23.8,588,13,Healthy,Low
+241864,acetaminophen 650 MG / phenyltoloxamine citrate 50 MG Oral Tablet,361,29,12.4,203,27,Watch,Low
+243675,acetaminophen 100 MG/ML Oral Suspension,4946,193,25.6,965,20,Healthy,Low
+243694,acetaminophen 194 MG / aspirin 227 MG / caffeine 33 MG Oral Tablet,439,69,6.4,276,7,Low Stock,Medium
+2463332,acetaminophen 500 MG / chlorpheniramine maleate 4 MG / phenylephrine hydrochloride 10 MG Oral Tablet,932,38,24.5,152,34,Healthy,Low
+247324,acetaminophen 500 MG / dextromethorphan hydrobromide 15 MG Oral Tablet,342,97,3.5,679,10,Low Stock,Medium
+247816,acetaminophen 325 MG / caffeine 65 MG Oral Tablet,4214,279,15.1,1674,33,Healthy,Low
+2480095,50 ML acetaminophen 10 MG/ML Injection,466,258,1.8,1032,21,Critical,High
+248316,acetaminophen 50 MG/ML Oral Solution,1013,36,28.1,216,20,Healthy,Low
+249875,acetaminophen 250 MG Rectal Suppository,1192,45,26.5,225,11,Healthy,Low
+250085,acetaminophen 25 MG/ML / ibuprofen 20 MG/ML Oral Suspension,2746,235,11.7,940,34,Watch,Low
+250420,acetaminophen 500 MG / caffeine 32 MG Oral Capsule,2905,160,18.2,640,17,Healthy,Low
+250649,acetaminophen 50 MG/ML Oral Suspension,4630,241,19.2,1687,34,Healthy,Low
+250650,acetaminophen 24 MG/ML Oral Suspension,4589,230,20.0,1610,36,Healthy,Low
+250651,acetaminophen 500 MG Rectal Suppository,1665,71,23.5,284,19,Healthy,Low
+251169,acetaminophen 325 MG / isometheptene 65 MG Oral Capsule,328,116,2.8,464,29,Low Stock,Medium
+251374,acetaminophen 80 MG Disintegrating Oral Tablet,92,10,9.2,50,25,Watch,Low
+251454,acetaminophen 500 MG / metoclopramide 5 MG Oral Tablet,3419,119,28.7,357,33,Healthy,Low
+251698,acetaminophen 300 MG Rectal Suppository,5890,224,26.3,1344,17,Healthy,Low
+252650,acetaminophen 500 MG / melatonin 1.5 MG Oral Tablet,4081,143,28.5,858,13,Healthy,Low
+2549034,acetaminophen 325 MG / dextromethorphan hydrobromide 10 MG / triprolidine hydrochloride 1.25 MG Oral Tablet,1954,194,10.1,970,22,Watch,Low
+2549037,acetaminophen 325 MG / dextromethorphan hydrobromide 10 MG / phenylephrine hydrochloride 5 MG / triprolidine hydrochloride 1.25 MG Oral Tablet,2500,106,23.6,318,11,Healthy,Low
+2557336,acetaminophen 325 MG / chlorpheniramine maleate 2 MG / dextromethorphan hydrobromide 10 MG / phenylephrine hydrochloride 5 MG Effervescent Oral Tablet,1716,102,16.8,510,32,Healthy,Low
+2588212,acetaminophen 6.67 MG/ML / chlorpheniramine maleate 0.0833 MG/ML / dextromethorphan hydrobromide 0.5 MG/ML Oral Solution,1750,227,7.7,1135,33,Watch,Low
+2599517,acetaminophen 325 MG / chlorpheniramine maleate 4 MG / phenylephrine hydrochloride 10 MG Oral Capsule,729,36,20.2,252,16,Healthy,Low
+2604561,acetaminophen 21.7 MG/ML / dextromethorphan hydrobromide 0.667 MG/ML Oral Solution,1618,95,17.0,665,4,Healthy,Low
+2604562,acetaminophen 33.3 MG/ML / chlorpheniramine maleate 0.133 MG/ML / dextromethorphan hydrobromide 1 MG/ML Oral Solution,5642,273,20.7,1911,34,Healthy,Low
+2608082,acetaminophen 325 MG / dextromethorphan hydrobromide 10 MG / phenylephrine hydrochloride 5 MG / triprolidine hydrochloride 1.25 MG Oral Capsule,6576,290,22.7,2030,7,Healthy,Low
+2636656,acetaminophen 1000 MG / dextromethorphan hydrobromide 30 MG Powder for Oral Solution,48,20,2.4,140,14,Low Stock,Medium
+2636658,acetaminophen 1000 MG / chlorpheniramine maleate 4 MG / dextromethorphan hydrobromide 30 MG Powder for Oral Solution,1396,58,24.1,348,3,Healthy,Low
+2645106,acetaminophen 10 MG/ML / chlorpheniramine maleate 0.125 MG/ML Oral Solution,690,24,28.8,144,28,Healthy,Low
+2668206,acetaminophen 500 MG Granules for Oral Solution,2130,119,17.9,476,10,Healthy,Low
+2670598,acetaminophen 500 MG / dextromethorphan hydrobromide 20 MG Powder for Oral Solution,6235,294,21.2,882,31,Healthy,Low
+2670677,acetaminophen 650 MG / diphenhydramine hydrochloride 25 MG Powder for Oral Solution,2295,123,18.7,615,23,Healthy,Low
+2670678,acetaminophen 650 MG / dextromethorphan hydrobromide 20 MG Powder for Oral Solution,1751,146,12.0,438,15,Watch,Low
+2673874,100 ML acetaminophen 10 MG/ML / ibuprofen 3 MG/ML Injection,124,12,10.3,48,14,Watch,Low
+2675760,acetaminophen 325 MG / ibuprofen 97.5 MG Oral Tablet,290,13,22.3,78,21,Healthy,Low
+2677914,acetaminophen 325 MG / dextromethorphan hydrobromide 10 MG / doxylamine succinate 6.25 MG / phenylephrine hydrochloride 5 MG Powder for Oral Solution,2262,287,7.9,2009,33,Watch,Low
+2677915,acetaminophen 325 MG / dextromethorphan hydrobromide 10 MG / guaifenesin 200 MG / phenylephrine hydrochloride 5 MG Powder for Oral Solution,512,48,10.7,336,30,Watch,Low
+2678223,acetaminophen 162.5 MG / dextromethorphan hydrobromide 5 MG Chewable Tablet,2793,121,23.1,847,5,Healthy,Low
+2678231,acetaminophen 162.5 MG / chlorpheniramine maleate 2 MG / dextromethorphan hydrobromide 5 MG Chewable Tablet,5957,214,27.8,856,8,Healthy,Low
+2679420,acetaminophen 500 MG / dextromethorphan hydrobromide 20 MG Granules for Oral Solution,6363,237,26.8,711,34,Healthy,Low
+2679425,acetaminophen 650 MG / diphenhydramine hydrochloride 25 MG Granules for Oral Solution,5230,238,22.0,1428,8,Healthy,Low
+2680300,acetaminophen 32.5 MG/ML / dextromethorphan hydrobromide 1 MG/ML / guaifenesin 20 MG/ML Oral Solution,2960,105,28.2,420,3,Healthy,Low
+2683419,acetaminophen 250 MG Chewable Tablet,563,60,9.4,420,14,Watch,Low
+2683420,acetaminophen 32 MG/ML / diphenhydramine hydrochloride 1.25 MG/ML Oral Solution,1204,185,6.5,925,27,Low Stock,Medium
+2684921,acetaminophen 325 MG / dextromethorphan hydrobromide 10 MG / guaifenesin 200 MG Oral Tablet,3329,180,18.5,540,14,Healthy,Low
+2685209,acetaminophen 325 MG / dextromethorphan hydrobromide 10 MG Chewable Tablet,6540,260,25.2,1820,11,Healthy,Low
+2691098,acetaminophen 325 MG / chlorpheniramine maleate 2 MG / phenylephrine hydrochloride 5 MG Effervescent Oral Tablet,1573,101,15.6,303,17,Healthy,Low
+2691101,acetaminophen 325 MG / dextromethorphan hydrobromide 10 MG / phenylephrine hydrochloride 5 MG Effervescent Oral Tablet,5436,206,26.4,1442,36,Healthy,Low
+2691689,acetaminophen 325 MG / diphenhydramine hydrochloride 12.5 MG Chewable Tablet,2595,103,25.2,412,19,Healthy,Low
+2692302,acetaminophen 32.5 MG/ML / dextromethorphan hydrobromide 1.5 MG/ML / doxylamine succinate 0.625 MG/ML Oral Suspension,1399,176,7.9,880,9,Watch,Low
+2693770,acetaminophen 32 MG/ML / dextromethorphan hydrobromide 0.5 MG/ML Oral Suspension,858,182,4.7,1092,33,Low Stock,Medium
+2693772,acetaminophen 32.5 MG/ML / dextromethorphan hydrobromide 1 MG/ML Oral Suspension,1889,90,21.0,360,16,Healthy,Low
+2693775,acetaminophen 32.5 MG/ML / diphenhydramine hydrochloride 1.25 MG/ML Oral Suspension,1278,100,12.8,300,8,Watch,Low
+2705808,acetaminophen 80 MG Oral Film,2425,238,10.2,1428,36,Watch,Low
+2709229,acetaminophen 325 MG / chlorpheniramine maleate 4 MG / dextromethorphan hydrobromide 20 MG / phenylephrine hydrochloride 10 MG Oral Tablet,1494,145,10.3,870,32,Watch,Low
+2709673,acetaminophen 325 MG / dextromethorphan hydrobromide 10 MG Oral Tablet,397,49,8.1,245,8,Watch,Low
+2712155,acetaminophen 32.5 MG/ML / dextromethorphan hydrobromide 2 MG/ML / guaifenesin 40 MG/ML / phenylephrine hydrochloride 1 MG/ML Oral Solution,256,222,1.2,1110,31,Critical,High
+2712156,acetaminophen 32.5 MG/ML / guaifenesin 20 MG/ML / phenylephrine hydrochloride 1 MG/ML Oral Solution,341,89,3.8,534,25,Low Stock,Medium
+2713312,acetaminophen 325 MG / dextromethorphan hydrobromide 10 MG / doxylamine succinate 6.25 MG Oral Tablet,2259,178,12.7,1246,22,Watch,Low
+2715604,65 ML acetaminophen 10 MG/ML Injection,4504,271,16.6,813,20,Healthy,Low
+2715863,acetaminophen 162.5 MG / dextromethorphan hydrobromide 5 MG / doxylamine succinate 3.125 MG Chewable Tablet,1583,87,18.2,609,12,Healthy,Low
+2719840,acetaminophen 45 MG/ML Oral Solution,478,111,4.3,777,11,Low Stock,Medium
+2722932,acetaminophen 500 MG / dextromethorphan hydrobromide 20 MG / pseudoephedrine hydrochloride 60 MG Powder for Oral Solution,683,236,2.9,708,30,Low Stock,Medium
+2723021,acetaminophen 500 MG / dextromethorphan hydrobromide 15 MG / doxylamine succinate 6.25 MG / pseudoephedrine hydrochloride 30 MG Oral Capsule,680,210,3.2,1050,18,Low Stock,Medium
+2723022,acetaminophen 325 MG / dextromethorphan hydrobromide 10 MG / guaifenesin 200 MG / pseudoephedrine hydrochloride 30 MG Oral Capsule,1254,80,15.7,400,8,Healthy,Low
+2728420,acetaminophen 33.3 MG/ML / dexbrompheniramine maleate 0.0667 MG/ML Oral Solution,3219,193,16.7,1351,15,Healthy,Low
+2729424,acetaminophen 500 MG / dexbrompheniramine maleate 2 MG Oral Tablet,2686,241,11.1,1687,19,Watch,Low
+2729789,acetaminophen 325 MG / diphenhydramine hydrochloride 25 MG Oral Tablet,2579,197,13.1,1182,24,Watch,Low
+2733907,acetaminophen 43.3 MG/ML / dextromethorphan hydrobromide 1.33 MG/ML / doxylamine succinate 0.833 MG/ML / phenylephrine hydrochloride 0.667 MG/ML Oral Solution,1316,158,8.3,1106,26,Watch,Low
+2734143,acetaminophen 500 MG / aspirin 500 MG / caffeine 130 MG Oral Powder,1482,149,9.9,1043,20,Watch,Low
+2734621,acetaminophen 325 MG / dextromethorphan hydrobromide 15 MG / doxylamine succinate 6.25 MG / phenylephrine hydrochloride 5 MG Oral Capsule,383,20,19.1,120,4,Healthy,Low
+2739790,acetaminophen 325 MG / dextromethorphan hydrobromide 20 MG / doxylamine succinate 12.5 MG Oral Capsule,1120,221,5.1,1326,30,Low Stock,Medium
+2739993,acetaminophen 162.5 MG / guaifenesin 100 MG Oral Granules,3531,228,15.5,684,11,Healthy,Low
+2744312,acetaminophen 250 MG / chlorpheniramine maleate 2 MG / dextromethorphan hydrobromide 10 MG Effervescent Oral Tablet,188,25,7.5,175,28,Watch,Low
+2744315,acetaminophen 250 MG / dextromethorphan hydrobromide 10 MG Effervescent Oral Tablet,1694,128,13.2,512,14,Watch,Low
+2744316,acetaminophen 33.3 MG/ML / dextromethorphan hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Suspension,3291,135,24.4,540,5,Healthy,Low
+2746451,acetaminophen 21.7 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution,8007,276,29.0,1932,8,Healthy,Low
+2749403,acetaminophen 325 MG / naproxen sodium 110 MG Oral Tablet,2976,300,9.9,1800,33,Watch,Low
+2749690,acetaminophen 500 MG / dextromethorphan hydrobromide 15 MG Oral Capsule,756,149,5.1,447,30,Low Stock,Medium
+2749691,acetaminophen 500 MG / dextromethorphan hydrobromide 15 MG / doxylamine succinate 6.25 MG Oral Capsule,496,159,3.1,795,12,Low Stock,Medium
+282464,acetaminophen 160 MG Oral Tablet,1100,238,4.6,1428,6,Low Stock,Medium
+283274,acetaminophen 250 MG / caffeine 50 MG / magnesium salicylate 290 MG Oral Tablet,7643,287,26.6,1722,13,Healthy,Low
+284094,acetaminophen 500 MG / phenyltoloxamine citrate 60 MG Oral Tablet,4051,248,16.3,1240,8,Healthy,Low
+307666,acetaminophen 125 MG Rectal Suppository,4255,195,21.8,780,26,Healthy,Low
+307667,acetaminophen 160 MG Oral Capsule,3058,170,18.0,510,27,Healthy,Low
+307668,acetaminophen 32 MG/ML Oral Suspension,1377,59,23.3,236,31,Healthy,Low
+307675,acetaminophen 32 MG/ML Oral Solution,2816,147,19.2,588,24,Healthy,Low
+307684,acetaminophen 33.3 MG/ML Oral Solution,845,58,14.6,232,27,Healthy,Low
+307686,acetaminophen 500 MG / caffeine 65 MG Oral Tablet,2313,111,20.8,555,20,Healthy,Low
+307695,acetaminophen 80 MG Oral Capsule,695,205,3.4,1435,11,Low Stock,Medium
+307696,acetaminophen 80 MG Chewable Tablet,4284,194,22.1,1164,26,Healthy,Low
+308278,acetaminophen 115 MG / aspirin 210 MG / caffeine 16 MG / salicylamide 65 MG Oral Tablet,3025,105,28.8,315,6,Healthy,Low
+308297,acetaminophen 250 MG / aspirin 250 MG / caffeine 65 MG Oral Tablet,932,156,6.0,936,12,Low Stock,Medium
+308310,acetaminophen 325 MG / caffeine 100 MG / isometheptene 65 MG Oral Capsule,4225,180,23.5,900,8,Healthy,Low
+308322,acetaminophen 500 MG / butalbital 50 MG / caffeine 40 MG Oral Capsule,925,133,7.0,798,17,Low Stock,Medium
+312288,acetaminophen 650 MG / pentazocine 25 MG Oral Tablet,254,52,4.9,260,11,Low Stock,Medium
+313782,acetaminophen 325 MG Oral Tablet,1732,208,8.3,1040,36,Watch,Low
+313820,acetaminophen 160 MG Chewable Tablet,6416,247,26.0,741,5,Healthy,Low
+348978,acetaminophen 300 MG Oral Tablet,2086,85,24.5,425,24,Healthy,Low
+359221,acetaminophen 110 MG / aspirin 162 MG / caffeine 32.4 MG / salicylamide 152 MG Oral Tablet,2643,99,26.7,297,10,Healthy,Low
+388081,acetaminophen 250 MG Disintegrating Oral Tablet,6786,246,27.6,738,21,Healthy,Low
+392293,acetaminophen 48.2 MG/ML Oral Solution,3633,123,29.5,861,19,Healthy,Low
+403937,acetaminophen 500 MG / caffeine 65 MG Disintegrating Oral Tablet,716,24,29.8,144,23,Healthy,Low
+410226,acetaminophen 500 MG / caffeine 65 MG Oral Capsule,391,51,7.7,204,19,Watch,Low
+421071,acetaminophen 100 MG Rectal Suppository,1223,57,21.5,285,25,Healthy,Low
+422626,acetaminophen 25 MG/ML Oral Suspension,383,41,9.3,205,27,Watch,Low
+425723,acetaminophen 120 MG/ML Oral Solution,1037,63,16.5,441,12,Healthy,Low
+430837,acetaminophen 1000 MG Oral Tablet,4499,256,17.6,1024,3,Healthy,Low
+432736,acetaminophen 500 MG / racemethionine 250 MG Oral Tablet,370,13,28.5,65,25,Healthy,Low
+437160,acetaminophen 20 MG/ML Oral Suspension,3459,120,28.8,360,36,Healthy,Low
+477282,acetaminophen 160 MG Disintegrating Oral Tablet,2904,166,17.5,996,32,Healthy,Low
+483017,100 ML acetaminophen 10 MG/ML Injection,1514,74,20.5,518,22,Healthy,Low
+602617,acetaminophen 325 MG / guaifenesin 200 MG Oral Tablet,703,40,17.6,240,28,Healthy,Low
+603136,acetaminophen 325 MG Disintegrating Oral Tablet,6290,297,21.2,891,22,Healthy,Low
+606947,acetaminophen 325 MG / dichloralphenazone 100 MG / isometheptene 65 MG Oral Capsule,5712,208,27.5,832,26,Healthy,Low
+647877,acetaminophen 250 MG / magnesium salicylate 250 MG / pamabrom 25 MG Oral Tablet,6496,278,23.4,834,11,Healthy,Low
+647888,acetaminophen 325 MG / pamabrom 25 MG / vitamin B6 1 MG Oral Tablet,1100,274,4.0,1370,32,Low Stock,Medium
+665056,acetaminophen 500 MG Chewable Tablet,3789,291,13.0,1455,27,Watch,Low
+672601,acetaminophen 250 MG / caffeine 32.5 MG / magnesium salicylate 310 MG Oral Tablet,4069,274,14.9,1918,25,Healthy,Low
+692836,acetaminophen 325 MG / aspirin 500 MG / caffeine 65 MG Oral Powder,2990,137,21.8,411,11,Healthy,Low
+701913,acetaminophen 500 MG / caffeine 60 MG / pyrilamine maleate 15 MG Oral Capsule,1490,116,12.8,812,21,Watch,Low
+707195,acetaminophen 325 MG / guaifenesin 200 MG Oral Capsule,2157,278,7.8,1112,16,Watch,Low
+756245,acetaminophen 21.7 MG/ML / butalbital 3.33 MG/ML / caffeine 2.67 MG/ML Oral Solution,2323,247,9.4,741,32,Watch,Low
+763111,acetaminophen 325 MG / aspirin 500 MG Oral Powder,4481,208,21.5,832,9,Healthy,Low
+763116,acetaminophen 260 MG / aspirin 520 MG / caffeine 32.5 MG Oral Powder,3326,287,11.6,1722,31,Watch,Low
+827318,acetaminophen 250 MG / aspirin 250 MG / caffeine 65 MG Oral Capsule,5050,178,28.4,890,26,Healthy,Low
+827751,acetaminophen 325 MG / propoxyphene napsylate 100 MG Oral Tablet,7605,270,28.2,810,9,Healthy,Low
+827757,acetaminophen 21.7 MG/ML / guaifenesin 13.3 MG/ML / phenylephrine hydrochloride 0.333 MG/ML Oral Solution,2780,184,15.1,920,25,Healthy,Low
+828576,acetaminophen 650 MG / propoxyphene napsylate 100 MG Oral Tablet,316,226,1.4,1582,17,Critical,High
+833036,acetaminophen 750 MG / hydrocodone bitartrate 7.5 MG Oral Tablet,445,34,13.1,204,9,Watch,Low
+836395,acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet,2618,186,14.1,1116,14,Healthy,Low
+849293,acetaminophen 325 MG / propoxyphene hydrochloride 32.5 MG Oral Tablet,4521,287,15.8,2009,25,Healthy,Low
+849295,acetaminophen 325 MG / propoxyphene napsylate 50 MG Oral Tablet,2906,162,17.9,1134,10,Healthy,Low
+849304,acetaminophen 500 MG / propoxyphene napsylate 100 MG Oral Tablet,4309,167,25.8,1002,14,Healthy,Low
+856903,acetaminophen 500 MG / hydrocodone bitartrate 5 MG Oral Tablet,4740,235,20.2,1410,14,Healthy,Low
+856908,acetaminophen 660 MG / hydrocodone bitartrate 10 MG Oral Tablet,3361,172,19.5,1032,19,Healthy,Low
+856940,acetaminophen 21.7 MG/ML / hydrocodone bitartrate 0.5 MG/ML Oral Solution,3350,186,18.0,1302,18,Healthy,Low
+856944,acetaminophen 21.7 MG/ML / hydrocodone bitartrate 0.67 MG/ML Oral Solution,3836,131,29.3,393,26,Healthy,Low
+856962,acetaminophen 500 MG / hydrocodone bitartrate 5 MG Oral Capsule,985,255,3.9,1530,25,Low Stock,Medium
+856980,acetaminophen 300 MG / hydrocodone bitartrate 10 MG Oral Tablet,669,27,24.8,162,3,Healthy,Low
+856987,acetaminophen 300 MG / hydrocodone bitartrate 5 MG Oral Tablet,4259,282,15.1,1974,33,Healthy,Low
+856992,acetaminophen 300 MG / hydrocodone bitartrate 7.5 MG Oral Tablet,2095,143,14.7,572,22,Healthy,Low
+856999,acetaminophen 325 MG / hydrocodone bitartrate 10 MG Oral Tablet,4064,196,20.7,1372,12,Healthy,Low
+857002,acetaminophen 325 MG / hydrocodone bitartrate 5 MG Oral Tablet,690,110,6.3,550,20,Low Stock,Medium
+857005,acetaminophen 325 MG / hydrocodone bitartrate 7.5 MG Oral Tablet,164,127,1.3,762,29,Critical,High
+857076,acetaminophen 33.3 MG/ML / hydrocodone bitartrate 0.333 MG/ML Oral Solution,3026,224,13.5,672,24,Watch,Low
+857083,acetaminophen 650 MG / hydrocodone bitartrate 7.5 MG Oral Tablet,2953,152,19.4,1064,18,Healthy,Low
+857099,acetaminophen 33.3 MG/ML / hydrocodone bitartrate 0.5 MG/ML Oral Solution,2871,161,17.8,1127,4,Healthy,Low
+857107,acetaminophen 500 MG / hydrocodone bitartrate 10 MG Oral Tablet,3615,220,16.4,1100,12,Healthy,Low
+857111,acetaminophen 500 MG / hydrocodone bitartrate 2.5 MG Oral Tablet,4040,218,18.5,654,34,Healthy,Low
+857118,acetaminophen 500 MG / hydrocodone bitartrate 7.5 MG Oral Tablet,3196,272,11.8,1904,24,Watch,Low
+857128,acetaminophen 400 MG / hydrocodone bitartrate 10 MG Oral Tablet,6403,289,22.2,2023,19,Healthy,Low
+857131,acetaminophen 400 MG / hydrocodone bitartrate 5 MG Oral Tablet,6618,258,25.7,1032,34,Healthy,Low
+857134,acetaminophen 400 MG / hydrocodone bitartrate 7.5 MG Oral Tablet,765,180,4.2,900,7,Low Stock,Medium
+857383,acetaminophen 650 MG / hydrocodone bitartrate 10 MG Oral Tablet,4805,255,18.8,1785,6,Healthy,Low
+857391,acetaminophen 325 MG / hydrocodone bitartrate 2.5 MG Oral Tablet,2667,125,21.3,625,34,Healthy,Low
+857452,acetaminophen 500 MG / clemastine fumarate 0.335 MG / phenylpropanolamine hydrochloride 30 MG Oral Tablet,4991,298,16.7,1192,8,Healthy,Low
+857501,acetaminophen 556 MG / hydrocodone bitartrate 5 MG Oral Tablet,1533,271,5.7,1897,10,Low Stock,Medium
+880326,acetaminophen 300 MG / phenyltoloxamine citrate 20 MG / salicylamide 200 MG Oral Capsule,3282,243,13.5,729,21,Watch,Low
+889520,acetaminophen 300 MG / butalbital 50 MG / caffeine 40 MG Oral Capsule,640,266,2.4,1064,3,Low Stock,Medium
+992908,acetaminophen 24 MG/ML / promethazine hydrochloride 0.3 MG/ML Oral Suspension,221,185,1.2,555,25,Critical,High
+993755,acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution,253,134,1.9,938,16,Critical,High
+993770,acetaminophen 300 MG / codeine phosphate 15 MG Oral Tablet,608,118,5.2,826,32,Low Stock,Medium
+993781,acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet,1095,195,5.6,585,26,Low Stock,Medium
+993890,acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet,6039,220,27.4,1540,9,Healthy,Low
+993943,acetaminophen 325 MG / butalbital 50 MG / caffeine 40 MG / codeine phosphate 30 MG Oral Capsule,188,81,2.3,324,18,Low Stock,Medium
+994043,acetaminophen 500 MG / codeine phosphate 15 MG Oral Tablet,5146,229,22.5,1145,24,Healthy,Low
+994046,acetaminophen 500 MG / codeine phosphate 30 MG Oral Tablet,559,40,14.0,120,11,Watch,Low
+996976,acetaminophen 500 MG / codeine phosphate 12.8 MG Oral Tablet,6882,283,24.3,1981,35,Healthy,Low
+996978,acetaminophen 500 MG / codeine phosphate 13.5 MG Oral Tablet,571,183,3.1,1098,13,Low Stock,Medium
+996979,acetaminophen 500 MG / codeine phosphate 30 MG Oral Capsule,3789,225,16.8,1125,19,Healthy,Low
+996981,acetaminophen 500 MG / codeine phosphate 8 MG Oral Capsule,8344,284,29.4,1704,5,Healthy,Low
+996982,acetaminophen 500 MG / codeine phosphate 8 MG Oral Tablet,478,31,15.4,93,15,Healthy,Low
+999419,acetaminophen 500 MG / phenyltoloxamine citrate 50 MG Oral Tablet,5249,177,29.7,531,19,Healthy,Low
+105152,amoxicillin 60 MG/ML Oral Suspension,5148,262,19.6,1310,34,Healthy,Low
+1810268,amoxicillin 50 MG / clavulanate 12.5 MG Oral Tablet,3534,256,13.8,1024,10,Watch,Low
+1810270,amoxicillin 200 MG / clavulanate 50 MG Oral Tablet,722,37,19.5,185,11,Healthy,Low
+1810273,amoxicillin 300 MG / clavulanate 75 MG Oral Tablet,3644,266,13.7,1596,29,Watch,Low
+2105776,amoxicillin 100 MG / clavulanate 25 MG Oral Tablet,8951,299,29.9,1495,28,Healthy,Low
+2105786,amoxicillin 100 MG / clavulanate 25 MG Chewable Tablet,2768,122,22.7,854,31,Healthy,Low
+2105792,amoxicillin 200 MG / clavulanate 50 MG Chewable Tablet,473,154,3.1,924,28,Low Stock,Medium
+2105795,amoxicillin 300 MG / clavulanate 75 MG Chewable Tablet,3896,174,22.4,1218,6,Healthy,Low
+2105798,amoxicillin 50 MG / clavulanate 12.5 MG Chewable Tablet,823,44,18.7,176,12,Healthy,Low
+2262026,amoxicillin 250 MG / omeprazole 10 MG / rifabutin 12.5 MG Delayed Release Oral Capsule,892,86,10.4,430,6,Watch,Low
+239191,amoxicillin 50 MG/ML Oral Suspension,1839,67,27.4,268,4,Healthy,Low
+246282,amoxicillin 100 MG/ML Oral Suspension,6703,286,23.4,1144,11,Healthy,Low
+308177,amoxicillin 125 MG Chewable Tablet,2961,292,10.1,1752,12,Watch,Low
+308182,amoxicillin 250 MG Oral Capsule,3806,244,15.6,1464,8,Healthy,Low
+308188,amoxicillin 400 MG Chewable Tablet,4414,210,21.0,840,17,Healthy,Low
+308189,amoxicillin 80 MG/ML Oral Suspension,3451,131,26.3,524,5,Healthy,Low
+308191,amoxicillin 500 MG Oral Capsule,3565,219,16.3,1095,12,Healthy,Low
+308192,amoxicillin 500 MG Oral Tablet,2250,190,11.8,1140,9,Watch,Low
+308194,amoxicillin 875 MG Oral Tablet,5428,193,28.1,579,19,Healthy,Low
+313797,amoxicillin 25 MG/ML Oral Suspension,5122,190,27.0,760,14,Healthy,Low
+313850,amoxicillin 40 MG/ML Oral Suspension,729,152,4.8,1064,19,Low Stock,Medium
+392151,amoxicillin 200 MG Oral Tablet,794,47,16.9,282,18,Healthy,Low
+392152,amoxicillin 400 MG Oral Tablet,4773,199,24.0,796,28,Healthy,Low
+562251,amoxicillin 250 MG / clavulanate 125 MG Oral Tablet,1665,105,15.9,315,7,Healthy,Low
+562253,amoxicillin 125 MG / clavulanate 31.2 MG Chewable Tablet,953,58,16.4,290,24,Healthy,Low
+562508,amoxicillin 875 MG / clavulanate 125 MG Oral Tablet,431,218,2.0,1090,13,Critical,High
+598025,amoxicillin 250 MG Chewable Tablet,2669,136,19.6,408,10,Healthy,Low
+617296,amoxicillin 500 MG / clavulanate 125 MG Oral Tablet,2308,151,15.3,906,17,Healthy,Low
+617302,amoxicillin 25 MG/ML / clavulanate 6.25 MG/ML Oral Suspension,2982,233,12.8,1165,27,Watch,Low
+617304,amoxicillin 250 MG / clavulanate 62.5 MG Chewable Tablet,4179,185,22.6,555,24,Healthy,Low
+617309,amoxicillin 200 MG / clavulanate 28.5 MG Chewable Tablet,1428,156,9.2,468,3,Watch,Low
+617316,amoxicillin 400 MG / clavulanate 57 MG Chewable Tablet,950,172,5.5,1032,12,Low Stock,Medium
+617322,amoxicillin 50 MG/ML / clavulanate 12.5 MG/ML Oral Suspension,2762,219,12.6,1314,31,Watch,Low
+617423,amoxicillin 40 MG/ML / clavulanate 5.7 MG/ML Oral Suspension,3191,121,26.4,363,11,Healthy,Low
+617430,amoxicillin 80 MG/ML / clavulanate 11.4 MG/ML Oral Suspension,1068,68,15.7,204,20,Healthy,Low
+617993,amoxicillin 120 MG/ML / clavulanate 8.58 MG/ML Oral Suspension,1308,237,5.5,1422,14,Low Stock,Medium
+617995,12 HR amoxicillin 1000 MG / clavulanate 62.5 MG Extended Release Oral Tablet,2812,179,15.7,895,3,Healthy,Low
+617996,amoxicillin 800 MG / clavulanate 125 MG Oral Tablet,2405,224,10.7,1120,24,Watch,Low
+791939,amoxicillin 100 MG Oral Tablet,355,64,5.5,192,31,Low Stock,Medium
+791947,amoxicillin 50 MG Oral Tablet,1082,212,5.1,848,13,Low Stock,Medium
+802550,amoxicillin 775 MG Extended Release Oral Tablet,6198,229,27.1,1603,22,Healthy,Low
+846994,amoxicillin 150 MG Oral Tablet,2045,160,12.8,1120,29,Watch,Low
+141962,azithromycin 250 MG Oral Capsule,578,71,8.1,355,35,Watch,Low
+141963,azithromycin 40 MG/ML Oral Suspension,1445,75,19.3,225,30,Healthy,Low
+1668238,azithromycin 500 MG Injection,3617,241,15.0,723,8,Healthy,Low
+204844,azithromycin 600 MG Oral Tablet,3636,192,18.9,1152,19,Healthy,Low
+248656,azithromycin 500 MG Oral Tablet,3295,119,27.7,833,25,Healthy,Low
+308459,azithromycin 20 MG/ML Oral Suspension,136,32,4.2,128,3,Low Stock,Medium
+308460,azithromycin 250 MG Oral Tablet,358,59,6.1,295,24,Low Stock,Medium
+577162,azithromycin 33.3 MG/ML Oral Suspension,1464,104,14.1,728,32,Healthy,Low
+706868,azithromycin 10 MG/ML Ophthalmic Solution,2985,104,28.7,416,18,Healthy,Low
+861416,azithromycin 1000 MG Powder for Oral Suspension,5832,212,27.5,1060,30,Healthy,Low
+1373014,cefixime 100 MG/ML Oral Suspension,2777,271,10.2,813,5,Watch,Low
+197450,cefixime 200 MG Oral Tablet,4779,168,28.4,1176,31,Healthy,Low
+197451,cefixime 400 MG Oral Tablet,2510,90,27.9,270,6,Healthy,Low
+309058,cefixime 20 MG/ML Oral Suspension,1872,137,13.7,685,12,Watch,Low
+409823,cefixime 400 MG Oral Capsule,1115,53,21.0,371,33,Healthy,Low
+419849,cefixime 40 MG/ML Oral Suspension,157,143,1.1,1001,36,Critical,High
+1049589,ibuprofen 400 MG / oxycodone hydrochloride 5 MG Oral Tablet,1878,156,12.0,780,6,Watch,Low
+1100066,famotidine 26.6 MG / ibuprofen 800 MG Oral Tablet,277,47,5.9,282,31,Low Stock,Medium
+1297390,chlorpheniramine maleate 2 MG / ibuprofen 200 MG / pseudoephedrine hydrochloride 30 MG Oral Tablet,3345,257,13.0,771,32,Watch,Low
+1299018,ibuprofen 200 MG / pseudoephedrine hydrochloride 30 MG Oral Capsule,744,28,26.6,140,29,Healthy,Low
+1299021,ibuprofen 200 MG / pseudoephedrine hydrochloride 30 MG Oral Tablet,2773,115,24.1,690,3,Healthy,Low
+1310487,ibuprofen 20 MG/ML / pseudoephedrine hydrochloride 3 MG/ML Oral Suspension,82,35,2.3,105,32,Low Stock,Medium
+1310503,chlorpheniramine maleate 4 MG / ibuprofen 200 MG / phenylephrine hydrochloride 10 MG Oral Tablet,1648,236,7.0,1652,20,Low Stock,Medium
+1369775,ibuprofen 200 MG / phenylephrine hydrochloride 10 MG Oral Tablet,1403,132,10.6,660,11,Watch,Low
+141997,ibuprofen 0.05 MG/MG Topical Gel,3307,138,24.0,552,3,Healthy,Low
+141998,ibuprofen 50 MG/ML Topical Cream,616,76,8.1,380,23,Watch,Low
+142102,ibuprofen 50 MG/ML Topical Spray,5836,230,25.4,690,19,Healthy,Low
+1747294,2 ML ibuprofen 10 MG/ML Injection,327,158,2.1,632,32,Low Stock,Medium
+197803,ibuprofen 20 MG/ML Oral Suspension,2141,126,17.0,756,26,Healthy,Low
+197804,ibuprofen 300 MG Oral Tablet,5275,267,19.8,1068,19,Healthy,Low
+197805,ibuprofen 400 MG Oral Tablet,3287,213,15.4,852,10,Healthy,Low
+197806,ibuprofen 600 MG Oral Tablet,2229,223,10.0,1115,21,Watch,Low
+197807,ibuprofen 800 MG Oral Tablet,62,34,1.8,102,9,Critical,High
+198405,ibuprofen 100 MG Oral Tablet,1122,228,4.9,912,14,Low Stock,Medium
+204442,ibuprofen 40 MG/ML Oral Suspension,1998,222,9.0,1332,24,Watch,Low
+2178273,200 ML ibuprofen 4 MG/ML Injection,556,84,6.6,336,23,Low Stock,Medium
+226617,ibuprofen 50 MG/ML Topical Foam,3858,184,21.0,552,24,Healthy,Low
+227159,ibuprofen 200 MG Extended Release Oral Capsule,1807,165,11.0,990,7,Watch,Low
+245417,ibuprofen 400 MG Oral Capsule,2450,229,10.7,687,12,Watch,Low
+250418,ibuprofen 800 MG Extended Release Oral Tablet,754,277,2.7,1385,30,Low Stock,Medium
+310963,ibuprofen 100 MG Chewable Tablet,2126,79,26.9,395,24,Healthy,Low
+310964,ibuprofen 200 MG Oral Capsule,2383,270,8.8,1350,12,Watch,Low
+310965,ibuprofen 200 MG Oral Tablet,121,80,1.5,240,25,Critical,High
+314047,ibuprofen 50 MG Chewable Tablet,922,39,23.6,273,30,Healthy,Low
+380813,ibuprofen 300 MG Extended Release Oral Capsule,4969,225,22.1,675,12,Healthy,Low
+389244,ibuprofen 0.1 MG/MG Topical Gel,189,21,9.0,147,36,Watch,Low
+392668,ibuprofen 0.05 MG/MG / levomenthol 0.03 MG/MG Topical Gel,2000,148,13.5,592,32,Watch,Low
+401976,ibuprofen 300 MG / pseudoephedrine 45 MG Oral Capsule,4679,246,19.0,984,20,Healthy,Low
+854183,8 ML ibuprofen 100 MG/ML Injection,968,39,24.8,195,5,Healthy,Low
+858770,hydrocodone bitartrate 2.5 MG / ibuprofen 200 MG Oral Tablet,3107,128,24.3,512,26,Healthy,Low
+858778,hydrocodone bitartrate 5 MG / ibuprofen 200 MG Oral Tablet,3711,143,26.0,429,21,Healthy,Low
+858798,hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet,4776,178,26.8,712,23,Healthy,Low
+859315,hydrocodone bitartrate 10 MG / ibuprofen 200 MG Oral Tablet,2574,266,9.7,1596,15,Watch,Low
+895664,diphenhydramine citrate 38 MG / ibuprofen 200 MG Oral Tablet,448,247,1.8,1482,23,Critical,High
+901814,diphenhydramine hydrochloride 25 MG / ibuprofen 200 MG Oral Capsule,2368,220,10.8,880,19,Watch,Low
+997164,codeine phosphate 12.5 MG / ibuprofen 200 MG Oral Tablet,4561,248,18.4,992,19,Healthy,Low
+997165,codeine phosphate 12.8 MG / ibuprofen 200 MG Oral Tablet,3685,274,13.4,1096,17,Watch,Low
+997280,codeine phosphate 20 MG / ibuprofen 300 MG Extended Release Oral Tablet,1016,220,4.6,660,21,Low Stock,Medium
+1665210,100 ML ciprofloxacin 2 MG/ML Injection,902,242,3.7,1694,27,Low Stock,Medium
+1665212,200 ML ciprofloxacin 2 MG/ML Injection,148,10,14.8,70,15,Healthy,Low
+1665229,40 ML ciprofloxacin 10 MG/ML Injection,1223,148,8.3,1036,5,Watch,Low
+1792386,ciprofloxacin 3 MG/ML / fluocinolone acetonide 0.25 MG/ML Otic Solution,1299,89,14.6,623,24,Healthy,Low
+197511,ciprofloxacin 250 MG Oral Tablet,2708,135,20.1,945,35,Healthy,Low
+197512,ciprofloxacin 750 MG Oral Tablet,1030,100,10.3,400,27,Watch,Low
+199370,ciprofloxacin 100 MG Oral Tablet,2231,267,8.4,1602,11,Watch,Low
+309305,ciprofloxacin 2 MG/ML / hydrocortisone 10 MG/ML Otic Suspension,1812,166,10.9,1162,18,Watch,Low
+309306,ciprofloxacin 0.003 MG/MG Ophthalmic Ointment,2556,97,26.4,679,16,Healthy,Low
+309307,ciprofloxacin 3 MG/ML Ophthalmic Solution,1805,74,24.4,222,9,Healthy,Low
+309308,ciprofloxacin 50 MG/ML Oral Suspension,4345,242,18.0,968,26,Healthy,Low
+309309,ciprofloxacin 500 MG Oral Tablet,6798,265,25.7,1060,27,Healthy,Low
+309310,ciprofloxacin 100 MG/ML Oral Suspension,838,220,3.8,1320,26,Low Stock,Medium
+359383,24 HR ciprofloxacin 500 MG Extended Release Oral Tablet,2551,122,20.9,610,22,Healthy,Low
+403908,ciprofloxacin 3 MG/ML / dexamethasone 1 MG/ML Otic Suspension,2405,224,10.7,672,28,Watch,Low
+403921,24 HR ciprofloxacin 1000 MG Extended Release Oral Tablet,3010,218,13.8,1526,5,Watch,Low
+848956,ciprofloxacin 2 MG/ML Otic Solution,1452,229,6.3,1374,13,Low Stock,Medium
+1423080,doxycycline hyclate 200 MG Delayed Release Oral Tablet,2897,191,15.2,1337,13,Healthy,Low
+1649401,doxycycline monohydrate 50 MG Oral Capsule,3078,107,28.8,321,14,Healthy,Low
+1649405,doxycycline hyclate 50 MG Oral Capsule,619,52,11.9,260,21,Watch,Low
+1649425,doxycycline hyclate 75 MG Oral Tablet,2892,193,15.0,772,4,Healthy,Low
+1649429,doxycycline monohydrate 75 MG Oral Tablet,305,100,3.0,300,30,Low Stock,Medium
+1649988,doxycycline hyclate 100 MG Oral Capsule,1317,44,29.9,220,8,Healthy,Low
+1649990,doxycycline monohydrate 100 MG Oral Capsule,2204,200,11.0,1200,23,Watch,Low
+1650030,doxycycline monohydrate 5 MG/ML Oral Suspension,5718,232,24.6,696,10,Healthy,Low
+1650142,doxycycline monohydrate 100 MG Oral Tablet,716,281,2.5,1124,7,Low Stock,Medium
+1650143,doxycycline hyclate 100 MG Oral Tablet,719,229,3.1,1145,15,Low Stock,Medium
+1650444,doxycycline monohydrate 150 MG Oral Tablet,3950,293,13.5,879,23,Watch,Low
+1650446,doxycycline hyclate 150 MG Oral Tablet,1525,127,12.0,508,29,Watch,Low
+1652673,doxycycline monohydrate 50 MG Oral Tablet,2546,247,10.3,1482,28,Watch,Low
+1652674,doxycycline hyclate 50 MG Oral Tablet,4485,227,19.8,908,36,Healthy,Low
+1653433,doxycycline hyclate 50 MG Delayed Release Oral Tablet,7097,288,24.6,2016,20,Healthy,Low
+1791505,doxycycline hyclate 75 MG Oral Capsule,3849,163,23.6,978,4,Healthy,Low
+1801138,doxycycline hyclate 120 MG Delayed Release Oral Tablet,563,37,15.2,259,9,Healthy,Low
+1801142,doxycycline hyclate 60 MG Delayed Release Oral Tablet,2841,258,11.0,1806,8,Watch,Low
+1998483,doxycycline hyclate 200 MG Injection,1768,87,20.3,435,22,Healthy,Low
+2122343,doxycycline hyclate 80 MG Delayed Release Oral Tablet,916,101,9.1,707,10,Watch,Low
+283535,doxycycline hyclate 20 MG Oral Tablet,576,46,12.5,322,27,Watch,Low
+310026,doxycycline calcium 10 MG/ML Oral Suspension,2346,85,27.6,425,12,Healthy,Low
+310027,doxycycline hyclate 100 MG Injection,7685,294,26.1,1470,31,Healthy,Low
+310028,doxycycline hyclate 20 MG Oral Capsule,2360,85,27.8,510,31,Healthy,Low
+348869,doxycycline hyclate 100 MG Delayed Release Oral Capsule,1222,175,7.0,1225,24,Low Stock,Medium
+406524,doxycycline hyclate 75 MG Delayed Release Oral Tablet,5270,241,21.9,1687,26,Healthy,Low
+434018,doxycycline hyclate 100 MG Delayed Release Oral Tablet,220,160,1.4,800,34,Critical,High
+597521,doxycycline 75 MG Disintegrating Oral Tablet,6151,257,23.9,1542,34,Healthy,Low
+700408,doxycycline monohydrate 75 MG Oral Capsule,983,42,23.4,252,24,Healthy,Low
+728207,doxycycline monohydrate 150 MG Oral Capsule,5115,219,23.4,1533,15,Healthy,Low
+799048,doxycycline hyclate 150 MG Delayed Release Oral Tablet,6590,290,22.7,870,21,Healthy,Low
+901399,doxycycline anhydrous 40 MG Delayed Release Oral Capsule,286,177,1.6,1239,11,Critical,High
+103867,metronidazole 0.25 MG/MG Oral Gel,5530,194,28.5,1164,14,Healthy,Low
+105304,metronidazole 40 MG/ML Oral Suspension,1260,101,12.5,404,32,Watch,Low
+108302,diloxanide 250 MG / metronidazole 200 MG Oral Tablet,4970,281,17.7,1967,9,Healthy,Low
+1294619,bismuth subcitrate 140 MG / metronidazole 125 MG / tetracycline hydrochloride 125 MG Oral Capsule,503,41,12.3,246,20,Watch,Low
+142046,metronidazole 0.0075 MG/MG Vaginal Gel,335,16,20.9,64,19,Healthy,Low
+1608253,metronidazole 0.013 MG/MG Vaginal Gel,2978,137,21.7,411,7,Healthy,Low
+199055,metronidazole 375 MG Oral Capsule,5792,260,22.3,780,29,Healthy,Low
+199326,metronidazole 200 MG Oral Tablet,819,66,12.4,396,28,Watch,Low
+199327,metronidazole 400 MG Oral Tablet,5700,287,19.9,861,14,Healthy,Low
+199959,metronidazole 500 MG Rectal Suppository,2887,259,11.1,1554,18,Watch,Low
+226584,metronidazole 0.008 MG/MG Topical Gel,275,110,2.5,770,10,Low Stock,Medium
+242736,metronidazole 7.5 MG/ML Topical Lotion,3035,222,13.7,666,9,Watch,Low
+250261,metronidazole 1000 MG Rectal Suppository,1711,219,7.8,1095,6,Watch,Low
+2667642,metronidazole 100 MG/ML Oral Suspension,1103,125,8.8,375,3,Watch,Low
+2702348,metronidazole 125 MG Oral Tablet,1245,248,5.0,992,34,Low Stock,Medium
+2702642,chlorhexidine gluconate 6 MG/ML / metronidazole 2 MG/ML Mouthwash,3221,110,29.3,660,19,Healthy,Low
+311678,metronidazole 7.5 MG/ML Topical Cream,3575,282,12.7,1128,14,Watch,Low
+311679,metronidazole 0.0075 MG/MG Topical Gel,2183,280,7.8,1960,31,Watch,Low
+311680,metronidazole 10 MG/ML Topical Cream,1300,131,9.9,655,14,Watch,Low
+311681,metronidazole 500 MG Oral Tablet,1194,79,15.1,316,21,Healthy,Low
+311683,100 ML metronidazole 5 MG/ML Injection,1796,279,6.4,837,33,Low Stock,Medium
+314106,metronidazole 250 MG Oral Tablet,797,88,9.1,440,26,Watch,Low
+577237,metronidazole 0.01 MG/MG Topical Gel,4040,213,19.0,1065,15,Healthy,Low
+636559,24 HR metronidazole 750 MG Extended Release Oral Tablet,2203,168,13.1,672,31,Watch,Low
+687231,bismuth biskalcitrate 140 MG / metronidazole 125 MG / tetracycline 125 MG Oral Capsule,5508,248,22.2,744,7,Healthy,Low
+1312431,cephalexin 150 MG Chewable Tablet,1436,125,11.5,625,29,Watch,Low
+1312440,cephalexin 300 MG Chewable Tablet,61,34,1.8,238,14,Critical,High
+1312444,cephalexin 600 MG Chewable Tablet,363,56,6.5,280,9,Low Stock,Medium
+197454,cephalexin 500 MG Oral Tablet,3416,114,30.0,456,23,Healthy,Low
+250582,cephalexin 100 MG/ML Oral Suspension,968,47,20.6,282,5,Healthy,Low
+309110,cephalexin 25 MG/ML Oral Suspension,2923,243,12.0,972,25,Watch,Low
+309112,cephalexin 250 MG Oral Capsule,3099,137,22.6,822,6,Healthy,Low
+309113,cephalexin 50 MG/ML Oral Suspension,1441,78,18.5,234,31,Healthy,Low
+309114,cephalexin 500 MG Oral Capsule,4598,257,17.9,771,25,Healthy,Low
+309115,cephalexin 250 MG Oral Tablet,1773,75,23.6,525,19,Healthy,Low
+637173,cephalexin 750 MG Oral Capsule,3875,134,28.9,938,30,Healthy,Low
+645617,cephalexin 333 MG Oral Capsule,652,117,5.6,351,31,Low Stock,Medium
+755616,cephalexin 25 MG/ML Oral Solution,404,31,13.0,217,33,Watch,Low
+755617,cephalexin 50 MG/ML Oral Solution,162,72,2.2,504,8,Low Stock,Medium
+106850,cefuroxime 50 MG/ML Ophthalmic Solution,248,90,2.8,540,18,Low Stock,Medium
+1665444,cefuroxime 1500 MG Injection,3286,260,12.6,1040,25,Watch,Low
+1665449,cefuroxime 750 MG Injection,725,284,2.6,1988,21,Low Stock,Medium
+309095,cefuroxime 125 MG Oral Tablet,1668,161,10.4,644,36,Watch,Low
+309096,cefuroxime 25 MG/ML Oral Suspension,3270,296,11.0,1184,31,Watch,Low
+309097,cefuroxime 250 MG Oral Tablet,1913,132,14.5,792,23,Healthy,Low
+309098,cefuroxime 500 MG Oral Tablet,4358,237,18.4,711,18,Healthy,Low
+309101,cefuroxime 95 MG/ML Injectable Solution,1360,151,9.0,604,31,Watch,Low
+313926,cefuroxime 50 MG/ML Oral Suspension,369,135,2.7,810,14,Low Stock,Medium
+1665005,ceftriaxone 500 MG Injection,2518,145,17.4,725,27,Healthy,Low
+1665021,ceftriaxone 1000 MG Injection,6492,270,24.0,1350,15,Healthy,Low
+1665046,ceftriaxone 2000 MG Injection,3851,207,18.6,621,26,Healthy,Low
+309090,ceftriaxone 100 MG/ML Injectable Solution,2417,175,13.8,875,6,Watch,Low
+309092,ceftriaxone 250 MG Injection,745,64,11.6,384,29,Watch,Low
+141970,clindamycin 20 MG/ML Topical Cream,789,269,2.9,1883,34,Low Stock,Medium
+1540241,benzoyl peroxide 0.05 MG/MG / clindamycin phosphate 0.012 MG/MG Topical Gel,1322,59,22.4,236,7,Healthy,Low
+1598470,benzoyl peroxide 0.0375 MG/MG / clindamycin phosphate 0.012 MG/MG Topical Gel,1769,74,23.9,222,32,Healthy,Low
+1737244,2 ML clindamycin 150 MG/ML Injection,2642,129,20.5,645,25,Healthy,Low
+1737578,4 ML clindamycin 150 MG/ML Injection,901,104,8.7,728,8,Watch,Low
+1737581,6 ML clindamycin 150 MG/ML Injection,495,104,4.8,312,34,Low Stock,Medium
+197518,clindamycin 150 MG Oral Capsule,252,11,22.9,33,9,Healthy,Low
+197519,clindamycin 10 MG/ML Topical Lotion,815,89,9.2,623,9,Watch,Low
+205964,clindamycin 150 MG/ML Injectable Solution,415,17,24.4,102,31,Healthy,Low
+2587810,clindamycin 0.02 MG/MG Vaginal Gel,3214,198,16.2,792,14,Healthy,Low
+259233,clindamycin 100 MG Vaginal Insert,4537,296,15.3,1480,32,Healthy,Low
+2668198,adapalene 0.0015 MG/MG / benzoyl peroxide 0.031 MG/MG / clindamycin phosphate 0.012 MG/MG Topical Gel,426,20,21.3,120,20,Healthy,Low
+2676585,Twice-Daily clindamycin 0.01 MG/MG Topical Gel,303,131,2.3,917,29,Low Stock,Medium
+284215,clindamycin 300 MG Oral Capsule,3715,170,21.9,1020,34,Healthy,Low
+309329,clindamycin 75 MG Oral Capsule,323,52,6.2,312,25,Low Stock,Medium
+309332,Once-Daily clindamycin 0.01 MG/MG Topical Gel,344,100,3.4,400,19,Low Stock,Medium
+309333,clindamycin 10 MG/ML Topical Solution,152,38,4.0,152,32,Low Stock,Medium
+309335,50 ML clindamycin 12 MG/ML Injection,340,252,1.3,756,25,Critical,High
+309336,50 ML clindamycin 18 MG/ML Injection,1327,206,6.4,1030,29,Low Stock,Medium
+309337,clindamycin 20 MG/ML Vaginal Cream,1579,88,17.9,352,23,Healthy,Low
+309339,50 ML clindamycin 6 MG/ML Injection,5097,234,21.8,702,3,Healthy,Low
+358917,benzoyl peroxide 0.05 MG/MG / clindamycin 0.01 MG/MG Topical Gel,5224,218,24.0,1090,8,Healthy,Low
+392275,clindamycin 75 MG/ML Oral Suspension,269,18,14.9,54,8,Healthy,Low
+433773,clindamycin 150 MG Oral Tablet,2307,214,10.8,1070,13,Watch,Low
+477451,clindamycin 10 MG/ML Topical Foam,2620,159,16.5,636,4,Healthy,Low
+562266,clindamycin 15 MG/ML Oral Solution,6343,217,29.2,1519,20,Healthy,Low
+797274,clindamycin 10 MG/ML Medicated Pad,2391,129,18.5,645,16,Healthy,Low
+853019,clindamycin 25 MG Oral Capsule,3981,221,18.0,663,10,Healthy,Low
+882548,clindamycin phosphate 0.012 MG/MG / tretinoin 0.00025 MG/MG Topical Gel,2590,121,21.4,847,23,Healthy,Low
+885131,benzoyl peroxide 0.025 MG/MG / clindamycin phosphate 0.012 MG/MG Topical Gel,1094,101,10.8,404,14,Watch,Low
+900391,clindamycin 25 MG Oral Tablet,1959,245,8.0,980,7,Watch,Low
+900424,clindamycin 25 MG/ML Oral Solution,3177,223,14.2,1115,12,Healthy,Low
+900460,clindamycin 75 MG Oral Tablet,486,26,18.7,104,33,Healthy,Low
+103518,erythromycin 20 MG/ML Topical Lotion,772,62,12.5,248,26,Watch,Low
+106307,erythromycin 40 MG/ML / zinc acetate 12 MG/ML Topical Solution,4199,294,14.3,2058,24,Healthy,Low
+153371,erythromycin 0.02 MG/MG / isotretinoin 0.0005 MG/MG Topical Gel,5080,252,20.2,1764,3,Healthy,Low
+1668264,erythromycin lactobionate 500 MG Injection,1550,53,29.2,212,33,Healthy,Low
+197650,erythromycin 500 MG Oral Tablet,1007,259,3.9,777,12,Low Stock,Medium
+244374,benzoyl peroxide 0.05 MG/MG / erythromycin 0.03 MG/MG Topical Gel,2855,279,10.2,1953,34,Watch,Low
+250697,erythromycin 0.04 MG/MG Topical Gel,1171,215,5.4,1075,7,Low Stock,Medium
+310149,erythromycin 0.005 MG/MG Ophthalmic Ointment,394,122,3.2,610,29,Low Stock,Medium
+310150,erythromycin 15 MG/ML Topical Solution,2772,115,24.1,460,32,Healthy,Low
+310152,erythromycin 0.02 MG/MG Topical Gel,238,14,17.0,42,13,Healthy,Low
+310154,erythromycin 250 MG Delayed Release Oral Capsule,485,22,22.0,66,7,Healthy,Low
+310155,erythromycin 250 MG Delayed Release Oral Tablet,5310,269,19.7,1345,4,Healthy,Low
+310157,erythromycin 500 MG Delayed Release Oral Tablet,2824,300,9.4,1500,7,Watch,Low
+313968,erythromycin 25 MG/ML Oral Suspension,3191,259,12.3,1554,24,Watch,Low
+315090,erythromycin 333 MG Delayed Release Oral Tablet,49,31,1.6,186,11,Critical,High
+318202,erythromycin 20 MG/ML Topical Solution,3196,281,11.4,1686,24,Watch,Low
+349148,erythromycin 0.005 MG/MG Topical Ointment,3593,125,28.7,375,33,Healthy,Low
+389251,erythromycin 40 MG/ML / tretinoin 0.25 MG/ML Topical Solution,1610,290,5.6,870,28,Low Stock,Medium
+425351,erythromycin 100 MG/ML Oral Suspension,1103,104,10.6,312,22,Watch,Low
+486912,erythromycin estolate 500 MG Oral Tablet,1884,289,6.5,867,12,Low Stock,Medium
+486955,erythromycin estolate 250 MG Oral Capsule,1537,167,9.2,835,16,Watch,Low
+486960,erythromycin estolate 25 MG/ML Oral Suspension,1343,46,29.2,138,27,Healthy,Low
+597193,erythromycin 50 MG/ML Oral Suspension,4220,263,16.0,789,13,Healthy,Low
+597194,erythromycin estolate 50 MG/ML Oral Suspension,3864,186,20.8,744,26,Healthy,Low
+598006,erythromycin 250 MG Oral Tablet,3801,217,17.5,1302,19,Healthy,Low
+598008,erythromycin 250 MG Oral Capsule,712,206,3.5,1236,19,Low Stock,Medium
+686350,erythromycin ethylsuccinate 200 MG Chewable Tablet,4664,255,18.3,1530,26,Healthy,Low
+686355,erythromycin stearate 250 MG Oral Tablet,2377,147,16.2,588,36,Healthy,Low
+686400,erythromycin ethylsuccinate 40 MG/ML Oral Suspension,5000,248,20.2,1488,13,Healthy,Low
+686405,erythromycin ethylsuccinate 400 MG Oral Tablet,3881,155,25.0,775,4,Healthy,Low
+686406,erythromycin stearate 500 MG Oral Tablet,1112,182,6.1,1092,6,Low Stock,Medium
+686418,erythromycin ethylsuccinate 80 MG/ML Oral Suspension,286,17,16.8,102,27,Healthy,Low
+797452,erythromycin 20 MG/ML Medicated Pad,7280,298,24.4,2086,18,Healthy,Low
+890953,erythromycin 0.0053 MG/ML Topical Solution,1475,118,12.5,826,34,Watch,Low
+1665497,50 ML levofloxacin 5 MG/ML Injection,2441,158,15.4,790,5,Healthy,Low
+1665507,100 ML levofloxacin 5 MG/ML Injection,1358,77,17.6,539,19,Healthy,Low
+1665515,150 ML levofloxacin 5 MG/ML Injection,1404,69,20.3,276,29,Healthy,Low
+1665517,20 ML levofloxacin 25 MG/ML Injection,210,11,19.1,44,5,Healthy,Low
+1665519,30 ML levofloxacin 25 MG/ML Injection,8512,288,29.6,1728,33,Healthy,Low
+199884,levofloxacin 250 MG Oral Tablet,307,13,23.6,52,27,Healthy,Low
+199885,levofloxacin 500 MG Oral Tablet,4395,153,28.7,1071,23,Healthy,Low
+311296,levofloxacin 750 MG Oral Tablet,6194,295,21.0,2065,19,Healthy,Low
+314080,levofloxacin 5 MG/ML Ophthalmic Solution,2568,290,8.9,1160,34,Watch,Low
+477391,levofloxacin 25 MG/ML Oral Solution,1205,127,9.5,381,4,Watch,Low
+545118,levofloxacin 15 MG/ML Ophthalmic Solution,1075,115,9.3,460,25,Watch,Low
+311787,moxifloxacin 400 MG Oral Tablet,1460,58,25.2,406,3,Healthy,Low
+351156,250 ML moxifloxacin 1.6 MG/ML Injection,323,82,3.9,574,33,Low Stock,Medium
+403818,moxifloxacin 5 MG/ML Ophthalmic Solution,5576,256,21.8,1792,6,Healthy,Low
+198048,ofloxacin 200 MG Oral Tablet,3369,161,20.9,1127,24,Healthy,Low
+198049,ofloxacin 300 MG Oral Tablet,1349,55,24.5,275,26,Healthy,Low
+198050,ofloxacin 400 MG Oral Tablet,1414,137,10.3,411,7,Watch,Low
+242446,ofloxacin 3 MG/ML Otic Solution,1936,283,6.8,1698,27,Low Stock,Medium
+250095,ofloxacin 2 MG/ML Injectable Solution,379,34,11.1,136,12,Watch,Low
+312075,ofloxacin 3 MG/ML Ophthalmic Solution,711,66,10.8,198,18,Watch,Low
+198044,norfloxacin 400 MG Oral Tablet,6911,234,29.5,1170,33,Healthy,Low
+198201,rifampin 150 MG Oral Capsule,1917,72,26.6,216,14,Healthy,Low
+198202,rifampin 300 MG Oral Capsule,5314,186,28.6,930,15,Healthy,Low
+198203,isoniazid 150 MG / rifampin 300 MG Oral Capsule,832,180,4.6,1080,9,Low Stock,Medium
+198384,isoniazid 50 MG / pyrazinamide 300 MG / rifampin 120 MG Oral Tablet,1913,69,27.7,483,22,Healthy,Low
+199755,isoniazid 100 MG / rifampin 150 MG Oral Tablet,4838,186,26.0,930,36,Healthy,Low
+199756,isoniazid 150 MG / rifampin 300 MG Oral Tablet,483,30,16.1,180,18,Healthy,Low
+199802,rifampin 450 MG Oral Tablet,718,86,8.3,602,25,Watch,Low
+246297,rifampin 20 MG/ML Oral Suspension,4390,213,20.6,1491,21,Healthy,Low
+312821,rifampin 600 MG Injection,204,82,2.5,246,34,Low Stock,Medium
+433775,rifampin 150 MG Oral Tablet,2444,248,9.9,1488,19,Watch,Low
+105292,isoniazid 10 MG/ML Oral Solution,1484,51,29.1,357,21,Healthy,Low
+105293,isoniazid 25 MG/ML Injectable Solution,3393,155,21.9,620,4,Healthy,Low
+197832,isoniazid 300 MG Oral Tablet,1363,149,9.1,447,29,Watch,Low
+204430,isoniazid 100 MG/ML Injectable Solution,2320,173,13.4,692,19,Watch,Low
+311166,isoniazid 100 MG Oral Tablet,2407,86,28.0,602,8,Healthy,Low
+311171,isoniazid 50 MG Oral Tablet,4600,191,24.1,764,25,Healthy,Low
+995599,ethambutol hydrochloride 100 MG Oral Tablet,3746,126,29.7,630,24,Healthy,Low
+995607,ethambutol hydrochloride 400 MG Oral Tablet,708,31,22.8,124,6,Healthy,Low
+198181,pyrazinamide 500 MG Oral Tablet,373,170,2.2,1190,18,Low Stock,Medium
+1043563,24 HR metformin hydrochloride 1000 MG / saxagliptin 2.5 MG Extended Release Oral Tablet,3018,208,14.5,1248,26,Healthy,Low
+1043570,24 HR metformin hydrochloride 1000 MG / saxagliptin 5 MG Extended Release Oral Tablet,508,101,5.0,707,20,Low Stock,Medium
+1043578,24 HR metformin hydrochloride 500 MG / saxagliptin 5 MG Extended Release Oral Tablet,1318,180,7.3,900,3,Watch,Low
+1243020,linagliptin 2.5 MG / metformin hydrochloride 1000 MG Oral Tablet,180,28,6.4,84,15,Low Stock,Medium
+1243027,linagliptin 2.5 MG / metformin hydrochloride 500 MG Oral Tablet,405,275,1.5,825,13,Critical,High
+1243034,linagliptin 2.5 MG / metformin hydrochloride 850 MG Oral Tablet,4572,234,19.5,1170,3,Healthy,Low
+1243827,24 HR metformin hydrochloride 1000 MG / sitagliptin 100 MG Extended Release Oral Tablet,4284,276,15.5,828,29,Healthy,Low
+1243842,24 HR metformin hydrochloride 1000 MG / sitagliptin 50 MG Extended Release Oral Tablet,2444,181,13.5,1086,21,Watch,Low
+1243846,24 HR metformin hydrochloride 500 MG / sitagliptin 50 MG Extended Release Oral Tablet,2031,197,10.3,1379,5,Watch,Low
+1368385,alogliptin 12.5 MG / metformin hydrochloride 1000 MG Oral Tablet,1843,145,12.7,435,35,Watch,Low
+1368392,alogliptin 12.5 MG / metformin hydrochloride 500 MG Oral Tablet,3080,172,17.9,1204,17,Healthy,Low
+1545150,canagliflozin 150 MG / metformin hydrochloride 1000 MG Oral Tablet,222,41,5.4,164,17,Low Stock,Medium
+1545157,canagliflozin 150 MG / metformin hydrochloride 500 MG Oral Tablet,5396,212,25.5,636,5,Healthy,Low
+1545161,canagliflozin 50 MG / metformin hydrochloride 1000 MG Oral Tablet,2405,90,26.7,630,7,Healthy,Low
+1545164,canagliflozin 50 MG / metformin hydrochloride 500 MG Oral Tablet,367,19,19.3,95,10,Healthy,Low
+1593058,24 HR dapagliflozin 10 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet,4484,168,26.7,504,7,Healthy,Low
+1593068,24 HR dapagliflozin 10 MG / metformin hydrochloride 500 MG Extended Release Oral Tablet,4607,194,23.7,582,16,Healthy,Low
+1593070,24 HR dapagliflozin 5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet,53,29,1.8,145,9,Critical,High
+1593072,24 HR dapagliflozin 5 MG / metformin hydrochloride 500 MG Extended Release Oral Tablet,2165,96,22.6,576,20,Healthy,Low
+1664315,empagliflozin 5 MG / metformin hydrochloride 500 MG Oral Tablet,4420,284,15.6,1136,19,Healthy,Low
+1664323,empagliflozin 12.5 MG / metformin hydrochloride 500 MG Oral Tablet,4364,202,21.6,1010,32,Healthy,Low
+1664326,empagliflozin 5 MG / metformin hydrochloride 1000 MG Oral Tablet,4050,294,13.8,882,27,Watch,Low
+1665367,empagliflozin 12.5 MG / metformin hydrochloride 1000 MG Oral Tablet,2439,131,18.6,655,8,Healthy,Low
+1796089,24 HR linagliptin 2.5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet,4512,200,22.6,600,35,Healthy,Low
+1796094,24 HR linagliptin 5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet,1577,83,19.0,415,14,Healthy,Low
+1807888,Modified 24 HR metformin hydrochloride 1000 MG Extended Release Oral Tablet,2425,86,28.2,516,33,Healthy,Low
+1807894,Osmotic 24 HR metformin hydrochloride 1000 MG Extended Release Oral Tablet,114,12,9.5,84,3,Watch,Low
+1807915,Modified 24 HR metformin hydrochloride 500 MG Extended Release Oral Tablet,4771,255,18.7,1530,30,Healthy,Low
+1807917,Osmotic 24 HR metformin hydrochloride 500 MG Extended Release Oral Tablet,3234,235,13.8,705,3,Watch,Low
+1810997,24 HR canagliflozin 150 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet,1372,90,15.2,450,33,Healthy,Low
+1811002,24 HR canagliflozin 150 MG / metformin hydrochloride 500 MG Extended Release Oral Tablet,5812,208,27.9,1456,36,Healthy,Low
+1811006,24 HR canagliflozin 50 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet,1475,90,16.4,450,18,Healthy,Low
+1811010,24 HR canagliflozin 50 MG / metformin hydrochloride 500 MG Extended Release Oral Tablet,3421,150,22.8,900,3,Healthy,Low
+1862685,24 HR empagliflozin 10 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet,442,39,11.3,234,24,Watch,Low
+1862691,24 HR empagliflozin 12.5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet,4313,164,26.3,656,13,Healthy,Low
+1862695,24 HR empagliflozin 25 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet,2115,153,13.8,612,20,Watch,Low
+1862700,24 HR empagliflozin 5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet,3232,119,27.2,595,30,Healthy,Low
+1940496,24 HR dapagliflozin 2.5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet,2919,102,28.6,408,15,Healthy,Low
+1992685,ertugliflozin 2.5 MG / metformin hydrochloride 1000 MG Oral Tablet,1699,58,29.3,406,5,Healthy,Low
+1992693,ertugliflozin 2.5 MG / metformin hydrochloride 500 MG Oral Tablet,4896,213,23.0,1491,11,Healthy,Low
+1992698,ertugliflozin 7.5 MG / metformin hydrochloride 1000 MG Oral Tablet,1334,191,7.0,1337,35,Low Stock,Medium
+1992701,ertugliflozin 7.5 MG / metformin hydrochloride 500 MG Oral Tablet,5500,201,27.4,1206,24,Healthy,Low
+2359279,24 HR empagliflozin 10 MG / linagliptin 5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet,1471,270,5.4,810,36,Low Stock,Medium
+2359288,24 HR empagliflozin 12.5 MG / linagliptin 2.5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet,55,25,2.2,175,35,Low Stock,Medium
+2359351,24 HR empagliflozin 25 MG / linagliptin 5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet,1123,112,10.0,336,8,Watch,Low
+2359356,24 HR empagliflozin 5 MG / linagliptin 2.5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet,6454,271,23.8,1084,36,Healthy,Low
+2703582,metformin hydrochloride 750 MG Oral Tablet,7624,298,25.6,894,14,Healthy,Low
+2709470,24 HR metformin hydrochloride 1000 MG / sitagliptin phosphate 100 MG Extended Release Oral Tablet,2742,100,27.4,700,19,Healthy,Low
+2709477,24 HR metformin hydrochloride 1000 MG / sitagliptin phosphate 50 MG Extended Release Oral Tablet,3499,174,20.1,696,36,Healthy,Low
+2709482,24 HR metformin hydrochloride 500 MG / sitagliptin phosphate 50 MG Extended Release Oral Tablet,4790,244,19.6,1708,12,Healthy,Low
+2709488,metformin hydrochloride 1000 MG / sitagliptin phosphate 50 MG Oral Tablet,872,70,12.5,350,36,Watch,Low
+2709491,metformin hydrochloride 500 MG / sitagliptin phosphate 50 MG Oral Tablet,791,41,19.3,246,20,Healthy,Low
+860975,24 HR metformin hydrochloride 500 MG Extended Release Oral Tablet,2669,100,26.7,400,13,Healthy,Low
+860981,24 HR metformin hydrochloride 750 MG Extended Release Oral Tablet,1036,61,17.0,183,20,Healthy,Low
+861004,metformin hydrochloride 1000 MG Oral Tablet,5896,263,22.4,789,3,Healthy,Low
+861007,metformin hydrochloride 500 MG Oral Tablet,2468,273,9.0,1638,25,Watch,Low
+861010,metformin hydrochloride 850 MG Oral Tablet,169,30,5.6,210,27,Low Stock,Medium
+861021,metformin hydrochloride 625 MG Oral Tablet,1252,263,4.8,1315,35,Low Stock,Medium
+861025,metformin hydrochloride 100 MG/ML Oral Solution,4612,272,17.0,1632,18,Healthy,Low
+861731,glipizide 2.5 MG / metformin hydrochloride 250 MG Oral Tablet,571,260,2.2,780,13,Low Stock,Medium
+861736,glipizide 2.5 MG / metformin hydrochloride 500 MG Oral Tablet,666,23,29.0,161,22,Healthy,Low
+861740,glipizide 5 MG / metformin hydrochloride 500 MG Oral Tablet,267,10,26.7,60,28,Healthy,Low
+861743,glyburide 1.25 MG / metformin hydrochloride 250 MG Oral Tablet,3085,255,12.1,1785,36,Watch,Low
+861748,glyburide 2.5 MG / metformin hydrochloride 500 MG Oral Tablet,1097,85,12.9,255,30,Watch,Low
+861753,glyburide 5 MG / metformin hydrochloride 500 MG Oral Tablet,1741,213,8.2,639,36,Watch,Low
+861760,metformin hydrochloride 1000 MG / rosiglitazone 2 MG Oral Tablet,2845,98,29.0,392,13,Healthy,Low
+861763,metformin hydrochloride 1000 MG / rosiglitazone 4 MG Oral Tablet,4950,245,20.2,1470,23,Healthy,Low
+861769,metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet,327,27,12.1,162,16,Watch,Low
+861783,metformin hydrochloride 500 MG / pioglitazone 15 MG Oral Tablet,1714,220,7.8,880,32,Watch,Low
+861787,metformin hydrochloride 500 MG / repaglinide 1 MG Oral Tablet,5606,230,24.4,1380,11,Healthy,Low
+861790,metformin hydrochloride 500 MG / repaglinide 2 MG Oral Tablet,4972,239,20.8,956,11,Healthy,Low
+861795,metformin hydrochloride 500 MG / rosiglitazone 1 MG Oral Tablet,484,70,6.9,420,27,Low Stock,Medium
+861806,metformin hydrochloride 500 MG / rosiglitazone 2 MG Oral Tablet,509,60,8.5,240,24,Watch,Low
+861816,metformin hydrochloride 500 MG / rosiglitazone 4 MG Oral Tablet,299,41,7.3,123,19,Watch,Low
+861819,metformin hydrochloride 500 MG / sitagliptin 50 MG Oral Tablet,1520,53,28.7,265,15,Healthy,Low
+861822,metformin hydrochloride 850 MG / pioglitazone 15 MG Oral Tablet,892,38,23.5,114,34,Healthy,Low
+1361493,glimepiride 6 MG Oral Tablet,805,62,13.0,186,7,Watch,Low
+1361495,glimepiride 8 MG Oral Tablet,1129,255,4.4,1530,34,Low Stock,Medium
+153842,glimepiride 3 MG Oral Tablet,270,209,1.3,1045,3,Critical,High
+199245,glimepiride 1 MG Oral Tablet,2927,224,13.1,1344,7,Watch,Low
+199246,glimepiride 2 MG Oral Tablet,1404,59,23.8,413,32,Healthy,Low
+199247,glimepiride 4 MG Oral Tablet,2283,160,14.3,640,7,Healthy,Low
+602544,glimepiride 1 MG / rosiglitazone 4 MG Oral Tablet,161,76,2.1,304,4,Low Stock,Medium
+602549,glimepiride 2 MG / rosiglitazone 4 MG Oral Tablet,23,22,1.0,110,36,Critical,High
+602550,glimepiride 4 MG / rosiglitazone 4 MG Oral Tablet,1633,261,6.3,1305,17,Low Stock,Medium
+647237,glimepiride 2 MG / pioglitazone 30 MG Oral Tablet,379,145,2.6,1015,21,Low Stock,Medium
+647239,glimepiride 4 MG / pioglitazone 30 MG Oral Tablet,932,102,9.1,612,15,Watch,Low
+706895,glimepiride 2 MG / rosiglitazone 8 MG Oral Tablet,1231,246,5.0,738,3,Low Stock,Medium
+706896,glimepiride 4 MG / rosiglitazone 8 MG Oral Tablet,68,10,6.8,70,7,Low Stock,Medium
+199825,gliclazide 80 MG Oral Tablet,657,46,14.3,138,28,Healthy,Low
+433856,24 HR gliclazide 30 MG Extended Release Oral Tablet,272,24,11.3,144,31,Watch,Low
+1543202,"insulin, regular, human 4 UNT Inhalation Powder",1986,144,13.8,720,23,Watch,Low
+1544488,"insulin, regular, human 8 UNT Inhalation Powder",2954,175,16.9,1225,36,Healthy,Low
+1654910,"insulin, regular, human 12 UNT Inhalation Powder",4123,171,24.1,855,15,Healthy,Low
+1731315,"3 ML insulin, regular, human 500 UNT/ML Pen Injector",922,167,5.5,1002,30,Low Stock,Medium
+2179744,"100 ML insulin, regular, human 1 UNT/ML Injection",625,37,16.9,185,15,Healthy,Low
+2206090,"3 ML insulin, regular, human 100 UNT/ML Pen Injector",1646,210,7.8,1260,23,Watch,Low
+245264,"insulin isophane, human 85 UNT/ML / insulin, regular, human 15 UNT/ML Injectable Suspension",1293,62,20.9,248,36,Healthy,Low
+245265,"insulin isophane, human 50 UNT/ML / insulin, regular, human 50 UNT/ML Injectable Suspension",3031,208,14.6,1248,14,Healthy,Low
+247511,"insulin isophane, human 90 UNT/ML / insulin, regular, human 10 UNT/ML Injectable Suspension",4822,285,16.9,1995,29,Healthy,Low
+247512,"insulin isophane, human 80 UNT/ML / insulin, regular, human 20 UNT/ML Injectable Suspension",1099,124,8.9,744,5,Watch,Low
+247513,"insulin isophane, human 60 UNT/ML / insulin, regular, human 40 UNT/ML Injectable Suspension",901,34,26.5,102,27,Healthy,Low
+249220,"insulin, regular, human 500 UNT/ML Injectable Solution",799,136,5.9,680,5,Low Stock,Medium
+311034,"insulin, regular, human 100 UNT/ML Injectable Solution",2530,268,9.4,1608,29,Watch,Low
+311048,"insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension",930,36,25.8,216,31,Healthy,Low
+392660,"insulin isophane, human 75 UNT/ML / insulin, regular, human 25 UNT/ML Injectable Suspension",1310,157,8.3,471,24,Watch,Low
+847187,"3 ML insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Pen Injector",208,39,5.3,195,16,Low Stock,Medium
+1992826,ertugliflozin 15 MG / sitagliptin 100 MG Oral Tablet,957,279,3.4,1953,20,Low Stock,Medium
+1992835,ertugliflozin 5 MG / sitagliptin 100 MG Oral Tablet,5269,278,19.0,1112,8,Healthy,Low
+2709603,sitagliptin phosphate 100 MG Oral Tablet,579,272,2.1,1088,32,Low Stock,Medium
+2709608,sitagliptin phosphate 50 MG Oral Tablet,279,173,1.6,1038,9,Critical,High
+2709612,sitagliptin phosphate 25 MG Oral Tablet,544,70,7.8,350,30,Watch,Low
+2716485,sitagliptin 25 MG/ML Oral Solution,1390,112,12.4,336,12,Watch,Low
+665033,sitagliptin 100 MG Oral Tablet,224,89,2.5,623,3,Low Stock,Medium
+665038,sitagliptin 25 MG Oral Tablet,7022,293,24.0,1172,22,Healthy,Low
+665042,sitagliptin 50 MG Oral Tablet,1695,64,26.5,448,18,Healthy,Low
+1100702,linagliptin 5 MG Oral Tablet,611,197,3.1,788,14,Low Stock,Medium
+1602109,empagliflozin 10 MG / linagliptin 5 MG Oral Tablet,6080,213,28.5,1278,17,Healthy,Low
+1602118,empagliflozin 25 MG / linagliptin 5 MG Oral Tablet,842,240,3.5,1440,23,Low Stock,Medium
+1545658,empagliflozin 10 MG Oral Tablet,1404,74,19.0,370,4,Healthy,Low
+1545666,empagliflozin 25 MG Oral Tablet,403,238,1.7,952,14,Critical,High
+1488569,dapagliflozin 10 MG Oral Tablet,1346,113,11.9,452,22,Watch,Low
+1488574,dapagliflozin 5 MG Oral Tablet,177,79,2.2,237,28,Low Stock,Medium
+1925498,dapagliflozin 10 MG / saxagliptin 5 MG Oral Tablet,377,45,8.4,135,16,Watch,Low
+2169274,dapagliflozin 5 MG / saxagliptin 5 MG Oral Tablet,71,10,7.1,50,13,Watch,Low
+1368403,alogliptin 12.5 MG / pioglitazone 15 MG Oral Tablet,2885,221,13.1,884,18,Watch,Low
+1368410,alogliptin 12.5 MG / pioglitazone 30 MG Oral Tablet,2042,278,7.3,834,15,Watch,Low
+1368417,alogliptin 12.5 MG / pioglitazone 45 MG Oral Tablet,3264,263,12.4,1578,15,Watch,Low
+1368424,alogliptin 25 MG / pioglitazone 15 MG Oral Tablet,3931,285,13.8,1995,17,Watch,Low
+1368431,alogliptin 25 MG / pioglitazone 30 MG Oral Tablet,167,56,3.0,224,26,Low Stock,Medium
+1368438,alogliptin 25 MG / pioglitazone 45 MG Oral Tablet,5134,235,21.8,940,18,Healthy,Low
+312440,pioglitazone 30 MG Oral Tablet,458,16,28.6,96,18,Healthy,Low
+312441,pioglitazone 45 MG Oral Tablet,7289,255,28.6,765,22,Healthy,Low
+317573,pioglitazone 15 MG Oral Tablet,1644,128,12.8,640,29,Watch,Low
+1000001,amlodipine 5 MG / hydrochlorothiazide 25 MG / olmesartan medoxomil 40 MG Oral Tablet,232,72,3.2,432,18,Low Stock,Medium
+1050798,aliskiren 150 MG / amlodipine 5 MG / hydrochlorothiazide 12.5 MG Oral Tablet,2450,95,25.8,665,9,Healthy,Low
+1050803,aliskiren 300 MG / amlodipine 10 MG / hydrochlorothiazide 12.5 MG Oral Tablet,284,222,1.3,666,4,Critical,High
+1050806,aliskiren 300 MG / amlodipine 10 MG / hydrochlorothiazide 25 MG Oral Tablet,3786,138,27.4,552,18,Healthy,Low
+1050809,aliskiren 300 MG / amlodipine 5 MG / hydrochlorothiazide 12.5 MG Oral Tablet,1268,60,21.1,300,29,Healthy,Low
+1050812,aliskiren 300 MG / amlodipine 5 MG / hydrochlorothiazide 25 MG Oral Tablet,2869,195,14.7,585,14,Healthy,Low
+1600716,amlodipine 10 MG / perindopril arginine 14 MG Oral Tablet,1809,225,8.0,1125,34,Watch,Low
+1600724,amlodipine 2.5 MG / perindopril arginine 3.5 MG Oral Tablet,595,20,29.8,140,30,Healthy,Low
+1600728,amlodipine 5 MG / perindopril arginine 7 MG Oral Tablet,1647,148,11.1,888,8,Watch,Low
+197361,amlodipine 5 MG Oral Tablet,2402,107,22.4,642,13,Healthy,Low
+2047715,amlodipine 2.5 MG / celecoxib 200 MG Oral Tablet,797,236,3.4,1180,24,Low Stock,Medium
+2047716,amlodipine 5 MG / celecoxib 200 MG Oral Tablet,2439,226,10.8,1582,28,Watch,Low
+2047717,amlodipine 10 MG / celecoxib 200 MG Oral Tablet,4131,153,27.0,765,16,Healthy,Low
+2184120,amlodipine 1 MG/ML Oral Suspension,4897,185,26.5,555,22,Healthy,Low
+2599173,amlodipine 1 MG/ML Oral Solution,2646,101,26.2,303,9,Healthy,Low
+2726058,amlodipine 2.5 MG Powder for Oral Solution,5310,253,21.0,759,13,Healthy,Low
+2726065,amlodipine 5 MG Powder for Oral Solution,1640,102,16.1,306,13,Healthy,Low
+2726068,amlodipine 10 MG Powder for Oral Solution,5351,232,23.1,928,30,Healthy,Low
+2727452,amlodipine 1.25 MG / indapamide 0.625 MG / telmisartan 10 MG Oral Tablet,6504,247,26.3,988,20,Healthy,Low
+2727460,amlodipine 2.5 MG / indapamide 1.25 MG / telmisartan 20 MG Oral Tablet,134,10,13.4,70,19,Watch,Low
+2727463,amlodipine 5 MG / indapamide 2.5 MG / telmisartan 40 MG Oral Tablet,7693,288,26.7,1728,25,Healthy,Low
+2748469,amlodipine 1.25 MG Chewable Tablet,3200,271,11.8,1626,10,Watch,Low
+308135,amlodipine 10 MG Oral Tablet,2729,109,25.0,436,21,Healthy,Low
+308136,amlodipine 2.5 MG Oral Tablet,2471,150,16.5,600,24,Healthy,Low
+404011,amlodipine 5 MG / atorvastatin 80 MG Oral Tablet,4256,212,20.1,636,4,Healthy,Low
+404013,amlodipine 10 MG / atorvastatin 80 MG Oral Tablet,2021,164,12.3,656,34,Watch,Low
+597967,amlodipine 10 MG / atorvastatin 20 MG Oral Tablet,7410,248,29.9,1736,24,Healthy,Low
+597971,amlodipine 2.5 MG / atorvastatin 10 MG Oral Tablet,186,157,1.2,785,16,Critical,High
+597974,amlodipine 2.5 MG / atorvastatin 20 MG Oral Tablet,3147,207,15.2,1242,36,Healthy,Low
+597977,amlodipine 5 MG / atorvastatin 10 MG Oral Tablet,2607,195,13.4,1365,15,Watch,Low
+597980,amlodipine 5 MG / atorvastatin 20 MG Oral Tablet,2853,123,23.2,369,32,Healthy,Low
+597984,amlodipine 5 MG / atorvastatin 40 MG Oral Tablet,429,110,3.9,330,30,Low Stock,Medium
+597987,amlodipine 10 MG / atorvastatin 10 MG Oral Tablet,3708,125,29.7,750,18,Healthy,Low
+597990,amlodipine 10 MG / atorvastatin 40 MG Oral Tablet,1540,147,10.5,441,29,Watch,Low
+597993,amlodipine 2.5 MG / atorvastatin 40 MG Oral Tablet,1729,94,18.4,376,34,Healthy,Low
+722126,amlodipine 10 MG / valsartan 160 MG Oral Tablet,280,216,1.3,864,21,Critical,High
+722131,amlodipine 10 MG / valsartan 320 MG Oral Tablet,1099,59,18.6,354,4,Healthy,Low
+722134,amlodipine 5 MG / valsartan 160 MG Oral Tablet,2958,175,16.9,1050,14,Healthy,Low
+722137,amlodipine 5 MG / valsartan 320 MG Oral Tablet,3392,174,19.5,1044,16,Healthy,Low
+730861,amlodipine 10 MG / olmesartan medoxomil 20 MG Oral Tablet,3711,140,26.5,840,10,Healthy,Low
+730866,amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet,633,40,15.8,200,24,Healthy,Low
+730869,amlodipine 5 MG / olmesartan medoxomil 20 MG Oral Tablet,8087,286,28.3,858,17,Healthy,Low
+730872,amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet,604,26,23.2,78,7,Healthy,Low
+757674,amlodipine 10 MG Disintegrating Oral Tablet,661,127,5.2,635,16,Low Stock,Medium
+757675,amlodipine 2.5 MG Disintegrating Oral Tablet,926,162,5.7,1134,16,Low Stock,Medium
+757676,amlodipine 5 MG Disintegrating Oral Tablet,6972,300,23.2,2100,12,Healthy,Low
+848131,amlodipine 10 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet,2484,199,12.5,995,8,Watch,Low
+848135,amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 320 MG Oral Tablet,4043,157,25.8,628,30,Healthy,Low
+848140,amlodipine 5 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet,309,110,2.8,660,12,Low Stock,Medium
+848145,amlodipine 5 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet,1954,236,8.3,944,24,Watch,Low
+848151,amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet,123,11,11.2,77,17,Watch,Low
+876514,amlodipine 10 MG / telmisartan 40 MG Oral Tablet,2747,180,15.3,720,27,Healthy,Low
+876519,amlodipine 10 MG / telmisartan 80 MG Oral Tablet,5286,182,29.0,910,13,Healthy,Low
+876524,amlodipine 5 MG / telmisartan 40 MG Oral Tablet,1136,133,8.5,532,11,Watch,Low
+876529,amlodipine 5 MG / telmisartan 80 MG Oral Tablet,2845,161,17.7,644,24,Healthy,Low
+898342,amlodipine 10 MG / benazepril hydrochloride 20 MG Oral Capsule,600,63,9.5,252,20,Watch,Low
+898346,amlodipine 10 MG / benazepril hydrochloride 40 MG Oral Capsule,6293,292,21.6,1752,7,Healthy,Low
+898350,amlodipine 2.5 MG / benazepril hydrochloride 10 MG Oral Capsule,671,108,6.2,324,13,Low Stock,Medium
+898353,amlodipine 5 MG / benazepril hydrochloride 10 MG Oral Capsule,1024,53,19.3,159,25,Healthy,Low
+898356,amlodipine 5 MG / benazepril hydrochloride 20 MG Oral Capsule,878,165,5.3,660,21,Low Stock,Medium
+898359,amlodipine 5 MG / benazepril hydrochloride 40 MG Oral Capsule,732,59,12.4,177,12,Watch,Low
+999967,amlodipine 5 MG / hydrochlorothiazide 12.5 MG / olmesartan medoxomil 20 MG Oral Tablet,981,78,12.6,468,16,Watch,Low
+999986,amlodipine 10 MG / hydrochlorothiazide 12.5 MG / olmesartan medoxomil 40 MG Oral Tablet,513,234,2.2,936,13,Low Stock,Medium
+999991,amlodipine 10 MG / hydrochlorothiazide 25 MG / olmesartan medoxomil 40 MG Oral Tablet,2942,197,14.9,985,25,Healthy,Low
+999996,amlodipine 5 MG / hydrochlorothiazide 12.5 MG / olmesartan medoxomil 40 MG Oral Tablet,46,35,1.3,175,32,Critical,High
+2709039,losartan potassium 10 MG/ML Oral Suspension,616,79,7.8,395,29,Watch,Low
+979464,hydrochlorothiazide 12.5 MG / losartan potassium 100 MG Oral Tablet,6989,233,30.0,932,28,Healthy,Low
+979468,hydrochlorothiazide 12.5 MG / losartan potassium 50 MG Oral Tablet,228,56,4.1,280,33,Low Stock,Medium
+979471,hydrochlorothiazide 25 MG / losartan potassium 100 MG Oral Tablet,152,66,2.3,330,15,Low Stock,Medium
+979480,losartan potassium 100 MG Oral Tablet,1014,219,4.6,1533,6,Low Stock,Medium
+979485,losartan potassium 25 MG Oral Tablet,2004,118,17.0,354,31,Healthy,Low
+979492,losartan potassium 50 MG Oral Tablet,923,247,3.7,1235,35,Low Stock,Medium
+1011718,aliskiren 150 MG / valsartan 160 MG Oral Tablet,5235,189,27.7,756,34,Healthy,Low
+1011729,aliskiren 300 MG / valsartan 320 MG Oral Tablet,1873,72,26.0,504,34,Healthy,Low
+153077,valsartan 40 MG Oral Capsule,2218,149,14.9,1043,19,Healthy,Low
+1656340,sacubitril 24 MG / valsartan 26 MG Oral Tablet,2456,182,13.5,1092,4,Watch,Low
+1656349,sacubitril 49 MG / valsartan 51 MG Oral Tablet,4527,162,27.9,972,8,Healthy,Low
+1656354,sacubitril 97 MG / valsartan 103 MG Oral Tablet,459,21,21.9,63,6,Healthy,Low
+1798281,nebivolol 5 MG / valsartan 80 MG Oral Tablet,1188,248,4.8,1488,3,Low Stock,Medium
+1996254,valsartan 4 MG/ML Oral Solution,2062,75,27.5,525,28,Healthy,Low
+199850,valsartan 80 MG Oral Capsule,2153,127,17.0,508,11,Healthy,Low
+199919,valsartan 160 MG Oral Capsule,3021,261,11.6,1305,12,Watch,Low
+200284,hydrochlorothiazide 12.5 MG / valsartan 80 MG Oral Tablet,809,39,20.7,273,17,Healthy,Low
+200285,hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet,68,53,1.3,318,5,Critical,High
+2679793,sacubitril 15 MG / valsartan 16 MG Oral Pellet,1104,263,4.2,1841,8,Low Stock,Medium
+2679800,sacubitril 6 MG / valsartan 6 MG Oral Pellet,1584,265,6.0,1855,14,Low Stock,Medium
+349199,valsartan 80 MG Oral Tablet,2139,233,9.2,1631,12,Watch,Low
+349200,valsartan 320 MG Oral Tablet,4565,202,22.6,606,17,Healthy,Low
+349201,valsartan 160 MG Oral Tablet,7697,263,29.3,1315,12,Healthy,Low
+349353,hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet,2523,92,27.4,644,30,Healthy,Low
+349483,valsartan 40 MG Oral Tablet,1309,69,19.0,483,6,Healthy,Low
+636042,hydrochlorothiazide 12.5 MG / valsartan 320 MG Oral Tablet,786,63,12.5,315,27,Watch,Low
+636045,hydrochlorothiazide 25 MG / valsartan 320 MG Oral Tablet,1649,109,15.1,327,7,Healthy,Low
+205304,telmisartan 40 MG Oral Tablet,6717,267,25.2,1602,29,Healthy,Low
+205305,telmisartan 80 MG Oral Tablet,2943,168,17.5,1176,34,Healthy,Low
+2057152,telmisartan 10 MG/ML Oral Solution,4579,298,15.4,1192,22,Healthy,Low
+282755,telmisartan 20 MG Oral Tablet,3133,105,29.8,630,26,Healthy,Low
+283316,hydrochlorothiazide 12.5 MG / telmisartan 40 MG Oral Tablet,510,21,24.3,84,24,Healthy,Low
+283317,hydrochlorothiazide 12.5 MG / telmisartan 80 MG Oral Tablet,908,186,4.9,1116,9,Low Stock,Medium
+477130,hydrochlorothiazide 25 MG / telmisartan 80 MG Oral Tablet,5851,206,28.4,1030,24,Healthy,Low
+349373,olmesartan medoxomil 5 MG Oral Tablet,50,36,1.4,108,12,Critical,High
+349401,olmesartan medoxomil 20 MG Oral Tablet,3798,166,22.9,1162,13,Healthy,Low
+349405,olmesartan medoxomil 40 MG Oral Tablet,2660,130,20.5,520,27,Healthy,Low
+401971,olmesartan medoxomil 10 MG Oral Tablet,413,15,27.5,60,33,Healthy,Low
+403853,hydrochlorothiazide 12.5 MG / olmesartan medoxomil 20 MG Oral Tablet,2478,85,29.2,510,16,Healthy,Low
+403854,hydrochlorothiazide 12.5 MG / olmesartan medoxomil 40 MG Oral Tablet,1316,77,17.1,231,8,Healthy,Low
+403855,hydrochlorothiazide 25 MG / olmesartan medoxomil 40 MG Oral Tablet,5673,191,29.7,955,24,Healthy,Low
+104308,atenolol 0.5 MG/ML Injectable Solution,983,33,29.8,198,19,Healthy,Low
+152916,atenolol 50 MG / chlorthalidone 12.5 MG Oral Tablet,3168,108,29.3,324,27,Healthy,Low
+153155,atenolol 25 MG / bendroflumethiazide 1.25 MG Oral Capsule,541,44,12.3,132,18,Watch,Low
+197379,atenolol 100 MG Oral Tablet,3736,219,17.1,876,33,Healthy,Low
+197380,atenolol 25 MG Oral Tablet,284,13,21.8,65,4,Healthy,Low
+197381,atenolol 50 MG Oral Tablet,4065,298,13.6,1192,23,Watch,Low
+197382,atenolol 100 MG / chlorthalidone 25 MG Oral Tablet,1483,101,14.7,707,24,Healthy,Low
+197383,atenolol 50 MG / chlorthalidone 25 MG Oral Tablet,2508,183,13.7,732,23,Watch,Low
+393275,atenolol 50 MG / nifedipine 20 MG Extended Release Oral Capsule,1260,82,15.4,328,28,Healthy,Low
+755528,atenolol 5 MG/ML Oral Solution,2732,144,19.0,432,7,Healthy,Low
+977920,amiloride hydrochloride 2.5 MG / atenolol 50 MG / hydrochlorothiazide 25 MG Oral Capsule,113,113,1.0,678,6,Critical,High
+1111439,24 HR hydrochlorothiazide 25 MG / metoprolol tartrate 200 MG Extended Release Oral Tablet,870,285,3.1,1425,23,Low Stock,Medium
+1606347,metoprolol tartrate 37.5 MG Oral Tablet,982,73,13.5,438,11,Watch,Low
+1606349,metoprolol tartrate 75 MG Oral Tablet,1140,76,15.0,380,9,Healthy,Low
+1744259,5 ML metoprolol tartrate 1 MG/ML Cartridge,2286,237,9.6,1185,26,Watch,Low
+1999031,24 HR metoprolol succinate 100 MG Extended Release Oral Capsule,1415,300,4.7,900,23,Low Stock,Medium
+1999033,24 HR metoprolol succinate 200 MG Extended Release Oral Capsule,6582,241,27.3,1446,34,Healthy,Low
+1999035,24 HR metoprolol succinate 25 MG Extended Release Oral Capsule,1809,124,14.6,868,16,Healthy,Low
+1999037,24 HR metoprolol succinate 50 MG Extended Release Oral Capsule,586,101,5.8,707,15,Low Stock,Medium
+2712147,metoprolol tartrate 10 MG/ML Oral Solution,5617,271,20.7,1897,14,Healthy,Low
+2723025,metoprolol tartrate 12.5 MG Oral Tablet,2103,158,13.3,632,16,Watch,Low
+866412,24 HR metoprolol succinate 100 MG Extended Release Oral Tablet,3875,217,17.9,651,15,Healthy,Low
+866419,24 HR metoprolol succinate 200 MG Extended Release Oral Tablet,2887,157,18.4,942,22,Healthy,Low
+866427,24 HR metoprolol succinate 25 MG Extended Release Oral Tablet,3793,152,25.0,456,10,Healthy,Low
+866436,24 HR metoprolol succinate 50 MG Extended Release Oral Tablet,1745,154,11.3,770,7,Watch,Low
+866452,24 HR hydrochlorothiazide 12.5 MG / metoprolol succinate 100 MG Extended Release Oral Tablet,5618,247,22.7,1482,19,Healthy,Low
+866479,hydrochlorothiazide 25 MG / metoprolol tartrate 100 MG Oral Tablet,509,101,5.0,606,17,Low Stock,Medium
+866482,hydrochlorothiazide 25 MG / metoprolol tartrate 50 MG Oral Tablet,1692,154,11.0,616,28,Watch,Low
+866491,hydrochlorothiazide 50 MG / metoprolol tartrate 100 MG Oral Tablet,3176,266,11.9,1596,3,Watch,Low
+866508,5 ML metoprolol tartrate 1 MG/ML Injection,2266,94,24.1,470,27,Healthy,Low
+866511,metoprolol tartrate 100 MG Oral Tablet,3136,177,17.7,708,4,Healthy,Low
+866514,metoprolol tartrate 50 MG Oral Tablet,5045,233,21.7,932,22,Healthy,Low
+866924,metoprolol tartrate 25 MG Oral Tablet,7314,291,25.1,2037,4,Healthy,Low
+1495058,propranolol hydrochloride 4.28 MG/ML Oral Solution,1960,109,18.0,654,18,Healthy,Low
+856422,hydrochlorothiazide 25 MG / propranolol hydrochloride 40 MG Oral Tablet,536,105,5.1,735,28,Low Stock,Medium
+856429,hydrochlorothiazide 25 MG / propranolol hydrochloride 80 MG Oral Tablet,4826,224,21.5,896,27,Healthy,Low
+856443,1 ML propranolol hydrochloride 1 MG/ML Injection,844,149,5.7,894,18,Low Stock,Medium
+856448,propranolol hydrochloride 10 MG Oral Tablet,684,170,4.0,1190,14,Low Stock,Medium
+856457,propranolol hydrochloride 20 MG Oral Tablet,6625,272,24.4,1088,15,Healthy,Low
+856460,24 HR propranolol hydrochloride 120 MG Extended Release Oral Capsule,444,115,3.9,805,20,Low Stock,Medium
+856481,24 HR propranolol hydrochloride 160 MG Extended Release Oral Capsule,2117,122,17.4,732,23,Healthy,Low
+856519,propranolol hydrochloride 40 MG Oral Tablet,1152,272,4.2,1632,26,Low Stock,Medium
+856535,24 HR propranolol hydrochloride 60 MG Extended Release Oral Capsule,1923,229,8.4,1603,36,Watch,Low
+856556,propranolol hydrochloride 60 MG Oral Tablet,3491,195,17.9,1170,6,Healthy,Low
+856569,24 HR propranolol hydrochloride 80 MG Extended Release Oral Capsule,885,141,6.3,846,11,Low Stock,Medium
+856578,propranolol hydrochloride 80 MG Oral Tablet,5973,296,20.2,1776,9,Healthy,Low
+856615,bendroflumethiazide 2.5 MG / propranolol hydrochloride 80 MG Oral Capsule,1255,188,6.7,1316,20,Low Stock,Medium

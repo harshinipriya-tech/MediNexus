@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+script_backup.js
+style_backup.css

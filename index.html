@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>MediNexus | Autonomous Medical Procurement</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <!-- =====================================================
+         LOGIN PAGE
+         ===================================================== -->
+
+    <main class="login-page">
+
+        <!-- LEFT BRANDING -->
+        <section class="login-brand">
+
+            <div class="login-logo">
+
+                <div class="login-logo-icon">
+                    +
+                </div>
+
+                <div>
+                    <strong>MediNexus</strong>
+                    <span>AI Procurement</span>
+                </div>
+
+            </div>
+
+
+            <div>
+
+                <div class="page-eyebrow">
+                    AI-POWERED HEALTHCARE PROCUREMENT
+                </div>
+
+                <h1>
+                    Smarter procurement.<br>
+                    <span>Safer healthcare.</span>
+                </h1>
+
+                <p>
+                    An autonomous intelligence platform that predicts
+                    medical supply risks, evaluates suppliers, and keeps
+                    critical inventory moving.
+                </p>
+
+
+                <div class="login-features">
+
+                    <div class="login-feature">
+                        ◈ &nbsp; Predict stockout risks
+                    </div>
+
+                    <div class="login-feature">
+                        ✦ &nbsp; Procure smarter
+                    </div>
+
+                    <div class="login-feature">
+                        ✓ &nbsp; Protect supply continuity
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <div style="
+                    position:relative;
+                    z-index:2;
+                    margin-top:auto;
+                    padding-top:70px;
+                    color:rgba(255,255,255,0.35);
+                    font-size:10px;
+                    letter-spacing:1.4px;
+                    font-weight:700;
+                ">
+                MEDINEXUS INTELLIGENCE PLATFORM · v1.0
+            </div>
+
+        </section>
+
+
+        <!-- RIGHT LOGIN -->
+        <section class="login-form-side">
+
+            <div class="login-card">
+
+                <div style="
+                        display:inline-flex;
+                        align-items:center;
+                        gap:7px;
+                        margin-bottom:18px;
+                        color:#079f91;
+                        font-size:10px;
+                        font-weight:800;
+                        letter-spacing:1.5px;
+                    ">
+                    <span style="
+                            width:7px;
+                            height:7px;
+                            border-radius:50%;
+                            background:#14b8a6;
+                            box-shadow:0 0 10px rgba(20,184,166,.45);
+                        "></span>
+
+                    SECURE WORKSPACE
+                </div>
+
+
+                <h2>
+                    Welcome back
+                </h2>
+
+                <p>
+                    Sign in to your healthcare procurement
+                    command center.
+                </p>
+
+
+                <form id="loginForm" onsubmit="handleLogin(event)">
+
+                    <!-- EMAIL -->
+                    <div style="margin-bottom:20px;">
+
+                        <label for="email">
+                            Work email
+                        </label>
+
+                        <div style="position:relative;">
+
+                            <span style="
+                                    position:absolute;
+                                    left:15px;
+                                    top:50%;
+                                    transform:translateY(-50%);
+                                    color:#8095a4;
+                                    font-size:14px;
+                                    pointer-events:none;
+                                ">
+                                ✉
+                            </span>
+
+                            <input id="email" name="email" type="email" placeholder="name@hospital.com"
+                                autocomplete="email" required style="padding-left:42px;">
+
+                        </div>
+
+                    </div>
+
+
+                    <!-- PASSWORD -->
+                    <div style="margin-bottom:12px;">
+
+                        <label for="password">
+                            Password
+                        </label>
+
+                        <div style="position:relative;">
+
+                            <span style="
+                                    position:absolute;
+                                    left:15px;
+                                    top:50%;
+                                    transform:translateY(-50%);
+                                    color:#8095a4;
+                                    font-size:14px;
+                                    pointer-events:none;
+                                ">
+                                ●
+                            </span>
+
+                            <input id="password" name="password" type="password" placeholder="Enter your password"
+                                autocomplete="current-password" required style="padding-left:42px;">
+
+                        </div>
+
+                    </div>
+
+
+                    <!-- OPTIONS -->
+                    <div style="
+                            display:flex;
+                            align-items:center;
+                            justify-content:space-between;
+                            margin-top:10px;
+                        ">
+
+                        <label style="
+                                display:flex;
+                                align-items:center;
+                                gap:8px;
+                                margin:0;
+                                color:#627b8d;
+                                font-size:11px;
+                                font-weight:600;
+                                cursor:pointer;
+                            ">
+
+                            <input type="checkbox" id="rememberMe" style="
+                                    width:15px;
+                                    height:15px;
+                                    margin:0;
+                                    accent-color:#14b8a6;
+                                ">
+
+                            Remember me
+
+                        </label>
+
+
+                        <button type="button" style="
+                                border:0;
+                                background:none;
+                                color:#079f91;
+                                font-size:11px;
+                                font-weight:700;
+                                cursor:pointer;
+                            " onclick="alert('Password recovery will be connected to the backend later.')">
+                            Forgot password?
+                        </button>
+
+                    </div>
+
+
+                    <!-- LOGIN BUTTON -->
+                    <button type="submit" class="login-button">
+                        Sign in to MediNexus
+                        <span style="margin-left:6px;">→</span>
+                    </button>
+
+                </form>
+
+
+                <!-- SECURITY MESSAGE -->
+                <div style="
+                        display:flex;
+                        align-items:center;
+                        justify-content:center;
+                        gap:7px;
+                        margin-top:17px;
+                        color:#8095a4;
+                        font-size:10px;
+                        font-weight:600;
+                    ">
+                    <span style="
+                            width:7px;
+                            height:7px;
+                            border-radius:50%;
+                            background:#14b8a6;
+                        "></span>
+
+                    Secure healthcare operations environment
+                </div>
+
+
+                <!-- DEMO NOTE -->
+                <div style="
+                        margin-top:25px;
+                        padding:12px 14px;
+                        border-radius:11px;
+                        background:#f5f9fa;
+                        border:1px solid #e7eef1;
+                        color:#8095a4;
+                        font-size:9px;
+                        line-height:1.6;
+                        text-align:center;
+                    ">
+                    Demo environment · Frontend authentication only
+                </div>
+
+            </div>
+
+        </section>
+
+    </main>
+
+
+    <!-- APPLICATION SCRIPT -->
+    <script src="script.js"></script>
+
+</body>
+
+</html>
